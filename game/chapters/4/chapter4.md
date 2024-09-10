@@ -1,198 +1,3 @@
-image bg parlor:
-size (950,650) yalign 0.5 xalign 0.5
-"chapters/4/images/scratchsparlor.png"
-
-image bg chessboard:
-size (950,650) yalign 0.5 xalign 0.5
-"chapters/4/images/chessboard.png"
-
-image bg chessboard_vrisgone:
-size (950,650) yalign 0.5 xalign 0.5
-"chapters/4/images/chessboard_vrisgone.png"
-
-image bg chessboard_glitch:
-size (950,650) yalign 0.5 xalign 0.5
-"chapters/4/images/chessboard.png"
-pause 0.2
-choice:
-glitch("bg chessboard", offset=60, chroma=True, randomkey=413)
-choice:
-glitch("bg chessboard", offset=60, chroma=True, randomkey=0)
-choice:
-glitch("bg chessboard", offset=60, chroma=True, randomkey=2202)
-choice:
-glitch("bg chessboard", offset=60, chroma=True, randomkey=8888)
-pause 0.1
-"chapters/4/images/chessboard.png"
-repeat 5
-
-image bg chessboard_vrisgone_glitch:
-size (950,650) yalign 0.5 xalign 0.5
-"chapters/4/images/chessboard_vrisgone.png"
-pause 0.2
-choice:
-glitch("bg chessboard_vrisgone", offset=60, chroma=True, randomkey=413)
-choice:
-glitch("bg chessboard_vrisgone", offset=60, chroma=True, randomkey=2202)
-choice:
-glitch("bg chessboard_vrisgone", offset=60, chroma=True, randomkey=0)
-choice:
-glitch("bg chessboard_vrisgone", offset=60, chroma=True, randomkey=8888)
-pause 0.1
-"chapters/4/images/chessboard_vrisgone.png"
-repeat
-
-image bg level_complete_4:
-size (950,650) yalign 0.5 xalign 0.5
-"chapters/4/images/level_complete_1.png"
-pause 0.05
-"chapters/4/images/level_complete_2.png"
-pause 0.05
-"chapters/4/images/level_complete_3.png"
-pause 0.05
-"chapters/4/images/level_complete_4.png"
-pause 0.05
-repeat
-
-image glitch_box:
-size (950,650) yalign 0.5 xalign 0.5
-"chapters/4/images/glitch_box_00000.png"
-pause 0.067
-"chapters/4/images/glitch_box_00001.png"
-pause 0.067
-"chapters/4/images/glitch_box_00002.png"
-pause 0.067
-"chapters/4/images/glitch_box_00003.png"
-pause 0.067
-"chapters/4/images/glitch_box_00004.png"
-pause 0.067
-"chapters/4/images/glitch_box_00005.png"
-pause 0.067
-"chapters/4/images/glitch_box_00006.png"
-pause 0.067
-"chapters/4/images/glitch_box_00007.png"
-pause 0.067
-"chapters/4/images/glitch_box_00008.png"
-pause 0.067
-"chapters/4/images/glitch_box_00009.png"
-pause 0.067
-"chapters/4/images/glitch_box_00010.png"
-pause 0.067
-"chapters/4/images/glitch_box_00011.png"
-pause 0.067
-"chapters/4/images/glitch_box_00012.png"
-pause 0.067
-"chapters/4/images/glitch_box_00013.png"
-pause 0.067
-"chapters/4/images/glitch_box_00014.png"
-pause 0.067
-"chapters/4/images/glitch_box_00015.png"
-pause 0.1
-"chapters/4/images/glitch_box_00016.png"
-pause 0.067
-"chapters/4/images/glitch_box_00017.png"
-
-image exactly:
-"chapters/4/images/Exactly_0000.png"
-pause 0.045
-"chapters/4/images/Exactly_0001.png"
-pause 0.045
-"chapters/4/images/Exactly_0002.png"
-pause 0.045
-"chapters/4/images/Exactly_0003.png"
-pause 0.045
-"chapters/4/images/Exactly_0004.png"
-pause 0.045
-"chapters/4/images/Exactly_0005.png"
-pause 0.045
-"chapters/4/images/Exactly_0006.png"
-pause 0.045
-"chapters/4/images/Exactly_0007.png"
-pause 0.045
-"chapters/4/images/Exactly_0008.png"
-pause 0.045
-"chapters/4/images/Exactly_0009.png"
-pause 0.045
-"chapters/4/images/Exactly_0010.png"
-pause 0.045
-"chapters/4/images/Exactly_0011.png"
-pause 0.045
-"chapters/4/images/Exactly_0012.png"
-pause 0.045
-"chapters/4/images/Exactly_0013.png"
-pause 0.045
-"chapters/4/images/Exactly_0014.png"
-pause 0.045
-"chapters/4/images/Exactly_0015.png"
-pause 0.045
-"chapters/4/images/Exactly_0016.png"
-pause 0.045
-"chapters/4/images/Exactly_0017.png"
-pause 0.045
-"chapters/4/images/Exactly_0018.png"
-pause 0.045
-"chapters/4/images/Exactly_0019.png"
-pause 0.045
-"chapters/4/images/Exactly_0020.png"
-pause 0.045
-"chapters/4/images/Exactly_0021.png"
-pause 0.045
-"chapters/4/images/Exactly_0022.png"
-pause 0.045
-"chapters/4/images/Exactly_0023.png"
-pause 0.045
-repeat
-
-image umber = Solid("#a15000")
-image burgandy = Solid("#a10000")
-image teal = Solid("#008282")
-image red = Solid("#ff0000")
-image purple = Solid("#4200b0")
-image blue = Solid("#0022cf")
-image green = Solid("#008141")
-
-transform stop_move:
-xoffset 0
-
-transform jerkRight:
-ease 1.0 xalign 1.0
-transform jerkLeft:
-ease 1.0 xalign 0.0
-transform jerkHalfLeft:
-ease 0.5 xalign 0.0
-
-transform returnToCenter:
-ease 0.5 xalign 0.5 yalign 1.0
-
-transform returnToCenterSlow:
-xoffset 0
-ease 2.0 xalign 0.5 yalign 1.0
-
-transform lightshake:
-linear 0.05 xoffset 10
-linear 0.05 xoffset -10
-repeat 2
-
-transform shrink:
-ease 0.5 xalign 0.2
-easeout 1.5 xoffset 100 zoom 0 alpha 0
-
-transform unshrink:
-alpha 1.0
-zoom 1.0
-
-image vriska_glow:
-xoffset 20
-"chapters/4/characters/vriska/vriska_sullen_crying_eye.png"
-matrixcolor BrightnessMatrix(1.0)
-
-transform pulse:
-alpha 0.0
-block:
-ease 1.0 alpha 0.0
-ease 2.5 alpha 1.0
-
-
 # chapter4_prologue
 <p class="vriska">VRISKA: Whew.</p>
 <p class="vriska">VRISKA: Long day.</p>
@@ -254,11 +59,7 @@ ease 2.5 alpha 1.0
 <p class="vriska">VRISKA (adult neutral): Look, I'm just gonna go ahead and do this thing.</p>
 <p class="erisolsprite">ERISOLSPRITE: ok wwell fuck u2 for tryiin ii gue22, havve fun gettiing traumatiized.</p>
 <p class="vriska">VRISKA: I'm not gonna get traumatized!</p>
-menu:
 "{plain}[pick] {/plain}[command]":
-pause 0.5
-jump chapter4
-
 # chapter4
 <p class="doc_scratch">DOC_SCRATCH: Well, well.</p>
 <p class="doc_scratch">DOC_SCRATCH: Isn't this a perfectly predictable inevitability?</p>
@@ -304,11 +105,7 @@ jump chapter4
 <p class="doc_scratch">DOC_SCRATCH: I missed that fumbling braggadocio. It's heartening to know that this place hasn't cured you of it yet.</p>
 <p class="doc_scratch">DOC_SCRATCH: It makes you so much fun to play with.</p>
 pause
-menu:
 "{color=#2CFF4B}{{o} ==>{/color}":
-pause 0.5
-
-
 <p class="vriska">VRISKA: Hey, what the fuck?!</p>
 
 
@@ -317,7 +114,6 @@ pause 0.5
 
 
 box "{color=#2CFF4B}WHAT WILL YOU DO{/color}{w=0.1}"
-pause 2.0
 <p class="doc_scratch">DOC_SCRATCH: Oh no. We won't be needing that.</p>
 <p class="doc_scratch">DOC_SCRATCH: Let's get you into your uniform.</p>
 
@@ -334,8 +130,6 @@ pause 2.0
 <p class="doc_scratch">DOC_SCRATCH: Thief to E4; Thief takes Page.</p>
 
 
-pause 0.50001
-pause 0.01
 <p class="vriska">VRISKA: Fuck you!</p>
 
 
@@ -343,16 +137,12 @@ pause 0.01
 
 
 
-pause 1.00001
-pause 0.01
 <p class="vriska">VRISKA: Stop it!</p>
 
 <p class="doc_scratch">DOC_SCRATCH: Thief to Z8; Thief takes Seer.</p>
 
 
 
-pause 1.00001
-pause 0.01
 <p class="vriska">VRISKA: Fucking ST8P 8T!!!!!!!!</p>
 <p class="vriska">VRISKA: Z8 ISN'T EVEN A F8CKING P8SITION, YOU HACK!!!!!!!</p>
 
@@ -362,16 +152,12 @@ pause 0.01
 
 
 
-pause 1.00001
-pause 0.01
 <p class="vriska">VRISKA: ST8P IT!</p>
 
 
 <p class="doc_scratch">DOC_SCRATCH: Thief to µ22; Thief takes pawn.</p>
 
 
-pause 1.00001
-pause 0.01
 <p class="vriska">VRISKA: F8CK YOU!</p>
 
 
@@ -379,15 +165,11 @@ pause 0.01
 
 
 
-pause 1.00001
-pause 0.01
 <p class="vriska">VRISKA: I'LL F8CKING K8LL YOU!</p>
 
 <p class="doc_scratch">DOC_SCRATCH: Thief to Ω413; Thief takes pawn. Check.</p>
 
 
-pause 1.00001
-pause 0.01
 <p class="vriska">VRISKA: YOU'LL 8E SORRY FOR THIS!</p>
 <p class="vriska">VRISKA: YOU'LL 8E F8CKING SORRY!</p>
 <p class="vriska">VRISKA: YOU'RE A CHEAP FUCKING KARMA GHOST,</p>
@@ -455,22 +237,15 @@ pause 0.01
 <p class="doc_scratch">DOC_SCRATCH: What'll it be, Vriska? Player, or piece?</p>
 <p class="doc_scratch">DOC_SCRATCH: Thief to ∞108.</p>
 
-pause 0.1
-
 xalign 0.5 yalign 1.0
 alpha 0.0
-pause 0.5
 xalign 0.5 yalign 1.0
 pulse
 
 
-pause 1.5
 alpha 0.0
-pause 1.5
 ease 2.0 alpha 1.0
 
-
-pause 3.0
 
 DOC_SCRATCH_end "I look forward to finding out."
 DOC_SCRATCH_end "Good luck."
@@ -479,11 +254,8 @@ DOC_SCRATCH_end "Good luck."
 
 
 with Dissolve(3.0)
-pause 3.0
-
 <p class="erisolsprite">ERISOLSPRITE: oh you totally got traumatiized.</p>
 
-menu:
 "{plain}[pick] {/plain}[command]":
 pause
 iled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,25 +1,3 @@
-init python:
-build.archive("chapter3", "all")
-build.classify('game/chapters/3/**', 'chapter3')
-
-image bg spidermom_pit:
-size (950,650) yalign 0.5 xalign 0.5
-"chapters/3/images/spidermom_pit.png"
-
-image bg web:
-size (950,650) yalign 0.5 xalign 0.5
-"chapters/3/images/web.png"
-
-image bg level_complete_3:
-size (950,650) yalign 0.5 xalign 0.5
-"chapters/3/images/level_complete_1.png"
-pause 0.05
-"chapters/3/images/level_complete_2.png"
-pause 0.05
-"chapters/3/images/level_complete_3.png"
-pause 0.05
-repeat
-
 # chapter3_prologue
 
 "YEAR 4" (window_yalign=0.5, window_yoffset=0, window_xsize=150, window_ysize=75, window_ypos=0.5)
@@ -95,16 +73,9 @@ repeat
 <p class="vriska">VRISKA: Woah, getting crazy now.</p>
 <p class="nannasprite">NANNASPRITE: Tee hee! <;B</p>
 <p class="vriska">VRISKA: <33333333</p>
-menu:
 "{plain}[pick] {/plain}[command]":
-pause 0.5
-jump chapter3
-
 # chapter3
-menu:
 "{plain}[pick] {/plain}[command]":
-pause 0.5
-
 <p class="mindmom">MINDMOM: The girl was thrown into emptiness.</p>
 <p class="mindmom">MINDMOM: Despite the darkness, the space wasn't foreign. The way the moons hung in the sky, the sound of the waves as they crashed, the 8reeze, these were all familiar sens8tions.</p>
 <p class="mindmom">MINDMOM: As was the figure 8efore her. Though she had only ever seen it 8ehind her eyes, its form was shaped 8y words.</p>
@@ -244,7 +215,6 @@ pause
 <p class="mindmom">MINDMOM (silhouette): And the girl would not turn around to see if she had.</p>
 <p class="mindmom">MINDMOM (silhouette): The 8ound cover was closed on our trusted narr8tor, as she whispered these final words.</p>
 <p class="mindmom">MINDMOM (silhouette): “Good luck, Vriska.\n8e assured, you will need it.”</p>
-menu:
 "{plain}[pick] {/plain}[command]":
 pause
 iled by unrpyc: https://github.com/CensoredUsername/unrpyc

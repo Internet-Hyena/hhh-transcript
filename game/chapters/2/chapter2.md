@@ -1,39 +1,3 @@
-init python:
-build.archive("chapter2", "all")
-build.classify('game/chapters/2/**', 'chapter2')
-
-renpy.music.register_channel("sfx", mixer="sfx")
-
-image bg lomat:
-size (950,650) yalign 0.5 xalign 0.5
-"chapters/2/images/lomat.png"
-
-image bg questcocoon:
-size (950,650) yalign 0.5 xalign 0.5
-"chapters/2/images/questcocoon.png"
-
-image c2p1:
-xalign 0.0 yalign 0.0
-"chapters/2/images/panel1.png"
-
-image c2p2:
-xalign 0.0 yalign 0.0
-"chapters/2/images/panel2.png"
-
-image c2p3:
-xalign 0.0 yalign 0.0
-"chapters/2/images/panel3.png"
-
-image bg level_complete_2:
-size (950,650) yalign 0.5 xalign 0.5
-"chapters/2/images/level_complete_1.png"
-pause 0.05
-"chapters/2/images/level_complete_2.png"
-pause 0.05
-"chapters/2/images/level_complete_3.png"
-pause 0.05
-repeat
-
 # chapter2
 
 
@@ -90,7 +54,6 @@ box "What will you do?"
 <p class="vriska">VRISKA: Fiiiiiiiine.</p>
 
 <p class="vriska">VRISKA (neutral): I'm already here, might as well knock another option off the list I GUESS.</p>
-menu:
 "{plain}[pick] {/plain}[command]":
 <p class="tavros">TAVROS: yAY!</p>
 <p class="vriska">VRISKA: I won........</p>
@@ -251,9 +214,7 @@ menu:
 <p class="vriska">VRISKA (neutral): It's soooooooo o8vious now, that was pretty fucking stupid of me. There was nothing I could have done to change your mind, huh?</p>
 <p class="aradiabot">ARADIABOT: exactly</p>
 <p class="aradiabot">ARADIABOT: y0ure finally starting t0 get it</p>
-menu:
 "{plain}[pick] {/plain}[command]":
-pause 0.5
 <p class="vriska">VRISKA: !!!!!!!!</p>
 <p class="vriska">VRISKA: Where the hell am I?</p>
 <p class="vriska">VRISKA: Tavros????????</p>
@@ -399,9 +360,7 @@ biggestBox "WHAT WILL YOU DO?" with Shake((0, 0, 0, 0), 2.0, dist=30)
 <p class="vriska">VRISKA: ........</p>
 <p class="vriska">VRISKA (sad): ........ ok.</p>
 <p class="vriska">VRISKA (neutral): Ok.</p>
-menu:
 "{plain}[pick] {/plain}[command]":
-menu:
 "{plain}[pick] {/plain}[command]":
 <p class="vriska">VRISKA: I know it doesn't change anything, 8ecause it already happened and also you two aren't even real.</p>
 <p class="vriska">VRISKA: 8ut I am actually sorry. For everything.</p>
@@ -410,7 +369,6 @@ menu:
 <p class="tavros">TAVROS: yOURE RIGHT, iT'S DEFINITELY POINTLESS TO SAY, bUT, iT IS AN APPRECI8TED GESTURE };)</p>
 
 
-menu:
 "{plain}[pick] {/plain}[command]":
 <p class="vriska">VRISKA: And, it's not going to 8e the same again.</p>
 <p class="vriska">VRISKA: I'll stick with it this time. I promise.</p>
@@ -430,7 +388,6 @@ menu:
 <p class="aradia">ARADIA: i h0pe y0u get better s00n</p>
 
 
-menu:
 "{plain}[pick] {/plain}[command]":
 pause
 iled by unrpyc: https://github.com/CensoredUsername/unrpyc

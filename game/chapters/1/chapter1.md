@@ -1,59 +1,3 @@
-init python:
-build.archive("chapter1", "all")
-build.classify('game/chapters/1/**', 'chapter1')
-
-image c1p1f1:
-size (950,650)
-xalign 0.5 yalign 0.0
-nearest True
-"chapters/1/images/panel1_1.png"
-
-image c1p1f2:
-size (950,650)
-xalign 0.5 yalign 0.0
-nearest True
-"chapters/1/images/panel1_2.png"
-
-image c1p1:
-contains:
-"c1p1f1"
-contains:
-"c1p1f2"
-alpha 0.0
-linear 0.25 alpha 1.0
-linear 0.25 alpha 0.0
-repeat
-image c1p2:
-xalign 0.0 yalign 0.0
-"chapters/1/images/panel2_1.png"
-pause (0.05)
-"chapters/1/images/panel2_2.png"
-pause (0.05)
-repeat
-image c1p3:
-xalign 1.0 yalign 1.0
-"chapters/1/images/panel3.png"
-image c1p4:
-zoom 1.5
-nearest True
-xalign 0.5 yalign 1.0
-"chapters/1/images/panel4.png"
-image c1p5:
-zoom 1.5
-nearest True
-xalign 0.5 yalign 1.0
-"chapters/1/images/panel5.png"
-image c1p6:
-zoom 1.5
-nearest True
-yoffset -50
-xalign 0.5 yalign 0.0
-"chapters/1/images/panel6.png"
-
-image c1end:
-yalign 0.0
-"chapters/1/images/end.png"
-
 # chapter1
 
 
@@ -161,7 +105,6 @@ box "What will you do?"
 
 
 <p class="vriska">VRISKA: Fuck, that was a good one... this character growth shit is hard.</p>
-menu:
 "{plain}[pick] {/plain}[command]":
 <p class="vriska">VRISKA (gt sad): ...I'm sorry I said your lusus \"smelled like tears\".</p>
 box "What will you do?"
@@ -291,7 +234,6 @@ box "What will you do?"
 <p class="vriska">VRISKA (gt angry): Hey get 8ack here!</p>
 <p class="tavros">TAVROS (nervous): nO!</p>
 linear .1 xzoom -1.0
-pause .25
 <p class="vriska">VRISKA (gt angry): Stop running!</p>
 <p class="tavros">TAVROS: nO, i LOVE TO RUN AND, i DO NOT PLAN ON STOPPING, aNY TIME SOON,</p> (window_xoffset=0)
 
@@ -305,35 +247,18 @@ pause .25
 <p class="vriska">VRISKA (gt smug): Man, doing the right thing sure is hard work.</p>
 
 <p class="vriska">VRISKA: I didn't want to do this, Tavros, 8ut you're forcing my hand here. I won't make the same mistake again.</p>
-menu:
 "{plain}[pick] {/plain}[command]":
-menu:
 "{plain}[pick] {/plain}[command]":
 
 <p class="vriska">VRISKA: Good luck.</p> (what_xalign=0.5, what_yalign=0.5, what_textalign=0.5, window_xoffset=0)
 
-menu:
 "{plain}[pick] {/plain}[command]":
-pause 0.5
-
-menu:
 "{plain}[pick] {/plain}[command]":
-pause 0.5
-
-menu:
 "{plain}[pick] {/plain}[command]":
-pause 0.5
-
-
 <p class="tavros">TAVROS: uHH, oH SHUCKS, bYE VRISKA,</p> (what_xalign=0.5, what_yalign=0.5, what_textalign=0.5, window_xoffset=0)
 
-menu:
 "{plain}[pick] {/plain}[command]":
-pause 0.5
-
 "You are now Vriska, and like any good Main Character, you find yourself on the precipice of an all too familiar Beach.\n\nWhat will you do?"
-
-jump chapter1_end
 
 # chapter1_end
 
