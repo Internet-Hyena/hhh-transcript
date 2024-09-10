@@ -1,13 +1,14 @@
 # chapter1
 
+![The grassy cliff outside Tavros's hive.](../../images/tavroscliff.png)
 
-"You are now Vriska, and like any good Main Character, you find yourself on the precipice of an all too familiar cliff."
+You are now Vriska, and like any good Main Character, you find yourself on the precipice of an all too familiar cliff.
 
 <p class="vriska">VRISKA: Wow, hell was right.</p>
 
 <p class="vriska">VRISKA: You h8 to see it.</p>
 
-> "What will you do?"
+What will you do?
 
 <p class="vriska">VRISKA (gt angry): What do you MEAN what will I do????????</p>
 
@@ -74,8 +75,7 @@
 <p class="vriska">VRISKA: I'm sorry I killed you.</p>
 <p class="tavros">TAVROS: dID YOU DO THAT,</p>
 
-> "What will you do?"
-
+What will you do?
 
 <p class="vriska">VRISKA (gt idle): </p>
 
@@ -275,7 +275,7 @@
 
 ### \>  {==>}
 
-![](./images/end.png)
+![Vriska, back at the beach outside her hive.](./images/end.png)
 
 > "You are now Vriska, and like any good Main Character, you find yourself on the precipice of an all too familiar Beach.
 > 
@@ -284,6 +284,8 @@
 # chapter1_end
 
 "YEAR 2"
+
+![Vriska's bedroom.](../../images/vriskaroom.png)
 
 <p class="davepetasprite">DAVEPETASPRITE: *dp pads through the underbrush of the forest, leaving paw prints after themselves in the freshly fallen snow*</p>
 <p class="davepetasprite">DAVEPETASPRITE: *their ears twitch cutely with every step they take beclaws as perfect a creature as they are cats are still too fucking stupid to invent proper p33ts protectors*</p>
