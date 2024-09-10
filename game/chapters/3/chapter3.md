@@ -180,7 +180,7 @@
 <p class="mindmom">MINDMOM: Another dead end.</p>
 <p class="vriska">VRISKA: Fine, fuck!</p>
 <p class="vriska">VRISKA (adult angry): JUST LET M8 GET 8UT FROM UNDER Y8U, THEN! L8T ME 8E MY OWN F8CKING PERSON, F8R ONCE!!!!!!!!</p>
-box "What will you do?"
+> "What will you do?"
 
 <p class="vriska">VRISKA: ........</p>
 <p class="mindmom">MINDMOM: “HUNGRY.”</p>

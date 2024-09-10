@@ -105,8 +105,9 @@
 <p class="doc_scratch">DOC_SCRATCH: Exquisite.</p>
 <p class="doc_scratch">DOC_SCRATCH: I missed that fumbling braggadocio. It's heartening to know that this place hasn't cured you of it yet.</p>
 <p class="doc_scratch">DOC_SCRATCH: It makes you so much fun to play with.</p>
-pause
-"{color=#2CFF4B}{{o} ==>{/color}":
+
+# \> {o} ==>
+
 <p class="vriska">VRISKA: Hey, what the fuck?!</p>
 
 
@@ -114,7 +115,8 @@ pause
 <p class="doc_scratch">DOC_SCRATCH: Now then, why don't we have ourselves a little game?</p>
 
 
-box "{color=#2CFF4B}WHAT WILL YOU DO{/color}{w=0.1}"
+> WHAT WILL YOU DO
+
 <p class="doc_scratch">DOC_SCRATCH: Oh no. We won't be needing that.</p>
 <p class="doc_scratch">DOC_SCRATCH: Let's get you into your uniform.</p>
 

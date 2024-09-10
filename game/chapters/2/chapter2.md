@@ -50,7 +50,7 @@
 
 <p class="tavros">TAVROS (neutral): uNLESS YOU WERE DOING THAT THING, wHERE YOU TELL ME A THING, tHAT IS UNTRUE,</p>
 <p class="tavros">TAVROS: AGAIN,</p>
-box "What will you do?"
+> "What will you do?"
 
 
 <p class="vriska">VRISKA: Fiiiiiiiine.</p>
@@ -237,7 +237,8 @@ box "What will you do?"
 <p class="aradiabot">ARADIABOT: because shut up</p>
 <p class="aradiabot">ARADIABOT: shut up is h0w</p>
 <p class="vriska">VRISKA: Ruuuuuuuude. 8ut honestly, I'm so happy to see a new face that I'm not even mad a8out it.</p>
-box "What will you do?"
+
+> "What will you do?"
 
 <p class="vriska">VRISKA: That said... if I was confused 8efore, now I'm really lost.</p>
 <p class="vriska">VRISKA: Shouldn't we 8e 8ack at your hive, with me on my knees telling you I wished I never killed you or something?</p>
@@ -278,16 +279,18 @@ box "What will you do?"
 
 <p class="vriska">VRISKA (mind control): And that means the usual rules don't 8pply right? Who needs to sit around arguing when I can M8KE YOU C8RE!</p>
 <p class="aradiabot">ARADIABOT: why are y0u hesitating?</p>
-box "What will you do?" with Shake((0, 0, 0, 0), 1.0, dist=5)
+
+> (shaking) "What will you do?"
 
 <p class="aradiabot">ARADIABOT: this is the 0nly way right?</p>
-bigBox "What will you do?" with Shake((0, 0, 0, 0), 1.3, dist=10)
+
+> (big) "What will you do?"
 
 <p class="aradiabot">ARADIABOT: this is h0w y0u win</p>
-biggerBox "What will you do?" with Shake((0, 0, 0, 0), 1.5, dist=20)
+> (bigger shaking) "What will you do?"
 
 <p class="aradiabot">ARADIABOT: d0 it</p>
-biggestBox "WHAT WILL YOU DO?" with Shake((0, 0, 0, 0), 2.0, dist=30)
+> (biggest shaking) "WHAT WILL YOU DO?"
 
 
 <p class="vriska">VRISKA: D8MN IT!</p>
@@ -375,24 +378,19 @@ biggestBox "WHAT WILL YOU DO?" with Shake((0, 0, 0, 0), 2.0, dist=30)
 
 <p class="tavros">TAVROS: yOURE RIGHT, iT'S DEFINITELY POINTLESS TO SAY, bUT, iT IS AN APPRECI8TED GESTURE };)</p>
 
-
 ### \>  {==>}
 <p class="vriska">VRISKA: And, it's not going to 8e the same again.</p>
 <p class="vriska">VRISKA: I'll stick with it this time. I promise.</p>
-
 
 <p class="aradia">ARADIA: we kn0w</p>
 <p class="aradia">ARADIA: y0u have t0</p>
 <p class="aradia">ARADIA: n0 0ne else is g0ing t0 save y0u n0w</p>
 
-
 <p class="vriska">VRISKA: 8ecause it's just me left?</p>
-
 
 <p class="aradia">ARADIA: yes</p>
 <p class="aradia">ARADIA: its just y0u</p>
 <p class="aradia">ARADIA: g00d luck vriska</p>
 <p class="aradia">ARADIA: i h0pe y0u get better s00n</p>
-
 
 ### \>  {Level Complete!}

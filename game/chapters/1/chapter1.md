@@ -6,8 +6,8 @@
 <p class="vriska">VRISKA: Wow, hell was right.</p>
 
 <p class="vriska">VRISKA: You h8 to see it.</p>
-box "What will you do?"
 
+> "What will you do?"
 
 <p class="vriska">VRISKA (gt angry): What do you MEAN what will I do????????</p>
 
@@ -73,7 +73,8 @@ box "What will you do?"
 <p class="tavros">TAVROS (smiling): hI THAT'S ME, i THINK,</p>
 <p class="vriska">VRISKA: I'm sorry I killed you.</p>
 <p class="tavros">TAVROS: dID YOU DO THAT,</p>
-box "What will you do?"
+
+> "What will you do?"
 
 
 <p class="vriska">VRISKA (gt idle): </p>
@@ -94,21 +95,23 @@ box "What will you do?"
 
 <p class="vriska">VRISKA: Hey Tavros, I'm sorry I made you an accomplice to a really awesome assassination that I got my ass kicked for, 8ut then I 8ecame a god so 8asically it was the right thing to do.</p>
 <p class="tavros">TAVROS (smiling eyesclosed): ...</p>
-box "What will you do?"
+
+> "What will you do?"
 
 
 <p class="vriska">VRISKA (gt thinking): No dice, huh? Okay, try this one on for size!</p>
 
 <p class="vriska">VRISKA: I'm sorry I kissed you and then used mind control to make you try and love me that one time. That one's on me.</p>
 <p class="tavros">TAVROS (smiling): ...</p>
-box "What will you do?"
+
+> "What will you do?"
 
 
 <p class="vriska">VRISKA: Fuck, that was a good one... this character growth shit is hard.</p>
 
 ### \>  {Hours later, but not many.}
 <p class="vriska">VRISKA (gt sad): ...I'm sorry I said your lusus \"smelled like tears\".</p>
-box "What will you do?"
+> "What will you do?"
 
 <p class="vriska">VRISKA (gt angry): FUCK!!!!!!!!</p>
 
@@ -133,7 +136,7 @@ box "What will you do?"
 <p class="vriska">VRISKA (gt idle): ...</p>
 
 <p class="vriska">VRISKA (gt idle): ...</p>
-box "What will you do?"
+> "What will you do?"
 
 
 <p class="vriska">VRISKA: Damn it. Well even if that doesn't solve this puzzle, 8y some happenstantial miracle it's still true.</p>
