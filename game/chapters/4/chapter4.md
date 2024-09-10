@@ -202,170 +202,170 @@ play music "chapters/4/audio/erisol.wav" fadein 1.0 volume 0.5 loop
 
 
 show vriska adult neutral onlayer talksprites at left with slideinleft
-VRISKA "Whew."
-VRISKA "Long day."
+<p class="vriska">VRISKA: Whew.</p>
+<p class="vriska">VRISKA: Long day.</p>
 hide vriska with slideoutleft
 
 
 show gcatav mischievous onlayer talksprites at right with slideinright
-GCATAV "mAYBE, yOU SHOULD TAKE A BREAK, fROM ALL THE TOTALLY AWESOME PERSONAL BREAKTHROUGHS YOU ARE HAVING,"
-GCATAV "aND KICK IT WITH ME AND ERISOL FOR A WHILE,"
+<p class="gcatav">GCATAV: mAYBE, yOU SHOULD TAKE A BREAK, fROM ALL THE TOTALLY AWESOME PERSONAL BREAKTHROUGHS YOU ARE HAVING,</p>
+<p class="gcatav">GCATAV: aND KICK IT WITH ME AND ERISOL FOR A WHILE,</p>
 hide gcatav with slideoutright
 
 
 show erisolsprite neutral onlayer talksprites at right with slideinright
-ERISOLSPRITE "yeah, you kiinda look liike 2hiit."
+<p class="erisolsprite">ERISOLSPRITE: yeah, you kiinda look liike 2hiit.</p>
 hide erisolsprite with slideoutright
 
 
 show vriska adult smiling onlayer talksprites at left with slideinleft
-VRISKA "Says Scarfshades McLopsided."
+<p class="vriska">VRISKA: Says Scarfshades McLopsided.</p>
 hide vriska with slideoutleft
 
 
 show erisolsprite neutral onlayer talksprites at right with slideinright
-ERISOLSPRITE "2ay2 the bu2ted a22 biitch wweariin the 2ame raggedy jacket 2he2 wworn 2iince wwe wwere liike fiivve."
+<p class="erisolsprite">ERISOLSPRITE: 2ay2 the bu2ted a22 biitch wweariin the 2ame raggedy jacket 2he2 wworn 2iince wwe wwere liike fiivve.</p>
 hide erisolsprite with slideoutright
 
 
 show vriska adult smiling onlayer talksprites at left with slideinleft
-VRISKA "Says the guy who literally can't change his clothes."
+<p class="vriska">VRISKA: Says the guy who literally can't change his clothes.</p>
 hide vriska with slideoutleft
 
 
 show erisolsprite neutral onlayer talksprites at right with slideinright
-ERISOLSPRITE "ii cant be held accountable for my dii2cordant cla22-2wwag diichotomy, but here you are a 2wweep and a half deep iin a per2onally taiilored realm of 2elf-reflectiion and you 2tiill choo2e twwo look liike thii2."
+<p class="erisolsprite">ERISOLSPRITE: ii cant be held accountable for my dii2cordant cla22-2wwag diichotomy, but here you are a 2wweep and a half deep iin a per2onally taiilored realm of 2elf-reflectiion and you 2tiill choo2e twwo look liike thii2.</p>
 hide erisolsprite with slideoutright
 
 
 show vriska adult smiling onlayer talksprites at left with slideinleft
-VRISKA "Heh."
+<p class="vriska">VRISKA: Heh.</p>
 hide vriska with slideoutleft
 
 
 show erisolsprite smirking onlayer talksprites at right with slideinright
-ERISOLSPRITE "heh."
-ERISOLSPRITE neutral "anyway, come chiill."
+<p class="erisolsprite">ERISOLSPRITE: heh.</p>
+<p class="erisolsprite">ERISOLSPRITE (neutral): anyway, come chiill.</p>
 hide erisolsprite with slideoutright
 
 
 show gcatav mischievous onlayer talksprites at right with slideinright
-GCATAV "oR, iNSTEAD OF CHILLING,"
-GCATAV mischievous "wE COULD THROW AROUND A BALL OF YARN, oR SOMETHING ELSE VISUALLY STIMULATING, tHAT MIMICS MY PREFERRED QUARRY OF SMALL ANIMALS I COULD KILL FOR FUN AND NOT EAT,"
-GCATAV mischievous "aND I COULD CHASE IT WITH MY LEGS,"
-GCATAV mischievous "tHAT AREN'T LEGS, aND ARE ACTUALLY A GHOST TAIL,"
-GCATAV mischievous "wHICH REALLY HAS NO BEARING ON MY ABILITY TO MOVE AT ALL,"
-GCATAV mischievous "aNYWAY,"
-GCATAV mischievous "tHE IMPORTANT THING, iS THAT YOU SHOULD PROBABLY GET SOME R AND R,"
-GCATAV mischievous "aND ALSO HAVE A VERY VIGOROUS PLAYTIME SESH, wITH THE BOYS,"
-GCATAV mischievous "aND MAYBE GET WICKED PRANKED ON,"
-GCATAV mischievous "sO YOU DON'T BURN OUT,"
-GCATAV mischievous "}:3"
-GCATAV sneeze "aCHOO!"
+<p class="gcatav">GCATAV: oR, iNSTEAD OF CHILLING,</p>
+<p class="gcatav">GCATAV (mischievous): wE COULD THROW AROUND A BALL OF YARN, oR SOMETHING ELSE VISUALLY STIMULATING, tHAT MIMICS MY PREFERRED QUARRY OF SMALL ANIMALS I COULD KILL FOR FUN AND NOT EAT,</p>
+<p class="gcatav">GCATAV (mischievous): aND I COULD CHASE IT WITH MY LEGS,</p>
+<p class="gcatav">GCATAV (mischievous): tHAT AREN'T LEGS, aND ARE ACTUALLY A GHOST TAIL,</p>
+<p class="gcatav">GCATAV (mischievous): wHICH REALLY HAS NO BEARING ON MY ABILITY TO MOVE AT ALL,</p>
+<p class="gcatav">GCATAV (mischievous): aNYWAY,</p>
+<p class="gcatav">GCATAV (mischievous): tHE IMPORTANT THING, iS THAT YOU SHOULD PROBABLY GET SOME R AND R,</p>
+<p class="gcatav">GCATAV (mischievous): aND ALSO HAVE A VERY VIGOROUS PLAYTIME SESH, wITH THE BOYS,</p>
+<p class="gcatav">GCATAV (mischievous): aND MAYBE GET WICKED PRANKED ON,</p>
+<p class="gcatav">GCATAV (mischievous): sO YOU DON'T BURN OUT,</p>
+<p class="gcatav">GCATAV (mischievous): }:3</p>
+<p class="gcatav">GCATAV (sneeze): aCHOO!</p>
 hide gcatav with slideoutright
 
 
 show erisolsprite neutral onlayer talksprites at right with slideinright
-ERISOLSPRITE "dude, 2neeze iintwwo your fuckin 2houlder or 2omethiing."
-ERISOLSPRITE neutral "arent you done beiin allergiic twwo your2elf?"
+<p class="erisolsprite">ERISOLSPRITE: dude, 2neeze iintwwo your fuckin 2houlder or 2omethiing.</p>
+<p class="erisolsprite">ERISOLSPRITE (neutral): arent you done beiin allergiic twwo your2elf?</p>
 hide erisolsprite with slideoutright
 
 
 show gcatav mischievous onlayer talksprites at right with slideinright
-GCATAV "i MEAN,"
-GCATAV mischievous "*sNIFF*"
-GCATAV mischievous "i FEEL LIKE i'M DOING PRETTY GOOD, oN THE NOT BEING ALLERGIC TO MYSELF FRONT,"
-GCATAV mischievous "cOMPARED TO BEFORE,"
-GCATAV mischievous "cONSIDERING THAT i HAVE A BUILT-IN MAGICAL AUTOIMMUNE DISORDER WHICH i HAVE NEVERTHELESS MOSTLY TRIUMPHED OVER, dUE TO MY VAST WILLPOWER, aND ALSO BECAUSE EVERYONE YELLED AT ME,"
-GCATAV sneeze "aCHOO!"
+<p class="gcatav">GCATAV: i MEAN,</p>
+<p class="gcatav">GCATAV (mischievous): *sNIFF*</p>
+<p class="gcatav">GCATAV (mischievous): i FEEL LIKE i'M DOING PRETTY GOOD, oN THE NOT BEING ALLERGIC TO MYSELF FRONT,</p>
+<p class="gcatav">GCATAV (mischievous): cOMPARED TO BEFORE,</p>
+<p class="gcatav">GCATAV (mischievous): cONSIDERING THAT i HAVE A BUILT-IN MAGICAL AUTOIMMUNE DISORDER WHICH i HAVE NEVERTHELESS MOSTLY TRIUMPHED OVER, dUE TO MY VAST WILLPOWER, aND ALSO BECAUSE EVERYONE YELLED AT ME,</p>
+<p class="gcatav">GCATAV (sneeze): aCHOO!</p>
 hide gcatav with slideoutright
 
 
 show vriska adult neutral onlayer talksprites at left with slideinleft
-VRISKA "As tempting as it sounds to stick around and shoot the shit for a while, I think..."
-VRISKA "I think I need to keep going."
-VRISKA adult smiling "I'm kind of on a roll here. Gotta strike while the iron is hot!"
+<p class="vriska">VRISKA: As tempting as it sounds to stick around and shoot the shit for a while, I think...</p>
+<p class="vriska">VRISKA: I think I need to keep going.</p>
+<p class="vriska">VRISKA (adult smiling): I'm kind of on a roll here. Gotta strike while the iron is hot!</p>
 hide vriska with slideoutleft
 
 
 show gcatav subdued onlayer talksprites at right with slideinright
-GCATAV "iS THE IRON, iN THE FIRE,"
+<p class="gcatav">GCATAV: iS THE IRON, iN THE FIRE,</p>
 hide gcatav with slideoutright
 
 
 show vriska adult angry smiling onlayer talksprites at left with slideinleft
-VRISKA "You fucking know it is!"
+<p class="vriska">VRISKA: You fucking know it is!</p>
 hide vriska with slideoutleft
 
 
 show gcatav subdued onlayer talksprites at right with slideinright
-GCATAV "tHAT'S COOL,"
-GCATAV subdued "iT'S JUST THAT eRISOL AND i HAVE BEEN SORT OF TALKING IT OVER,"
-GCATAV subdued "aND IT KIND OF FEELS LIKE THE FIRE IS ABOUT TO GET REALLY REALLY HOT,"
-GCATAV subdued "aND MAYBE SPENDING TOO MUCH TIME IN THE FIRE IS GOING TO MAKE YOUR IRON KIND OF MELTED AND FLACCID AND SHITTY, iNSTEAD OF USEFUL, iN THE BLACKSMITHING SENSE THAT'S RELEVANT TO THIS METAPHOR,"
-GCATAV subdued "*sNIFF*"
+<p class="gcatav">GCATAV: tHAT'S COOL,</p>
+<p class="gcatav">GCATAV (subdued): iT'S JUST THAT eRISOL AND i HAVE BEEN SORT OF TALKING IT OVER,</p>
+<p class="gcatav">GCATAV (subdued): aND IT KIND OF FEELS LIKE THE FIRE IS ABOUT TO GET REALLY REALLY HOT,</p>
+<p class="gcatav">GCATAV (subdued): aND MAYBE SPENDING TOO MUCH TIME IN THE FIRE IS GOING TO MAKE YOUR IRON KIND OF MELTED AND FLACCID AND SHITTY, iNSTEAD OF USEFUL, iN THE BLACKSMITHING SENSE THAT'S RELEVANT TO THIS METAPHOR,</p>
+<p class="gcatav">GCATAV (subdued): *sNIFF*</p>
 hide gcatav with slideoutright
 
 
 show erisolsprite neutral onlayer talksprites at right with slideinright
-ERISOLSPRITE "yeah."
+<p class="erisolsprite">ERISOLSPRITE: yeah.</p>
 hide erisolsprite with slideoutright
 
 
 show vriska adult neutral onlayer talksprites at left with slideinleft
-VRISKA "Whaaaaaaaat?"
-VRISKA adult neutral "No way."
-VRISKA adult smiling "These irons are always, always fired."
+<p class="vriska">VRISKA: Whaaaaaaaat?</p>
+<p class="vriska">VRISKA (adult neutral): No way.</p>
+<p class="vriska">VRISKA (adult smiling): These irons are always, always fired.</p>
 hide vriska with slideoutleft
 
 
 show gcatav subdued onlayer talksprites at right with slideinright
-GCATAV "wELL, yEAH,"
-GCATAV subdued "aND HISTORICALLY SPEAKING-"
+<p class="gcatav">GCATAV: wELL, yEAH,</p>
+<p class="gcatav">GCATAV (subdued): aND HISTORICALLY SPEAKING-</p>
 hide gcatav with slideoutright
 
 
 show vriska adult neutral onlayer talksprites at left with slideinleft
-VRISKA "Oh 8lah 8lah 8lah, don't 8e such a pussy."
+<p class="vriska">VRISKA: Oh 8lah 8lah 8lah, don't 8e such a pussy.</p>
 hide vriska with slideoutleft
 
 
 show gcatav subdued onlayer talksprites at right with slideinright
-GCATAV "i LITERALLY CAN'T NOT BE A CAT,"
+<p class="gcatav">GCATAV: i LITERALLY CAN'T NOT BE A CAT,</p>
 hide gcatav with slideoutright
 
 
 show vriska adult neutral onlayer talksprites at left with slideinleft
-VRISKA "You know what I mean."
-VRISKA adult smiling "I've just gotta get in there and make this shit happen."
-VRISKA adult proud "I pretty much AM the fire!"
-VRISKA adult neutral "How 8ad could it even 8e?"
+<p class="vriska">VRISKA: You know what I mean.</p>
+<p class="vriska">VRISKA (adult smiling): I've just gotta get in there and make this shit happen.</p>
+<p class="vriska">VRISKA (adult proud): I pretty much AM the fire!</p>
+<p class="vriska">VRISKA (adult neutral): How 8ad could it even 8e?</p>
 hide vriska with slideoutleft
 
 
 show gcatav subdued still onlayer talksprites at right with slideinright
-GCATAV ",,,"
+<p class="gcatav">GCATAV: ,,,</p>
 hide gcatav with slideoutright
 
 
 show erisolsprite neutral still onlayer talksprites at right with slideinright
-ERISOLSPRITE "..."
+<p class="erisolsprite">ERISOLSPRITE: ...</p>
 hide erisolsprite with slideoutright
 
 
 show vriska adult neutral still onlayer talksprites at left with slideinleft
-VRISKA "........"
-VRISKA adult neutral "Look, I'm just gonna go ahead and do this thing."
+<p class="vriska">VRISKA: ........</p>
+<p class="vriska">VRISKA (adult neutral): Look, I'm just gonna go ahead and do this thing.</p>
 hide vriska with slideoutleft
 
 
 show erisolsprite neutral onlayer talksprites at right with slideinright
-ERISOLSPRITE "ok wwell fuck u2 for tryiin ii gue22, havve fun gettiing traumatiized."
+<p class="erisolsprite">ERISOLSPRITE: ok wwell fuck u2 for tryiin ii gue22, havve fun gettiing traumatiized.</p>
 hide erisolsprite with slideoutright
 
 
 show vriska adult angry onlayer talksprites at left with slideinleft
-VRISKA "I'm not gonna get traumatized!"
+<p class="vriska">VRISKA: I'm not gonna get traumatized!</p>
 hide vriska with slideoutleft
 
 $ command = "{{ENTER SCRATCH'S PARLOR}"
@@ -382,105 +382,105 @@ $ scratch = True
 play music "chapters/4/audio/scrA.ogg" fadein 1.0 volume 0.5 loop
 scene bg parlor with Dissolve(3.0)
 show doc_scratch onlayer talksprites at right with slideinright
-DOC_SCRATCH "Well, well."
-DOC_SCRATCH "Isn't this a perfectly predictable inevitability?"
-DOC_SCRATCH "It certainly has been a while, Vriska. You seem to have blossomed nicely."
-DOC_SCRATCH "Care for a piece of candy?"
+<p class="doc_scratch">DOC_SCRATCH: Well, well.</p>
+<p class="doc_scratch">DOC_SCRATCH: Isn't this a perfectly predictable inevitability?</p>
+<p class="doc_scratch">DOC_SCRATCH: It certainly has been a while, Vriska. You seem to have blossomed nicely.</p>
+<p class="doc_scratch">DOC_SCRATCH: Care for a piece of candy?</p>
 hide doc_scratch with slideoutright
 
 
 show vriska adult angry onlayer talksprites at left with slideinleft
-VRISKA adult "Oh fuck your stupid candy, you glo8e-headed little freak."
+<p class="vriska">VRISKA (adult): Oh fuck your stupid candy, you glo8e-headed little freak.</p>
 hide vriska with slideoutleft
 
 
 show doc_scratch onlayer talksprites at right with slideinright
-DOC_SCRATCH "I know for a fact you'd enjoy it, but suit yourself."
+<p class="doc_scratch">DOC_SCRATCH: I know for a fact you'd enjoy it, but suit yourself.</p>
 hide doc_scratch with slideoutright
 
 
 show vriska adult stoic onlayer talksprites at left with slideinleft
-VRISKA adult "Ugh. I had a feeling ages ago that I'd 8e seeing your smug ass again."
+<p class="vriska">VRISKA (adult): Ugh. I had a feeling ages ago that I'd 8e seeing your smug ass again.</p>
 hide vriska with slideoutleft
 
 
 show doc_scratch onlayer talksprites at right with slideinright
-DOC_SCRATCH "The feeling was mutual."
-DOC_SCRATCH "Although it was less the wary hunch of a scared little girl than the delightful certainty that you'd come crawling back to me, sooner or later."
-DOC_SCRATCH "Care to tell me how you've been?"
+<p class="doc_scratch">DOC_SCRATCH: The feeling was mutual.</p>
+<p class="doc_scratch">DOC_SCRATCH: Although it was less the wary hunch of a scared little girl than the delightful certainty that you'd come crawling back to me, sooner or later.</p>
+<p class="doc_scratch">DOC_SCRATCH: Care to tell me how you've been?</p>
 hide doc_scratch with slideoutright
 
 
 show vriska adult angry jaw drop onlayer talksprites at left with slideinleft
-VRISKA adult "What, like you don't know?"
+<p class="vriska">VRISKA (adult): What, like you don't know?</p>
 hide vriska with slideoutleft
 
 
 show doc_scratch onlayer talksprites at right with slideinright
-DOC_SCRATCH "Of course I know. I'm always watching you."
-DOC_SCRATCH "I just figured I'd lend a little weight to the charade of our reintroduction, and allow you a chance to greet me on your own terms."
-DOC_SCRATCH "It's only polite."
+<p class="doc_scratch">DOC_SCRATCH: Of course I know. I'm always watching you.</p>
+<p class="doc_scratch">DOC_SCRATCH: I just figured I'd lend a little weight to the charade of our reintroduction, and allow you a chance to greet me on your own terms.</p>
+<p class="doc_scratch">DOC_SCRATCH: It's only polite.</p>
 hide doc_scratch with slideoutright
 
 
 show vriska adult angry smiling onlayer talksprites at left with slideinleft
-VRISKA adult "You know what?"
-VRISKA adult angry smiling "I've 8een pretty damn good."
-VRISKA adult angry smiling "8een losing track of the sweeps I've spent in here fixing pretty much everything other than the thing I actually came in here to fix, 8ut it's paying off!"
+<p class="vriska">VRISKA (adult): You know what?</p>
+<p class="vriska">VRISKA (adult angry smiling): I've 8een pretty damn good.</p>
+<p class="vriska">VRISKA (adult angry smiling): 8een losing track of the sweeps I've spent in here fixing pretty much everything other than the thing I actually came in here to fix, 8ut it's paying off!</p>
 hide vriska with slideoutleft
 
 
 show doc_scratch onlayer talksprites at right with slideinright
-DOC_SCRATCH "There's a convenient timer for the express purpose of tracking that."
+<p class="doc_scratch">DOC_SCRATCH: There's a convenient timer for the express purpose of tracking that.</p>
 hide doc_scratch with slideoutright
 
 
 show vriska adult angry onlayer talksprites at left with slideinleft
-VRISKA adult "Yeah, and I never look at it 8ecause it pisses me off!"
-VRISKA adult angry smiling "8ut it's fine."
-VRISKA adult angry smiling "It just means I've had a lot of time to think stuff over."
-VRISKA adult angry smiling "Stuff that was holding me 8ack, throwing me off-course."
-VRISKA adult angry smiling "Things way more consequential than the 8a8y gru8shit pan-games you used to play with me."
-VRISKA adult angry smiling "Honestly, I should 8e surprised to even see you here!"
-VRISKA adult angry smiling "Really, all you were doing is sticking your stupid flat face into my REAL 8aggage."
+<p class="vriska">VRISKA (adult): Yeah, and I never look at it 8ecause it pisses me off!</p>
+<p class="vriska">VRISKA (adult angry smiling): 8ut it's fine.</p>
+<p class="vriska">VRISKA (adult angry smiling): It just means I've had a lot of time to think stuff over.</p>
+<p class="vriska">VRISKA (adult angry smiling): Stuff that was holding me 8ack, throwing me off-course.</p>
+<p class="vriska">VRISKA (adult angry smiling): Things way more consequential than the 8a8y gru8shit pan-games you used to play with me.</p>
+<p class="vriska">VRISKA (adult angry smiling): Honestly, I should 8e surprised to even see you here!</p>
+<p class="vriska">VRISKA (adult angry smiling): Really, all you were doing is sticking your stupid flat face into my REAL 8aggage.</p>
 hide vriska with slideoutleft
 
 
 show doc_scratch onlayer talksprites at right with slideinright
-DOC_SCRATCH "I like to think that I'm far and away the most prolific contributor to your baggage."
+<p class="doc_scratch">DOC_SCRATCH: I like to think that I'm far and away the most prolific contributor to your baggage.</p>
 hide doc_scratch with slideoutright
 
 
 show vriska adult angry onlayer talksprites at left with slideinleft
-VRISKA adult "You wish!"
-VRISKA adult angry smiling "Man, I figured may8e this place was working up to something really intense, 8ut instead all I get is Glo8ehead the Gru8toucher playing puppetmaster again."
+<p class="vriska">VRISKA (adult): You wish!</p>
+<p class="vriska">VRISKA (adult angry smiling): Man, I figured may8e this place was working up to something really intense, 8ut instead all I get is Glo8ehead the Gru8toucher playing puppetmaster again.</p>
 show vriska at tremble, left
-VRISKA adult angry smiling "What a joke!"
-VRISKA adult angry smiling "You fucked with a 8unch of little kids and 8lew up, then you LOST."
-VRISKA adult angry smiling "You could 8arely handle me when I was six, I'm supposed to 8e scared of you NOW?"
+<p class="vriska">VRISKA (adult angry smiling): What a joke!</p>
+<p class="vriska">VRISKA (adult angry smiling): You fucked with a 8unch of little kids and 8lew up, then you LOST.</p>
+<p class="vriska">VRISKA (adult angry smiling): You could 8arely handle me when I was six, I'm supposed to 8e scared of you NOW?</p>
 hide vriska with slideoutleft
 
 
 show doc_scratch onlayer talksprites at right with slideinright
-DOC_SCRATCH "Well, you're shaking."
+<p class="doc_scratch">DOC_SCRATCH: Well, you're shaking.</p>
 hide doc_scratch with slideoutright
 
 show vriska adult angry onlayer talksprites at shake, left with slideinleft
-VRISKA "THE F8CK I AM!!!!!!!!"
-VRISKA adult angry smiling "Shaking with excitement to get you in my rear-view, may8e!"
-VRISKA adult angry smiling "What is it YOU'RE supposed to teach me?"
-VRISKA adult angry smiling "How to 8e a creepy little pedophile?"
-VRISKA adult angry smiling "How to dress and talk like a fucking tool?"
-VRISKA adult stoic "C'mon!"
-VRISKA adult stoic "Teach me a lesson!"
-VRISKA adult angry "F8cking 8RING IT, you 8ald-ass 8ITCH!!!!!!!!"
+<p class="vriska">VRISKA: THE F8CK I AM!!!!!!!!</p>
+<p class="vriska">VRISKA (adult angry smiling): Shaking with excitement to get you in my rear-view, may8e!</p>
+<p class="vriska">VRISKA (adult angry smiling): What is it YOU'RE supposed to teach me?</p>
+<p class="vriska">VRISKA (adult angry smiling): How to 8e a creepy little pedophile?</p>
+<p class="vriska">VRISKA (adult angry smiling): How to dress and talk like a fucking tool?</p>
+<p class="vriska">VRISKA (adult stoic): C'mon!</p>
+<p class="vriska">VRISKA (adult stoic): Teach me a lesson!</p>
+<p class="vriska">VRISKA (adult angry): F8cking 8RING IT, you 8ald-ass 8ITCH!!!!!!!!</p>
 hide vriska with slideoutleft
 
 
 show doc_scratch onlayer talksprites at right with slideinright
-DOC_SCRATCH "Exquisite."
-DOC_SCRATCH "I missed that fumbling braggadocio. It's heartening to know that this place hasn't cured you of it yet."
-DOC_SCRATCH "It makes you so much fun to play with."
+<p class="doc_scratch">DOC_SCRATCH: Exquisite.</p>
+<p class="doc_scratch">DOC_SCRATCH: I missed that fumbling braggadocio. It's heartening to know that this place hasn't cured you of it yet.</p>
+<p class="doc_scratch">DOC_SCRATCH: It makes you so much fun to play with.</p>
 hide doc_scratch with slideoutright
 
 stop music fadeout 0.5
@@ -752,7 +752,7 @@ with Dissolve(3.0)
 pause 3.0
 
 show erisolsprite smirking onlayer talksprites at right with slideinright
-ERISOLSPRITE "oh you totally got traumatiized."
+<p class="erisolsprite">ERISOLSPRITE: oh you totally got traumatiized.</p>
 
 hide vriska with slideoutleft
 hide erisolsprite with slideoutright
