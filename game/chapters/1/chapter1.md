@@ -31,7 +31,7 @@
 
 <p class="vriska">VRISKA (gt thinking): This is o8viously some sort of trial.</p>
 
-<p class="vriska">VRISKA: Cleeeeeeeearly I'm 8eing faced with the ghosts of my past and I have to \"sort it out\" or some horse shit.</p>
+<p class="vriska">VRISKA: Cleeeeeeeearly I'm 8eing faced with the ghosts of my past and I have to "sort it out" or some horse shit.</p>
 
 <p class="vriska">VRISKA: Thanks for the guidance, Nepadave, or whoever the literal hell.</p>
 
@@ -85,7 +85,7 @@
 <p class="tavros">TAVROS (nervous): uM VRISKA DID-</p>
 <p class="vriska">VRISKA (gt angry): Ugh!!!!!!!!</p>
 
-<p class="vriska">VRISKA (gt thinking): What did they mean \"sort it out,\" then? I feel fine a8out killing Tavros, and he's certainly ok with it now. The situation's sorted!</p>
+<p class="vriska">VRISKA (gt thinking): What did they mean "sort it out," then? I feel fine a8out killing Tavros, and he's certainly ok with it now. The situation's sorted!</p>
 <p class="tavros">TAVROS (smiling): iS THAT TRUE,</p>
 <p class="vriska">VRISKA: It's completely sorted!</p>
 
@@ -110,7 +110,7 @@
 <p class="vriska">VRISKA: Fuck, that was a good one... this character growth shit is hard.</p>
 
 ### \>  {Hours later, but not many.}
-<p class="vriska">VRISKA (gt sad): ...I'm sorry I said your lusus \"smelled like tears\".</p>
+<p class="vriska">VRISKA (gt sad): ...I'm sorry I said your lusus "smelled like tears".</p>
 > "What will you do?"
 
 <p class="vriska">VRISKA (gt angry): FUCK!!!!!!!!</p>
@@ -164,7 +164,7 @@
 <p class="vriska">VRISKA: What we need is action.</p>
 <p class="tavros">TAVROS (nervous): i THINK MAYBE, tHAT,</p>
 
-<p class="tavros">TAVROS: dOING uHH, \"ACTIONS,\"</p>
+<p class="tavros">TAVROS: dOING uHH, "ACTIONS,"</p>
 
 <p class="tavros">TAVROS: mIGHT BE ONE OF THE THINGS, tHAT YOU FEEL, lIKE YOU DID WRONG</p>
 
@@ -305,7 +305,7 @@
 <p class="vriska">VRISKA: Isn't it o8vious how excited I am?</p>
 <p class="vriska">VRISKA: 8anging my head against a wall for several hours is practically my daily medit8tion now.</p>
 
-<p class="vriska">VRISKA (angry): \"Purrhaps\" today will 8e the day I finally give myself a deep enough pan lesion that my neurons will reset and I can finally understand what I'm supposed to 8e doing here.</p>
+<p class="vriska">VRISKA (angry): "Purrhaps" today will 8e the day I finally give myself a deep enough pan lesion that my neurons will reset and I can finally understand what I'm supposed to 8e doing here.</p>
 <p class="vriska">VRISKA: Finally moving on FROM THIS 8ORING M8ND NUM8ING SHIIIIIIITTY PUNISHM8NT PIT.</p>
 <p class="davepetasprite">DAVEPETASPRITE: wrow</p>
 <p class="vriska">VRISKA: Sigh.</p>
@@ -328,7 +328,7 @@
 
 <p class="davepetasprite">DAVEPETASPRITE (neutral): you know what they say theres purrppets and then theres pawppet33rs</p>
 <p class="davepetasprite">DAVEPETASPRITE: and both mew selves rather be on the yarn strings</p>
-<p class="davepetasprite">DAVEPETASPRITE: so alot of my thoughts on how to come back from all your bullshit begins and ends at \"i simply would not have done that in the first place\"</p>
+<p class="davepetasprite">DAVEPETASPRITE: so alot of my thoughts on how to come back from all your bullshit begins and ends at "i simply would not have done that in the first place"</p>
 
 <p class="davepetasprite">DAVEPETASPRITE (pokerface): no judgment of course</p>
 

@@ -1,7 +1,7 @@
 # chapter2
 
 
-### \>  {Select \"FLARP BOOK\"}
+### \>  {Select "FLARP BOOK"}
 
 <p class="vriska">VRISKA: ........</p>
 <p class="tavros">TAVROS: oH,</p>
