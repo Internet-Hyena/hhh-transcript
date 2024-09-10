@@ -4,28 +4,43 @@
 
 You are now Vriska, and like any good Main Character, you find yourself on the precipice of an all too familiar cliff.
 
+![Vriska in her godtier robes](./characters/vriska/gt/vriska_gt_neutral.webp)
+
 <p class="vriska">VRISKA: Wow, hell was right.</p>
 
 <p class="vriska">VRISKA: You h8 to see it.</p>
 
 What will you do?
 
+![Vriska hunched over in anger](./characters/vriska/gt/vriska_gt_angry.webp)
+
 <p class="vriska">VRISKA (gt angry): What do you MEAN what will I do????????</p>
 
 <p class="vriska">VRISKA: Davepeta, is that you?</p>
 
+![Vriska scratching her chin](./characters/vriska/gt/vriska_gt_thinking.webp)
+
 <p class="vriska">VRISKA (gt thinking): ...</p>
+
+![Vriska smiling and shrugging](./characters/vriska/gt/vriska_gt_smug.webp)
 
 <p class="vriska">VRISKA (gt smug): Wow once again it falls to me to figure all this shit out in any sort of meaningful way.</p>
 
 <p class="vriska">VRISKA (gt idle): ...</p>
 
 <p class="vriska">VRISKA (gt angry): And why the fuck is Tavros here!!!!!!!!</p>
+
+![Tavros](./characters/tavros/tavros_neutral.webp)
+
 <p class="tavros">TAVROS: i PROBABLY DON'T, uHH, WANT TO QUESTION, yOUR METHODS</p>
+
+![Tavros](./characters/tavros/tavros_nervous.webp)
 
 <p class="tavros">TAVROS (nervous): aND MAYBE, iF THERE WERE A BRAVER VERSION, oF ME, hERE, HE MIGHT SAY, tHAT UM, iT'S BECAUSE USUALLY, tHAT MAKES YOU MAD</p>
 
 <p class="tavros">TAVROS: bUT SINCE THERE ISN'T, a VERSION OF ME LIKE THAT HERE, i GUESS IT'S BECAUSE I, uHH</p>
+
+![Tavros](./characters/tavros/tavros_smiling.webp)
 
 <p class="tavros">TAVROS (smiling): lIVE HERE MOSTLY,</p>
 <p class="vriska">VRISKA: Shut the fuck up Tavros!</p>
