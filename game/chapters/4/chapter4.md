@@ -501,11 +501,11 @@ pause 0.5
 
 $ smol_textbox = True
 
-VRISKA_center "Hey, what the fuck?!"
+<p class="vriska">VRISKA: Hey, what the fuck?!</p>
 
 
-DOC_SCRATCH_center "There we are."
-DOC_SCRATCH_center "Now then, why don't we have ourselves a little game?"
+<p class="doc_scratch">DOC_SCRATCH: There we are.</p>
+<p class="doc_scratch">DOC_SCRATCH: Now then, why don't we have ourselves a little game?</p>
 
 
 box "{color=#2CFF4B}WHAT WILL YOU DO{/color}{w=0.1}"
@@ -517,23 +517,23 @@ pause 2.0
 scene bg chessboard
 
 hide glitch_box
-DOC_SCRATCH_center "Oh no. We won't be needing that."
-DOC_SCRATCH_center "Let's get you into your uniform."
+<p class="doc_scratch">DOC_SCRATCH: Oh no. We won't be needing that.</p>
+<p class="doc_scratch">DOC_SCRATCH: Let's get you into your uniform.</p>
 
 
 
 show vriska v4 disgusted onlayer talksprites at center, unshrink
 scene bg chessboard_vrisgone
-VRISKA_center "........"
+<p class="vriska">VRISKA: ........</p>
 
-DOC_SCRATCH_center "Ah, and there she is. My favorite piece."
+<p class="doc_scratch">DOC_SCRATCH: Ah, and there she is. My favorite piece.</p>
 
 show vriska v4 frustrated onlayer talksprites at shake, center
-VRISKA_center "I'm not your piece!"
+<p class="vriska">VRISKA: I'm not your piece!</p>
 
 
-DOC_SCRATCH_center "We'll start with a variation of the King's Pawn opening."
-DOC_SCRATCH_center "Thief to E4; Thief takes Page."
+<p class="doc_scratch">DOC_SCRATCH: We'll start with a variation of the King's Pawn opening.</p>
+<p class="doc_scratch">DOC_SCRATCH: Thief to E4; Thief takes Page.</p>
 
 
 show vriska v4 frustrated onlayer talksprites at jerkHalfLeft
@@ -545,10 +545,10 @@ pause 0.01
 hide umber onlayer screens with Dissolve(1.0)
 
 
-VRISKA_center "Fuck you!"
+<p class="vriska">VRISKA: Fuck you!</p>
 
 
-DOC_SCRATCH_center "Thief to F5; Thief takes Maid."
+<p class="doc_scratch">DOC_SCRATCH: Thief to F5; Thief takes Maid.</p>
 
 
 
@@ -560,9 +560,9 @@ show vriska v4 exploded blood2 at lightshake
 pause 0.01
 hide burgandy onlayer screens with Dissolve(1.0)
 
-VRISKA_center "Stop it!"
+<p class="vriska">VRISKA: Stop it!</p>
 
-DOC_SCRATCH_center "Thief to Z8; Thief takes Seer."
+<p class="doc_scratch">DOC_SCRATCH: Thief to Z8; Thief takes Seer.</p>
 
 
 
@@ -574,12 +574,12 @@ show vriska v4 exploded blood3 at lightshake
 pause 0.01
 hide teal onlayer screens with Dissolve(1.0)
 
-VRISKA_center "Fucking ST8P 8T!!!!!!!!"
-VRISKA_center "Z8 ISN'T EVEN A F8CKING P8SITION, YOU HACK!!!!!!!"
+<p class="vriska">VRISKA: Fucking ST8P 8T!!!!!!!!</p>
+<p class="vriska">VRISKA: Z8 ISN'T EVEN A F8CKING P8SITION, YOU HACK!!!!!!!</p>
 
 
-DOC_SCRATCH_center "All the world's my board."
-DOC_SCRATCH_center "Thief to ∫40; Thief takes pawn."
+<p class="doc_scratch">DOC_SCRATCH: All the world's my board.</p>
+<p class="doc_scratch">DOC_SCRATCH: Thief to ∫40; Thief takes pawn.</p>
 
 
 
@@ -591,10 +591,10 @@ show vriska v4 exploded blood4 at lightshake
 pause 0.01
 hide purple onlayer screens with Dissolve(1.0)
 
-VRISKA_center "ST8P IT!"
+<p class="vriska">VRISKA: ST8P IT!</p>
 
 
-DOC_SCRATCH_center "Thief to µ22; Thief takes pawn."
+<p class="doc_scratch">DOC_SCRATCH: Thief to µ22; Thief takes pawn.</p>
 
 
 show vriska v4 exploded blood4 onlayer talksprites at jerkLeft
@@ -605,10 +605,10 @@ show vriska v4 exploded blood5 at lightshake
 pause 0.01
 hide blue onlayer screens with Dissolve(1.0)
 
-VRISKA_center "F8CK YOU!"
+<p class="vriska">VRISKA: F8CK YOU!</p>
 
 
-DOC_SCRATCH_center "Thief to α612; Thief takes pawn."
+<p class="doc_scratch">DOC_SCRATCH: Thief to α612; Thief takes pawn.</p>
 
 
 
@@ -621,9 +621,9 @@ pause 0.01
 hide green onlayer screens with Dissolve(1.0)
 
 
-VRISKA_center "I'LL F8CKING K8LL YOU!"
+<p class="vriska">VRISKA: I'LL F8CKING K8LL YOU!</p>
 
-DOC_SCRATCH_center "Thief to Ω413; Thief takes pawn. Check."
+<p class="doc_scratch">DOC_SCRATCH: Thief to Ω413; Thief takes pawn. Check.</p>
 
 
 show vriska v4 exploded blood6 onlayer talksprites at jerkLeft
@@ -633,81 +633,81 @@ play sfx "chapters/4/audio/blood-impact3.ogg" noloop
 show vriska v4 exploded blood7 at lightshake
 pause 0.01
 hide red onlayer screens with Dissolve(1.0)
-VRISKA_center "YOU'LL 8E SORRY FOR THIS!"
-VRISKA_center "YOU'LL 8E F8CKING SORRY!"
-VRISKA_center "YOU'RE A CHEAP FUCKING KARMA GHOST,"
-VRISKA_center "THIS IS A STUPID FUCKING CHARADE,"
-VRISKA_center "NONE OF THIS MEANS SHIT,"
-VRISKA_center "AND I'M NEVER GOING TO 8E CAUGHT UP IN YOUR FUCKING G8MES EVER AGAIN!!!!!!!!"
+<p class="vriska">VRISKA: YOU'LL 8E SORRY FOR THIS!</p>
+<p class="vriska">VRISKA: YOU'LL 8E F8CKING SORRY!</p>
+<p class="vriska">VRISKA: YOU'RE A CHEAP FUCKING KARMA GHOST,</p>
+<p class="vriska">VRISKA: THIS IS A STUPID FUCKING CHARADE,</p>
+<p class="vriska">VRISKA: NONE OF THIS MEANS SHIT,</p>
+<p class="vriska">VRISKA: AND I'M NEVER GOING TO 8E CAUGHT UP IN YOUR FUCKING G8MES EVER AGAIN!!!!!!!!</p>
 
 
 
 show vriska v4 exploded blood7 at tremble
-DOC_SCRATCH_center "Of course you will."
-DOC_SCRATCH_center "You think you're better than me? Better than fate?"
-DOC_SCRATCH_center "Vriska, I am going to put you in situations where you have the potential to do terrible things."
-DOC_SCRATCH_center "I am going to make things ugly."
-DOC_SCRATCH_center "I am going to corner you."
-DOC_SCRATCH_center "I am going to pressure you."
-DOC_SCRATCH_center "And no matter how much “better” you claim to be, all I have to do is catch you at the wrong moment."
-DOC_SCRATCH_center "You're one bad turn from burning all your quaint little progress to the ground."
-DOC_SCRATCH_center "One lapse away from being mine again."
+<p class="doc_scratch">DOC_SCRATCH: Of course you will.</p>
+<p class="doc_scratch">DOC_SCRATCH: You think you're better than me? Better than fate?</p>
+<p class="doc_scratch">DOC_SCRATCH: Vriska, I am going to put you in situations where you have the potential to do terrible things.</p>
+<p class="doc_scratch">DOC_SCRATCH: I am going to make things ugly.</p>
+<p class="doc_scratch">DOC_SCRATCH: I am going to corner you.</p>
+<p class="doc_scratch">DOC_SCRATCH: I am going to pressure you.</p>
+<p class="doc_scratch">DOC_SCRATCH: And no matter how much “better” you claim to be, all I have to do is catch you at the wrong moment.</p>
+<p class="doc_scratch">DOC_SCRATCH: You're one bad turn from burning all your quaint little progress to the ground.</p>
+<p class="doc_scratch">DOC_SCRATCH: One lapse away from being mine again.</p>
 
 show vriska v4 sullen at stop_move
-VRISKA_center "Get me out of here."
-VRISKA_center v4 sullen crying "I want a do-over."
+<p class="vriska">VRISKA: Get me out of here.</p>
+<p class="vriska">VRISKA (v4 sullen crying): I want a do-over.</p>
 
 
-DOC_SCRATCH_center "Oh, please."
-DOC_SCRATCH_center "You of all people should know that you don't *get* do-overs."
-DOC_SCRATCH_center "The rest of these frivolous little vision quests may feel like sparing you the effort of getting things right the first time around, but the real world doesn't work that way."
-DOC_SCRATCH_center "No, you'll just have to endure it. This won't take long."
-DOC_SCRATCH_center "You had a good run out there, flying solo and swashbuckling around as if Light itself were yours to command. "
-DOC_SCRATCH_center "It'd be wise to remember that it's a borrowed blessing."
-DOC_SCRATCH_center "You flourish at its whim."
-DOC_SCRATCH_center "Continue to spit in its face and take it for granted, and it will abandon you once again, perhaps for good."
+<p class="doc_scratch">DOC_SCRATCH: Oh, please.</p>
+<p class="doc_scratch">DOC_SCRATCH: You of all people should know that you don't *get* do-overs.</p>
+<p class="doc_scratch">DOC_SCRATCH: The rest of these frivolous little vision quests may feel like sparing you the effort of getting things right the first time around, but the real world doesn't work that way.</p>
+<p class="doc_scratch">DOC_SCRATCH: No, you'll just have to endure it. This won't take long.</p>
+<p class="doc_scratch">DOC_SCRATCH: You had a good run out there, flying solo and swashbuckling around as if Light itself were yours to command. </p>
+<p class="doc_scratch">DOC_SCRATCH: It'd be wise to remember that it's a borrowed blessing.</p>
+<p class="doc_scratch">DOC_SCRATCH: You flourish at its whim.</p>
+<p class="doc_scratch">DOC_SCRATCH: Continue to spit in its face and take it for granted, and it will abandon you once again, perhaps for good.</p>
 
 show vriska v4 sullen crying
-VRISKA_center "........"
+<p class="vriska">VRISKA: ........</p>
 
 
-DOC_SCRATCH_center "Do you remember who you were, before it chose you?"
-DOC_SCRATCH_center "The choices you made when luck wasn't on your side?"
-DOC_SCRATCH_center "You were such a delectable little victim."
-DOC_SCRATCH_center "Poor Vriska, with her voracious lusus."
-DOC_SCRATCH_center "With her demanding legacy and her uncooperative, fickle little friends."
-DOC_SCRATCH_center "So much was out of your hands, then; how could you help but be my lovely assistant?"
+<p class="doc_scratch">DOC_SCRATCH: Do you remember who you were, before it chose you?</p>
+<p class="doc_scratch">DOC_SCRATCH: The choices you made when luck wasn't on your side?</p>
+<p class="doc_scratch">DOC_SCRATCH: You were such a delectable little victim.</p>
+<p class="doc_scratch">DOC_SCRATCH: Poor Vriska, with her voracious lusus.</p>
+<p class="doc_scratch">DOC_SCRATCH: With her demanding legacy and her uncooperative, fickle little friends.</p>
+<p class="doc_scratch">DOC_SCRATCH: So much was out of your hands, then; how could you help but be my lovely assistant?</p>
 
 show vriska v4 sullen crying eye
-VRISKA_center "You didn't fucking own me."
+<p class="vriska">VRISKA: You didn't fucking own me.</p>
 
 scene bg chessboard_vrisgone_glitch
 play sfx "chapters/4/audio/exactly-scr.ogg" noloop volume 0.75
-DOC_SCRATCH_center "{image=exactly}"
+<p class="doc_scratch">DOC_SCRATCH: {image=exactly}</p>
 stop sfx fadeout 1.0
 scene bg chessboard_vrisgone
 
-DOC_SCRATCH_center "But what matters is that I might as well have."
-DOC_SCRATCH_center "You let yourself believe you had no option other than to take me up on my hard bargains, again and again."
-DOC_SCRATCH_center "For all your talk of independence, all your combative posturing and insistence on your own freedom, you barely bothered to put up any actual resistance to my suggestions."
-DOC_SCRATCH_center "You took the easy way out, swearing all the while it was your move."
-DOC_SCRATCH_center "What a phenomenal waste of your considerable talents."
+<p class="doc_scratch">DOC_SCRATCH: But what matters is that I might as well have.</p>
+<p class="doc_scratch">DOC_SCRATCH: You let yourself believe you had no option other than to take me up on my hard bargains, again and again.</p>
+<p class="doc_scratch">DOC_SCRATCH: For all your talk of independence, all your combative posturing and insistence on your own freedom, you barely bothered to put up any actual resistance to my suggestions.</p>
+<p class="doc_scratch">DOC_SCRATCH: You took the easy way out, swearing all the while it was your move.</p>
+<p class="doc_scratch">DOC_SCRATCH: What a phenomenal waste of your considerable talents.</p>
 
-VRISKA_center "I don't need your compliments."
+<p class="vriska">VRISKA: I don't need your compliments.</p>
 
-DOC_SCRATCH_center "It wasn't a compliment."
-DOC_SCRATCH_center "It was an insult, and a warning."
-DOC_SCRATCH_center "You're a trump card, Vriska, but your potency is a double-edged sword."
-DOC_SCRATCH_center "One you've gotten far too comfortable swinging around, in the past."
-DOC_SCRATCH_center "What do you intend to fix, when you leave this place?"
-DOC_SCRATCH_center "What, I wonder, will you break?"
-DOC_SCRATCH_center "I'd encourage you to be mindful of both."
-DOC_SCRATCH_center "Of course, you could always cast aside those pesky trivialities and go with the flow, smashing through circumstance with nary a thought for the consequences."
-DOC_SCRATCH_center "It'd be easier."
-DOC_SCRATCH_center "We could dance together again, just like old times."
-DOC_SCRATCH_center "You choose."
-DOC_SCRATCH_center "What'll it be, Vriska? Player, or piece?"
-DOC_SCRATCH_center "Thief to ∞108."
+<p class="doc_scratch">DOC_SCRATCH: It wasn't a compliment.</p>
+<p class="doc_scratch">DOC_SCRATCH: It was an insult, and a warning.</p>
+<p class="doc_scratch">DOC_SCRATCH: You're a trump card, Vriska, but your potency is a double-edged sword.</p>
+<p class="doc_scratch">DOC_SCRATCH: One you've gotten far too comfortable swinging around, in the past.</p>
+<p class="doc_scratch">DOC_SCRATCH: What do you intend to fix, when you leave this place?</p>
+<p class="doc_scratch">DOC_SCRATCH: What, I wonder, will you break?</p>
+<p class="doc_scratch">DOC_SCRATCH: I'd encourage you to be mindful of both.</p>
+<p class="doc_scratch">DOC_SCRATCH: Of course, you could always cast aside those pesky trivialities and go with the flow, smashing through circumstance with nary a thought for the consequences.</p>
+<p class="doc_scratch">DOC_SCRATCH: It'd be easier.</p>
+<p class="doc_scratch">DOC_SCRATCH: We could dance together again, just like old times.</p>
+<p class="doc_scratch">DOC_SCRATCH: You choose.</p>
+<p class="doc_scratch">DOC_SCRATCH: What'll it be, Vriska? Player, or piece?</p>
+<p class="doc_scratch">DOC_SCRATCH: Thief to ∞108.</p>
 
 show vriska v4 sullen crying eye onlayer talksprites at returnToCenterSlow
 pause 0.1

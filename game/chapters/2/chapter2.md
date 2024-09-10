@@ -1088,11 +1088,11 @@ menu:
 show c2p2 with Dissolve(3.0)
 
 
-VRISKA_center "I know it doesn't change anything, 8ecause it already happened and also you two aren't even real."
-VRISKA_center "8ut I am actually sorry. For everything."
+<p class="vriska">VRISKA: I know it doesn't change anything, 8ecause it already happened and also you two aren't even real.</p>
+<p class="vriska">VRISKA: 8ut I am actually sorry. For everything.</p>
 
 
-TAVROS_center "yOURE RIGHT, iT'S DEFINITELY POINTLESS TO SAY, bUT, iT IS AN APPRECI8TED GESTURE };)"
+<p class="tavros">TAVROS: yOURE RIGHT, iT'S DEFINITELY POINTLESS TO SAY, bUT, iT IS AN APPRECI8TED GESTURE };)</p>
 
 
 $ command = "{{==>}"
@@ -1101,22 +1101,22 @@ menu:
 show c2p3 with Dissolve(3.0)
 
 
-VRISKA_center "And, it's not going to 8e the same again."
-VRISKA_center "I'll stick with it this time. I promise."
+<p class="vriska">VRISKA: And, it's not going to 8e the same again.</p>
+<p class="vriska">VRISKA: I'll stick with it this time. I promise.</p>
 
 
-ARADIA_center "we kn0w"
-ARADIA_center "y0u have t0"
-ARADIA_center "n0 0ne else is g0ing t0 save y0u n0w"
+<p class="aradia">ARADIA: we kn0w</p>
+<p class="aradia">ARADIA: y0u have t0</p>
+<p class="aradia">ARADIA: n0 0ne else is g0ing t0 save y0u n0w</p>
 
 
-VRISKA_center "8ecause it's just me left?"
+<p class="vriska">VRISKA: 8ecause it's just me left?</p>
 
 
-ARADIA_center "yes"
-ARADIA_center "its just y0u"
-ARADIA_center "g00d luck vriska"
-ARADIA_center "i h0pe y0u get better s00n"
+<p class="aradia">ARADIA: yes</p>
+<p class="aradia">ARADIA: its just y0u</p>
+<p class="aradia">ARADIA: g00d luck vriska</p>
+<p class="aradia">ARADIA: i h0pe y0u get better s00n</p>
 
 
 $ command = "{{Level Complete!}"
