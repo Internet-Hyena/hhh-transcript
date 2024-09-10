@@ -234,7 +234,6 @@ box "What will you do?"
 <p class="tavros">TAVROS (nervous): nO,</p>
 <p class="vriska">VRISKA (gt angry): Hey get 8ack here!</p>
 <p class="tavros">TAVROS (nervous): nO!</p>
-linear .1 xzoom -1.0
 <p class="vriska">VRISKA (gt angry): Stop running!</p>
 <p class="tavros">TAVROS: nO, i LOVE TO RUN AND, i DO NOT PLAN ON STOPPING, aNY TIME SOON,</p> (window_xoffset=0)
 
@@ -331,4 +330,3 @@ linear .1 xzoom -1.0
 <p class="davepetasprite">DAVEPETASPRITE: sure hope thats not true...</p>
 
 <p class="davepetasprite">DAVEPETASPRITE (cute): or well be here furrever!</p>
-iled by unrpyc: https://github.com/CensoredUsername/unrpyc

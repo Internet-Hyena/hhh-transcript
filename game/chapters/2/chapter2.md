@@ -3,11 +3,6 @@
 
 ### \>  {Select \"FLARP BOOK\"}
 
-play music "chapters/1/audio/c1.mp3" fadein 1.0 volume 0.5 loop
-scene bg tavroscliff with Dissolve(2.0)
-
-
-show vriska sad onlayer talksprites at left with slideinleft
 <p class="vriska">VRISKA: ........</p>
 <p class="tavros">TAVROS: oH,</p>
 <p class="tavros">TAVROS: hI VRISKA,</p>
@@ -61,8 +56,6 @@ box "What will you do?"
 <p class="vriska">VRISKA: Fiiiiiiiine.</p>
 
 <p class="vriska">VRISKA (neutral): I'm already here, might as well knock another option off the list I GUESS.</p>
-hide vriska with slideoutleft
-
 
 
 ### \>  {Play game.}
@@ -225,8 +218,6 @@ hide vriska with slideoutleft
 <p class="vriska">VRISKA (neutral): It's soooooooo o8vious now, that was pretty fucking stupid of me. There was nothing I could have done to change your mind, huh?</p>
 <p class="aradiabot">ARADIABOT: exactly</p>
 <p class="aradiabot">ARADIABOT: y0ure finally starting t0 get it</p>
-hide aradiabot with slideoutright
-
 
 
 ### \>  {==>}
@@ -375,10 +366,6 @@ biggestBox "WHAT WILL YOU DO?" with Shake((0, 0, 0, 0), 2.0, dist=30)
 <p class="vriska">VRISKA: ........</p>
 <p class="vriska">VRISKA (sad): ........ ok.</p>
 <p class="vriska">VRISKA (neutral): Ok.</p>
-hide vriska with slideoutleft
-
-show black with Dissolve(1.0)
-scene c2p1 with Dissolve(3.0)
 
 
 ### \>  {Vriska: Take Aradia's hand.}

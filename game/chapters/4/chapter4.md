@@ -59,7 +59,6 @@
 <p class="vriska">VRISKA (adult neutral): Look, I'm just gonna go ahead and do this thing.</p>
 <p class="erisolsprite">ERISOLSPRITE: ok wwell fuck u2 for tryiin ii gue22, havve fun gettiing traumatiized.</p>
 <p class="vriska">VRISKA: I'm not gonna get traumatized!</p>
-hide vriska with slideoutleft
 
 ### \>  {ENTER SCRATCH'S PARLOR}
 # chapter4
@@ -238,15 +237,6 @@ box "{color=#2CFF4B}WHAT WILL YOU DO{/color}{w=0.1}"
 <p class="doc_scratch">DOC_SCRATCH: You choose.</p>
 <p class="doc_scratch">DOC_SCRATCH: What'll it be, Vriska? Player, or piece?</p>
 <p class="doc_scratch">DOC_SCRATCH: Thief to ∞108.</p>
-
-xalign 0.5 yalign 1.0
-alpha 0.0
-xalign 0.5 yalign 1.0
-pulse
-
-
-alpha 0.0
-ease 2.0 alpha 1.0
 
 
 <p class="doc_scratch">DOC_SCRATCH: I look forward to finding out.</p>

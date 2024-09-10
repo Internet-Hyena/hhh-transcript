@@ -73,7 +73,6 @@
 <p class="vriska">VRISKA: Woah, getting crazy now.</p>
 <p class="nannasprite">NANNASPRITE: Tee hee! <;B</p>
 <p class="vriska">VRISKA: <33333333</p>
-hide vriska with slideoutleft
 
 ### \>  {Choose Mindfang's Journal.}
 # chapter3
@@ -217,9 +216,5 @@ pause
 <p class="mindmom">MINDMOM (silhouette): And the girl would not turn around to see if she had.</p>
 <p class="mindmom">MINDMOM (silhouette): The 8ound cover was closed on our trusted narr8tor, as she whispered these final words.</p>
 <p class="mindmom">MINDMOM (silhouette): “Good luck, Vriska.\n8e assured, you will need it.”</p>
-hide mindmom with slideoutright
-play sfx "chapters/3/audio/footsteps.mp3" noloop
-
-
 
 ### \>  {Level Complete!}
