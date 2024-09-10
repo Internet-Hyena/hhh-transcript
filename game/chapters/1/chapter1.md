@@ -253,17 +253,33 @@
 
 ### \>  {Thief: Do the right thing.}
 
+![Vriska holds her head and engages mind control. Her symbol alternates with Tavros's on her forehead.](./images/panel1.webp)
+
 ### \>  {It's really for the 8est.}
+![Tavros stands stunned, arms outstretched, as Vriska's symbol flashes on his forehead.](./images/panel2.webp)
+![Close-up of Tavros's hand, grasping the Cigarette Holder Lance](./images/panel3.png)
 
 <p class="vriska">VRISKA: Good luck.</p>
 
 ### \>  {Adios, Toreador.}
 
+![Tavros arches his arms back...](./images/panel4.png)
+
 ### \>  {==>}
+
+![And impales Vriska using the lance.](./images/panel5.png)
+### \>  {==>}
+![Vriska dead on the ground, blue blood splattered behind her. She is captioned "DEAD."](./images/panel6.png)
+
 <p class="tavros">TAVROS: uHH, oH SHUCKS, bYE VRISKA,</p>
 
 ### \>  {==>}
-"You are now Vriska, and like any good Main Character, you find yourself on the precipice of an all too familiar Beach.\n\nWhat will you do?"
+
+![](./images/end.png)
+
+> "You are now Vriska, and like any good Main Character, you find yourself on the precipice of an all too familiar Beach.
+> 
+> What will you do?"
 
 # chapter1_end
 
