@@ -1,0 +1,9 @@
+# RenPyWeb progressive download rules - first match applies
+# '+' = progressive download, '-' = keep in game.zip (default)
+# See https://www.renpy.org/doc/html/build.html#classifying-and-ignoring-files for matching
+#
+# +/- type path
+#
+# For omitting upcoming chapters in between releases, released chapters will be explicitly
+# kept in the game.zip. A final catchall will export the remaining chapters to the
+# separate game/ directory, which will be omitted from upload.
