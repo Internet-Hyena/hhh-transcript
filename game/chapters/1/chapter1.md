@@ -105,7 +105,8 @@ box "What will you do?"
 
 
 <p class="vriska">VRISKA: Fuck, that was a good one... this character growth shit is hard.</p>
-"{plain}[pick] {/plain}[command]":
+
+### \>  {Hours later, but not many.}
 <p class="vriska">VRISKA (gt sad): ...I'm sorry I said your lusus \"smelled like tears\".</p>
 box "What will you do?"
 
@@ -247,17 +248,19 @@ linear .1 xzoom -1.0
 <p class="vriska">VRISKA (gt smug): Man, doing the right thing sure is hard work.</p>
 
 <p class="vriska">VRISKA: I didn't want to do this, Tavros, 8ut you're forcing my hand here. I won't make the same mistake again.</p>
-"{plain}[pick] {/plain}[command]":
-"{plain}[pick] {/plain}[command]":
+
+### \>  {Thief: Do the right thing.}
+
+### \>  {It's really for the 8est.}
 
 <p class="vriska">VRISKA: Good luck.</p> (what_xalign=0.5, what_yalign=0.5, what_textalign=0.5, window_xoffset=0)
 
-"{plain}[pick] {/plain}[command]":
-"{plain}[pick] {/plain}[command]":
-"{plain}[pick] {/plain}[command]":
+### \>  {Adios, Toreador.}
+
+### \>  {==>}
 <p class="tavros">TAVROS: uHH, oH SHUCKS, bYE VRISKA,</p> (what_xalign=0.5, what_yalign=0.5, what_textalign=0.5, window_xoffset=0)
 
-"{plain}[pick] {/plain}[command]":
+### \>  {==>}
 "You are now Vriska, and like any good Main Character, you find yourself on the precipice of an all too familiar Beach.\n\nWhat will you do?"
 
 # chapter1_end

@@ -59,7 +59,9 @@
 <p class="vriska">VRISKA (adult neutral): Look, I'm just gonna go ahead and do this thing.</p>
 <p class="erisolsprite">ERISOLSPRITE: ok wwell fuck u2 for tryiin ii gue22, havve fun gettiing traumatiized.</p>
 <p class="vriska">VRISKA: I'm not gonna get traumatized!</p>
-"{plain}[pick] {/plain}[command]":
+hide vriska with slideoutleft
+
+### \>  {ENTER SCRATCH'S PARLOR}
 # chapter4
 <p class="doc_scratch">DOC_SCRATCH: Well, well.</p>
 <p class="doc_scratch">DOC_SCRATCH: Isn't this a perfectly predictable inevitability?</p>
@@ -251,11 +253,6 @@ DOC_SCRATCH_end "I look forward to finding out."
 DOC_SCRATCH_end "Good luck."
 
 
-
-
-with Dissolve(3.0)
 <p class="erisolsprite">ERISOLSPRITE: oh you totally got traumatiized.</p>
 
-"{plain}[pick] {/plain}[command]":
-pause
-iled by unrpyc: https://github.com/CensoredUsername/unrpyc
+### \>  {Level Complete!}

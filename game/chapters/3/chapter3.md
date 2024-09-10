@@ -73,9 +73,11 @@
 <p class="vriska">VRISKA: Woah, getting crazy now.</p>
 <p class="nannasprite">NANNASPRITE: Tee hee! <;B</p>
 <p class="vriska">VRISKA: <33333333</p>
-"{plain}[pick] {/plain}[command]":
+hide vriska with slideoutleft
+
+### \>  {Choose Mindfang's Journal.}
 # chapter3
-"{plain}[pick] {/plain}[command]":
+### \>  {????????}
 <p class="mindmom">MINDMOM: The girl was thrown into emptiness.</p>
 <p class="mindmom">MINDMOM: Despite the darkness, the space wasn't foreign. The way the moons hung in the sky, the sound of the waves as they crashed, the 8reeze, these were all familiar sens8tions.</p>
 <p class="mindmom">MINDMOM: As was the figure 8efore her. Though she had only ever seen it 8ehind her eyes, its form was shaped 8y words.</p>
@@ -215,6 +217,9 @@ pause
 <p class="mindmom">MINDMOM (silhouette): And the girl would not turn around to see if she had.</p>
 <p class="mindmom">MINDMOM (silhouette): The 8ound cover was closed on our trusted narr8tor, as she whispered these final words.</p>
 <p class="mindmom">MINDMOM (silhouette): “Good luck, Vriska.\n8e assured, you will need it.”</p>
-"{plain}[pick] {/plain}[command]":
-pause
-iled by unrpyc: https://github.com/CensoredUsername/unrpyc
+hide mindmom with slideoutright
+play sfx "chapters/3/audio/footsteps.mp3" noloop
+
+
+
+### \>  {Level Complete!}

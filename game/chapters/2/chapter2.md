@@ -1,6 +1,13 @@
 # chapter2
 
 
+### \>  {Select \"FLARP BOOK\"}
+
+play music "chapters/1/audio/c1.mp3" fadein 1.0 volume 0.5 loop
+scene bg tavroscliff with Dissolve(2.0)
+
+
+show vriska sad onlayer talksprites at left with slideinleft
 <p class="vriska">VRISKA: ........</p>
 <p class="tavros">TAVROS: oH,</p>
 <p class="tavros">TAVROS: hI VRISKA,</p>
@@ -54,7 +61,11 @@ box "What will you do?"
 <p class="vriska">VRISKA: Fiiiiiiiine.</p>
 
 <p class="vriska">VRISKA (neutral): I'm already here, might as well knock another option off the list I GUESS.</p>
-"{plain}[pick] {/plain}[command]":
+hide vriska with slideoutleft
+
+
+
+### \>  {Play game.}
 <p class="tavros">TAVROS: yAY!</p>
 <p class="vriska">VRISKA: I won........</p>
 <p class="tavros">TAVROS: tHAT,</p>
@@ -214,7 +225,11 @@ box "What will you do?"
 <p class="vriska">VRISKA (neutral): It's soooooooo o8vious now, that was pretty fucking stupid of me. There was nothing I could have done to change your mind, huh?</p>
 <p class="aradiabot">ARADIABOT: exactly</p>
 <p class="aradiabot">ARADIABOT: y0ure finally starting t0 get it</p>
-"{plain}[pick] {/plain}[command]":
+hide aradiabot with slideoutright
+
+
+
+### \>  {==>}
 <p class="vriska">VRISKA: !!!!!!!!</p>
 <p class="vriska">VRISKA: Where the hell am I?</p>
 <p class="vriska">VRISKA: Tavros????????</p>
@@ -360,8 +375,13 @@ biggestBox "WHAT WILL YOU DO?" with Shake((0, 0, 0, 0), 2.0, dist=30)
 <p class="vriska">VRISKA: ........</p>
 <p class="vriska">VRISKA (sad): ........ ok.</p>
 <p class="vriska">VRISKA (neutral): Ok.</p>
-"{plain}[pick] {/plain}[command]":
-"{plain}[pick] {/plain}[command]":
+hide vriska with slideoutleft
+
+show black with Dissolve(1.0)
+scene c2p1 with Dissolve(3.0)
+
+
+### \>  {Vriska: Take Aradia's hand.}
 <p class="vriska">VRISKA: I know it doesn't change anything, 8ecause it already happened and also you two aren't even real.</p>
 <p class="vriska">VRISKA: 8ut I am actually sorry. For everything.</p>
 
@@ -369,7 +389,7 @@ biggestBox "WHAT WILL YOU DO?" with Shake((0, 0, 0, 0), 2.0, dist=30)
 <p class="tavros">TAVROS: yOURE RIGHT, iT'S DEFINITELY POINTLESS TO SAY, bUT, iT IS AN APPRECI8TED GESTURE };)</p>
 
 
-"{plain}[pick] {/plain}[command]":
+### \>  {==>}
 <p class="vriska">VRISKA: And, it's not going to 8e the same again.</p>
 <p class="vriska">VRISKA: I'll stick with it this time. I promise.</p>
 
@@ -388,6 +408,4 @@ biggestBox "WHAT WILL YOU DO?" with Shake((0, 0, 0, 0), 2.0, dist=30)
 <p class="aradia">ARADIA: i h0pe y0u get better s00n</p>
 
 
-"{plain}[pick] {/plain}[command]":
-pause
-iled by unrpyc: https://github.com/CensoredUsername/unrpyc
+### \>  {Level Complete!}
