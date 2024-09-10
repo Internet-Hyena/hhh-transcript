@@ -249,8 +249,8 @@ alpha 0.0
 ease 2.0 alpha 1.0
 
 
-DOC_SCRATCH_end "I look forward to finding out."
-DOC_SCRATCH_end "Good luck."
+<p class="doc_scratch">DOC_SCRATCH: I look forward to finding out.</p>
+<p class="doc_scratch">DOC_SCRATCH: Good luck.</p>
 
 
 <p class="erisolsprite">ERISOLSPRITE: oh you totally got traumatiized.</p>
