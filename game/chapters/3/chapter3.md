@@ -20,7 +20,7 @@ pause 0.05
 pause 0.05
 repeat
 
-label chapter3_prologue:
+# chapter3_prologue
 
 scene black
 
@@ -276,7 +276,7 @@ stop music fadeout 3.0
 pause 0.5
 jump chapter3
 
-label chapter3:
+# chapter3
 $ command = "{{????????}"
 menu:
 "{plain}[pick] {/plain}[command]":

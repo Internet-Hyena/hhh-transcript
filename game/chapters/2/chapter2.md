@@ -34,7 +34,7 @@ pause 0.05
 pause 0.05
 repeat
 
-label chapter2:
+# chapter2
 
 
 $ command = "{{Select \"FLARP BOOK\"}"

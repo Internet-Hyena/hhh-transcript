@@ -193,7 +193,7 @@ ease 1.0 alpha 0.0
 ease 2.5 alpha 1.0
 
 
-label chapter4_prologue:
+# chapter4_prologue
 $ scratch = False
 scene black
 
@@ -376,7 +376,7 @@ stop music fadeout 3.0
 pause 0.5
 jump chapter4
 
-label chapter4:
+# chapter4
 $ scratch = True
 
 play music "chapters/4/audio/scrA.ogg" fadein 1.0 volume 0.5 loop

@@ -54,7 +54,7 @@ image c1end:
 yalign 0.0
 "chapters/1/images/end.png"
 
-label chapter1:
+# chapter1
 
 
 $ quick_menu = True
@@ -667,7 +667,7 @@ $ multipersist.chapter1_complete = True
 $ multipersist.save()
 jump chapter1_end
 
-label chapter1_end:
+# chapter1_end
 
 show white with Dissolve(3.0)
 
