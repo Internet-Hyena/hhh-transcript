@@ -403,4 +403,4 @@ jump chapter1_end
 <p class="davepetasprite">DAVEPETASPRITE: sure hope thats not true...</p>
 
 <p class="davepetasprite">DAVEPETASPRITE (cute): or well be here furrever!</p>
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+iled by unrpyc: https://github.com/CensoredUsername/unrpyc

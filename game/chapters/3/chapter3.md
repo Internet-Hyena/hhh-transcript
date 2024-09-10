@@ -247,4 +247,4 @@ pause
 menu:
 "{plain}[pick] {/plain}[command]":
 pause
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+iled by unrpyc: https://github.com/CensoredUsername/unrpyc
