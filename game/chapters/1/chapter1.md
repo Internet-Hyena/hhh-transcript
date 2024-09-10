@@ -1,7 +1,7 @@
 # chapter1
 
 
-"You are now Vriska, and like any good Main Character, you find yourself on the precipice of an all too familiar cliff." (sfx=None)
+"You are now Vriska, and like any good Main Character, you find yourself on the precipice of an all too familiar cliff."
 
 <p class="vriska">VRISKA: Wow, hell was right.</p>
 
@@ -238,13 +238,13 @@
 <p class="vriska">VRISKA (gt angry): Hey get 8ack here!</p>
 <p class="tavros">TAVROS (nervous): nO!</p>
 <p class="vriska">VRISKA (gt angry): Stop running!</p>
-<p class="tavros">TAVROS: nO, i LOVE TO RUN AND, i DO NOT PLAN ON STOPPING, aNY TIME SOON,</p> (window_xoffset=0)
+<p class="tavros">TAVROS: nO, i LOVE TO RUN AND, i DO NOT PLAN ON STOPPING, aNY TIME SOON,</p>
 
 
 <p class="vriska">VRISKA (gt angry): You kill me right this instant!</p>
 
 <p class="vriska">VRISKA: Damn it, I forgot how fast he used to 8e.</p>
-<p class="tavros">TAVROS: nO!</p> (window_xoffset=0)
+<p class="tavros">TAVROS: nO!</p>
 
 
 <p class="vriska">VRISKA (gt smug): Man, doing the right thing sure is hard work.</p>
@@ -255,23 +255,23 @@
 
 ### \>  {It's really for the 8est.}
 
-<p class="vriska">VRISKA: Good luck.</p> (what_xalign=0.5, what_yalign=0.5, what_textalign=0.5, window_xoffset=0)
+<p class="vriska">VRISKA: Good luck.</p>
 
 ### \>  {Adios, Toreador.}
 
 ### \>  {==>}
-<p class="tavros">TAVROS: uHH, oH SHUCKS, bYE VRISKA,</p> (what_xalign=0.5, what_yalign=0.5, what_textalign=0.5, window_xoffset=0)
+<p class="tavros">TAVROS: uHH, oH SHUCKS, bYE VRISKA,</p>
 
 ### \>  {==>}
 "You are now Vriska, and like any good Main Character, you find yourself on the precipice of an all too familiar Beach.\n\nWhat will you do?"
 
 # chapter1_end
 
-"YEAR 2" (window_yalign=0.5, window_yoffset=0, window_xsize=150, window_ysize=75, window_ypos=0.5)
+"YEAR 2"
 
 <p class="davepetasprite">DAVEPETASPRITE: *dp pads through the underbrush of the forest, leaving paw prints after themselves in the freshly fallen snow*</p>
 <p class="davepetasprite">DAVEPETASPRITE: *their ears twitch cutely with every step they take beclaws as perfect a creature as they are cats are still too fucking stupid to invent proper p33ts protectors*</p>
-<p class="davepetasprite">DAVEPETASPRITE: *they will probably need to get these silly little beans amputated after walking through all this white shit but whatever its fine, at the end of this tail is an important furiend*</p> (what_size=16)
+<p class="davepetasprite">DAVEPETASPRITE: *they will probably need to get these silly little beans amputated after walking through all this white shit but whatever its fine, at the end of this tail is an important furiend*</p>
 <p class="vriska">VRISKA: ...</p>
 <p class="davepetasprite">DAVEPETASPRITE: every year farmers and freaks alike crowd around this curious critter wringing their sweaty boring human hands all nervously hoping for winters end</p>
 <p class="davepetasprite">DAVEPETASPRITE: but this overhyped moles shadow offurs a symbolic appouncement for the spider instead</p>
@@ -280,7 +280,7 @@
 <p class="davepetasprite">DAVEPETASPRITE: its all up to you, spider, to grab this guy by the furry haunches bend him over and nonsexually spank him into submewssion</p>
 
 <p class="davepetasprite">DAVEPETASPRITE (neutral): what will you do vriska?</p>
-<p class="vriska">VRISKA: *The spider doesn't do anything, 8ecause spiders don't have 8rains to make good choices. Instead, we're doomed to crawl around on our 8ellies like idiots, w8ing to 8e crushed under the giant furry ass of an animal so pathetic humans had to make up reasons to care a8out it, and with her luck she'll spend eternity 8uried alive under poop pellets du88ed the pharaoh of trash assholes and praying to die.*</p> (what_size=13)
+<p class="vriska">VRISKA: *The spider doesn't do anything, 8ecause spiders don't have 8rains to make good choices. Instead, we're doomed to crawl around on our 8ellies like idiots, w8ing to 8e crushed under the giant furry ass of an animal so pathetic humans had to make up reasons to care a8out it, and with her luck she'll spend eternity 8uried alive under poop pellets du88ed the pharaoh of trash assholes and praying to die.*</p>
 <p class="davepetasprite">DAVEPETASPRITE: vriskers not to ask an obvious question but</p>
 <p class="davepetasprite">DAVEPETASPRITE: are you good?</p>
 
@@ -299,7 +299,7 @@
 <p class="davepetasprite">DAVEPETASPRITE: trust me im trying!!</p>
 <p class="davepetasprite">DAVEPETASPRITE: my advice is just... a litter bit limited</p>
 
-<p class="davepetasprite">DAVEPETASPRITE (thinking): ask me about mechanics or some dank catnip or even how to stunt down the stairs without breaking every bone in your body and i can chitter your ear off for another couple years</p> (what_size=16)
+<p class="davepetasprite">DAVEPETASPRITE (thinking): ask me about mechanics or some dank catnip or even how to stunt down the stairs without breaking every bone in your body and i can chitter your ear off for another couple years</p>
 <p class="davepetasprite">DAVEPETASPRITE: but countless cool dudes and kitty girls cant inform much on how to handle those classic serket problems</p>
 
 <p class="davepetasprite">DAVEPETASPRITE (pokerface): feel me?</p>
@@ -322,7 +322,7 @@
 <p class="davepetasprite">DAVEPETASPRITE: ok hunting is way different</p>
 <p class="davepetasprite">DAVEPETASPRITE: blood and guts and broken wrists and fractured tailbones</p>
 <p class="davepetasprite">DAVEPETASPRITE: thats nature and instinct it doesnt have to be mean</p>
-<p class="davepetasprite">DAVEPETASPRITE (roleplay): *the fearsome gender neutral lionesster pins down its prey but instead of getting down to business growls out how the prey deserves this for being a big disappointing pussy*</p> (what_size=16)
+<p class="davepetasprite">DAVEPETASPRITE (roleplay): *the fearsome gender neutral lionesster pins down its prey but instead of getting down to business growls out how the prey deserves this for being a big disappointing pussy*</p>
 
 <p class="davepetasprite">DAVEPETASPRITE (uncomfortable): s33 very weird</p>
 

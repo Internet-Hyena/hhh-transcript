@@ -1,6 +1,6 @@
 # chapter3_prologue
 
-"YEAR 4" (window_yalign=0.5, window_yoffset=0, window_xsize=150, window_ysize=75, window_ypos=0.5)
+"YEAR 4"
 
 <p class="nannasprite">NANNASPRITE: Oh there you are!</p>
 <p class="nannasprite">NANNASPRITE: Feeling like you're getting your lucky mojo back again?</p>
