@@ -12,21 +12,21 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 What will you do?
 
-![Vriska hunched over in anger](./characters/vriska/gt/vriska_gt_angry.webp)
-
 <p class="vriska">VRISKA (gt angry): What do you MEAN what will I do????????</p>
 
 <p class="vriska">VRISKA: Davepeta, is that you?</p>
 
-![Vriska scratching her chin](./characters/vriska/gt/vriska_gt_thinking.webp)
+![](./characters/vriska/gt/vriska_gt_thinking.webp)
 
 <p class="vriska">VRISKA (gt thinking): ...</p>
 
-![Vriska smiling and shrugging](./characters/vriska/gt/vriska_gt_smug.webp)
+![](./characters/vriska/gt/vriska_gt_smug.webp)
 
 <p class="vriska">VRISKA (gt smug): Wow once again it falls to me to figure all this shit out in any sort of meaningful way.</p>
 
 <p class="vriska">VRISKA (gt idle): ...</p>
+
+![](./characters/vriska/gt/vriska_gt_angry.webp)
 
 <p class="vriska">VRISKA (gt angry): And why the fuck is Tavros here!!!!!!!!</p>
 
@@ -109,6 +109,9 @@ What will you do?
 <p class="vriska">VRISKA (gt smug): I did a lot of things wrong.</p>
 
 <p class="vriska">VRISKA: Hey Tavros, I'm sorry I made you an accomplice to a really awesome assassination that I got my ass kicked for, 8ut then I 8ecame a god so 8asically it was the right thing to do.</p>
+
+![Tavros smiling with his eyes closed, and shimmying his shoulders.](./characters/tavros/tavros_smiling_eyesclosed.webp)
+
 <p class="tavros">TAVROS (smiling eyesclosed): ...</p>
 
 > "What will you do?"
@@ -121,10 +124,12 @@ What will you do?
 
 > "What will you do?"
 
-
 <p class="vriska">VRISKA: Fuck, that was a good one... this character growth shit is hard.</p>
 
 ### \>  {Hours later, but not many.}
+
+![Vriska, pouting](./characters/vriska/gt/vriska_gt_sad.webp)
+
 <p class="vriska">VRISKA (gt sad): ...I'm sorry I said your lusus "smelled like tears".</p>
 > "What will you do?"
 
@@ -258,9 +263,10 @@ What will you do?
 
 <p class="vriska">VRISKA (gt angry): You kill me right this instant!</p>
 
+[Tavros turns and dashes off.]
+
 <p class="vriska">VRISKA: Damn it, I forgot how fast he used to 8e.</p>
 <p class="tavros">TAVROS: nO!</p>
-
 
 <p class="vriska">VRISKA (gt smug): Man, doing the right thing sure is hard work.</p>
 
@@ -300,11 +306,15 @@ What will you do?
 
 "YEAR 2"
 
-![Vriska's bedroom.](../../images/vriskaroom.png)
+![Vriska's bedroom in her hive.](../../images/vriskaroom.png)
+
+![Davepetasprite hunched over, with their claws extended.](./characters/davepetasprite/davepeta_roleplay.webp)
 
 <p class="davepetasprite">DAVEPETASPRITE: *dp pads through the underbrush of the forest, leaving paw prints after themselves in the freshly fallen snow*</p>
 <p class="davepetasprite">DAVEPETASPRITE: *their ears twitch cutely with every step they take beclaws as perfect a creature as they are cats are still too fucking stupid to invent proper p33ts protectors*</p>
 <p class="davepetasprite">DAVEPETASPRITE: *they will probably need to get these silly little beans amputated after walking through all this white shit but whatever its fine, at the end of this tail is an important furiend*</p>
+
+![Vriska, now wearing a tank top version of her shirt, and with her hair pulled back.](./characters/vriska/vriska_neutral1.png)
 <p class="vriska">VRISKA: ...</p>
 <p class="davepetasprite">DAVEPETASPRITE: every year farmers and freaks alike crowd around this curious critter wringing their sweaty boring human hands all nervously hoping for winters end</p>
 <p class="davepetasprite">DAVEPETASPRITE: but this overhyped moles shadow offurs a symbolic appouncement for the spider instead</p>
@@ -312,10 +322,20 @@ What will you do?
 <p class="davepetasprite">DAVEPETASPRITE: the breaking of cycles, dissolution of the self, whatever other philosophical rhetoric bill murray said in that one meowvie</p>
 <p class="davepetasprite">DAVEPETASPRITE: its all up to you, spider, to grab this guy by the furry haunches bend him over and nonsexually spank him into submewssion</p>
 
+![Davepeta, standing](./characters/davepetasprite/davepeta_neutral.webp)
+
 <p class="davepetasprite">DAVEPETASPRITE (neutral): what will you do vriska?</p>
+
+![Vriska, hunched over with rage.](./characters/vriska/vriska_angry.webp)
+
 <p class="vriska">VRISKA: *The spider doesn't do anything, 8ecause spiders don't have 8rains to make good choices. Instead, we're doomed to crawl around on our 8ellies like idiots, w8ing to 8e crushed under the giant furry ass of an animal so pathetic humans had to make up reasons to care a8out it, and with her luck she'll spend eternity 8uried alive under poop pellets du88ed the pharaoh of trash assholes and praying to die.*</p>
+
+![Davepeta, an eyebrow and fist raised throughtfully](./characters/davepetasprite/davepeta_thinking.webp)
+
 <p class="davepetasprite">DAVEPETASPRITE: vriskers not to ask an obvious question but</p>
 <p class="davepetasprite">DAVEPETASPRITE: are you good?</p>
+
+![Davepeta, with a concerned expression](./characters/davepetasprite/davepeta_uncomfortable.webp)
 
 <p class="davepetasprite">DAVEPETASPRITE (uncomfortable): you s33m... depressed</p>
 <p class="vriska">VRISKA: What are you talking a8out?</p>
@@ -325,6 +345,9 @@ What will you do?
 <p class="vriska">VRISKA (angry): "Purrhaps" today will 8e the day I finally give myself a deep enough pan lesion that my neurons will reset and I can finally understand what I'm supposed to 8e doing here.</p>
 <p class="vriska">VRISKA: Finally moving on FROM THIS 8ORING M8ND NUM8ING SHIIIIIIITTY PUNISHM8NT PIT.</p>
 <p class="davepetasprite">DAVEPETASPRITE: wrow</p>
+
+![Vriska, pouting](./characters/vriska/vriska_sad.webp)
+
 <p class="vriska">VRISKA: Sigh.</p>
 <p class="vriska">VRISKA: Can you please tell me what to do? And not in some coy, rounda8out way like you have 8een.</p>
 
@@ -335,12 +358,15 @@ What will you do?
 <p class="davepetasprite">DAVEPETASPRITE (thinking): ask me about mechanics or some dank catnip or even how to stunt down the stairs without breaking every bone in your body and i can chitter your ear off for another couple years</p>
 <p class="davepetasprite">DAVEPETASPRITE: but countless cool dudes and kitty girls cant inform much on how to handle those classic serket problems</p>
 
+![Davepeta, with a neutral expression](./characters/davepetasprite/davepeta_pokerface.webp)
+
 <p class="davepetasprite">DAVEPETASPRITE (pokerface): feel me?</p>
 <p class="vriska">VRISKA: Soooooooo what you are saying is you can't help 8ecause you are the Ultimate Winged Weener and can't relate to 8eing a huge 8itch like me?</p>
 <p class="davepetasprite">DAVEPETASPRITE: ha he</p>
 
 <p class="davepetasprite">DAVEPETASPRITE (pokerface): w33ner</p>
 
+![Davepeta making a cute face with squinted eyes and kissy lips, curling their hands into paws. Bishi sparkles float next to them.](./characters/davepetasprite/davepeta_cute.webp)
 <p class="davepetasprite">DAVEPETASPRITE (cute): but yeah thats pretty much how it is</p>
 
 <p class="davepetasprite">DAVEPETASPRITE (neutral): you know what they say theres purrppets and then theres pawppet33rs</p>
