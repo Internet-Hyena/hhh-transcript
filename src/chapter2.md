@@ -223,7 +223,7 @@
 
 ### \>  {==>}
 
-![Background: The Land of Maps of Treasure, Vriska's planet from her Sburb session.](images/1/images/lomat.png)
+![Background: The Land of Maps of Treasure, Vriska's planet from her Sburb session.](images/2/images/lomat.png)
 
 <p class="vriska">VRISKA: !!!!!!!!</p>
 <p class="vriska">VRISKA: Where the hell am I?</p>
@@ -374,13 +374,13 @@
 <p class="vriska">VRISKA (sad): ........ ok.</p>
 <p class="vriska">VRISKA (neutral): Ok.</p>
 
-![Aradiabot stands over Vriska with an arm outstretched.](images/1/images/panel1.png)
+![Aradiabot stands over Vriska with an arm outstretched.](images/2/images/panel1.png)
 
 ### \>  {Vriska: Take Aradia's hand.}
-![An establishing shot of Vriska's quest cocoon. A pillar of light shines from the top and spotlights the quest bed in the center.](images/1/images/questcocoon.png)
+![An establishing shot of Vriska's quest cocoon. A pillar of light shines from the top and spotlights the quest bed in the center.](images/2/images/questcocoon.png)
 
 ### \>  {==>}
-![Vriska lying on her quest bed with a concerned expression. Aradia and Tavros hold her hand and smile.](images/1/images/panel2.png)
+![Vriska lying on her quest bed with a concerned expression. Aradia and Tavros hold her hand and smile.](images/2/images/panel2.png)
 
 <p class="vriska">VRISKA: I know it doesn't change anything, 8ecause it already happened and also you two aren't even real.</p>
 <p class="vriska">VRISKA: 8ut I am actually sorry. For everything.</p>
@@ -388,7 +388,7 @@
 <p class="tavros">TAVROS: yOURE RIGHT, iT'S DEFINITELY POINTLESS TO SAY, bUT, iT IS AN APPRECI8TED GESTURE };)</p>
 
 ### \>  {==>}
-![A closeup of Vriska lying down, her eye shut.](images/1/images/panel3.png)
+![A closeup of Vriska lying down, her eye shut.](images/2/images/panel3.png)
 
 <p class="vriska">VRISKA: And, it's not going to 8e the same again.</p>
 <p class="vriska">VRISKA: I'll stick with it this time. I promise.</p>
@@ -406,7 +406,7 @@
 
 ### \>  {Level Complete!}
 
-![A level-up screen, resembling the Echeladder. Vriska stands beside a tall black candle with a blue flame, and a list of her most recently achieved levels (Hell Tiers?). She has most recently achieved the tier "BOUNDARY RESPECTOR"](images/1/images/level_complete.webp)
+![A level-up screen, resembling the Echeladder. Vriska stands beside a tall black candle with a blue flame, and a list of her most recently achieved levels (Hell Tiers?). She has most recently achieved the tier "BOUNDARY RESPECTOR"](images/2/images/level_complete.webp)
 
 * 80UNDARY RESPECTER
 * MENTAL GYMNAST
