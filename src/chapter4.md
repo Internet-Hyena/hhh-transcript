@@ -1,4 +1,7 @@
-# chapter4_prologue
+## Chapter 4 (Cueball)
+
+![Chapter select button. A white cueball. The head of Doc Scratch.](./images/chapterselect/cueball.png)
+
 <p class="vriska">VRISKA: Whew.</p>
 <p class="vriska">VRISKA: Long day.</p>
 <p class="gcatav">GCATAV: mAYBE, yOU SHOULD TAKE A BREAK, fROM ALL THE TOTALLY AWESOME PERSONAL BREAKTHROUGHS YOU ARE HAVING,</p>
@@ -61,7 +64,7 @@
 <p class="vriska">VRISKA: I'm not gonna get traumatized!</p>
 
 ### \>  {ENTER SCRATCH'S PARLOR}
-# chapter4
+
 <p class="doc_scratch">DOC_SCRATCH: Well, well.</p>
 <p class="doc_scratch">DOC_SCRATCH: Isn't this a perfectly predictable inevitability?</p>
 <p class="doc_scratch">DOC_SCRATCH: It certainly has been a while, Vriska. You seem to have blossomed nicely.</p>
@@ -106,7 +109,7 @@
 <p class="doc_scratch">DOC_SCRATCH: I missed that fumbling braggadocio. It's heartening to know that this place hasn't cured you of it yet.</p>
 <p class="doc_scratch">DOC_SCRATCH: It makes you so much fun to play with.</p>
 
-# \> {o} ==>
+### \> {o} ==>
 
 <p class="vriska">VRISKA: Hey, what the fuck?!</p>
 

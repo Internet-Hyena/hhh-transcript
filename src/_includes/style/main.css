@@ -14,3 +14,8 @@ img[src*="character"] {
     object-fit: contain;
     object-position: center;
 }
+
+.table-of-contents {
+    position: fixed;
+    left: 0;
+}

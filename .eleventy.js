@@ -10,7 +10,7 @@ module.exports = function(eleventyConfig) {
     html: true
   });
   md.use(require("markdown-it-anchor").default);
-  md.use(require("markdown-it-table-of-contents"));
+  md.use(require("markdown-it-table-of-contents"), { includeLevel: [2, 3] });
   eleventyConfig.setLibrary("md", md);
 
   eleventyConfig.addPassthroughCopy("src/images/");

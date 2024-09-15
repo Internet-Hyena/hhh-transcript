@@ -1,4 +1,4 @@
-# chapter1
+## Chapter 1 – Prologue
 
 ![The grassy cliff outside Tavros's hive.](images/tavroscliff.png)
 
@@ -10,23 +10,23 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 <p class="vriska">VRISKA: You h8 to see it.</p>
 
-What will you do?
+<p class="box">What will you do?</p>
 
 <p class="vriska">VRISKA (gt angry): What do you MEAN what will I do????????</p>
 
 <p class="vriska">VRISKA: Davepeta, is that you?</p>
 
-![](images/1/characters/vriska/gt/vriska_gt_thinking.webp)
+![Vriska thinking](images/1/characters/vriska/gt/vriska_gt_thinking.webp)
 
 <p class="vriska">VRISKA (gt thinking): ...</p>
 
-![](images/1/characters/vriska/gt/vriska_gt_smug.webp)
+![Vriska smirking and shrugging](images/1/characters/vriska/gt/vriska_gt_smug.webp)
 
 <p class="vriska">VRISKA (gt smug): Wow once again it falls to me to figure all this shit out in any sort of meaningful way.</p>
 
 <p class="vriska">VRISKA (gt idle): ...</p>
 
-![](images/1/characters/vriska/gt/vriska_gt_angry.webp)
+![Vriska hunched over in rage](images/1/characters/vriska/gt/vriska_gt_angry.webp)
 
 <p class="vriska">VRISKA (gt angry): And why the fuck is Tavros here!!!!!!!!</p>
 
@@ -40,7 +40,7 @@ What will you do?
 
 <p class="tavros">TAVROS: bUT SINCE THERE ISN'T, a VERSION OF ME LIKE THAT HERE, i GUESS IT'S BECAUSE I, uHH</p>
 
-![Tavros](images/1/characters/tavros/tavros_smiling.webp)
+![Tavros smiling](images/1/characters/tavros/tavros_smiling.webp)
 
 <p class="tavros">TAVROS (smiling): lIVE HERE MOSTLY,</p>
 <p class="vriska">VRISKA: Shut the fuck up Tavros!</p>
@@ -90,7 +90,7 @@ What will you do?
 <p class="vriska">VRISKA: I'm sorry I killed you.</p>
 <p class="tavros">TAVROS: dID YOU DO THAT,</p>
 
-What will you do?
+<p class="box">What will you do?</p>
 
 <p class="vriska">VRISKA (gt idle): </p>
 
@@ -114,15 +114,14 @@ What will you do?
 
 <p class="tavros">TAVROS (smiling eyesclosed): ...</p>
 
-> "What will you do?"
-
+<p class="box">What will you do?</p>
 
 <p class="vriska">VRISKA (gt thinking): No dice, huh? Okay, try this one on for size!</p>
 
 <p class="vriska">VRISKA: I'm sorry I kissed you and then used mind control to make you try and love me that one time. That one's on me.</p>
 <p class="tavros">TAVROS (smiling): ...</p>
 
-> "What will you do?"
+<p class="box">What will you do?</p>
 
 <p class="vriska">VRISKA: Fuck, that was a good one... this character growth shit is hard.</p>
 
@@ -131,7 +130,8 @@ What will you do?
 ![Vriska, pouting](images/1/characters/vriska/gt/vriska_gt_sad.webp)
 
 <p class="vriska">VRISKA (gt sad): ...I'm sorry I said your lusus "smelled like tears".</p>
-> "What will you do?"
+
+<p class="box">What will you do?</p>
 
 <p class="vriska">VRISKA (gt angry): FUCK!!!!!!!!</p>
 
@@ -156,7 +156,8 @@ What will you do?
 <p class="vriska">VRISKA (gt idle): ...</p>
 
 <p class="vriska">VRISKA (gt idle): ...</p>
-> "What will you do?"
+
+<p class="box">What will you do?</p>
 
 
 <p class="vriska">VRISKA: Damn it. Well even if that doesn't solve this puzzle, 8y some happenstantial miracle it's still true.</p>
@@ -302,9 +303,8 @@ What will you do?
 > 
 > What will you do?"
 
-# chapter1_end
 
-"YEAR 2"
+### YEAR 2
 
 ![Vriska's bedroom in her hive.](images/vriskaroom.png)
 

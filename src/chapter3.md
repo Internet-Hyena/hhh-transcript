@@ -1,8 +1,11 @@
-# chapter3_prologue
+## Chapter 3 (Mindfang's journal)
 
-"YEAR 4"
+![Chapter select button. Mindfang's journal. A black notebook with a blue Scorpio symbol on the front.](./images/chapterselect/mindfang.png)
+
+### "YEAR 4"
 
 <p class="nannasprite">NANNASPRITE: Oh there you are!</p>
+
 <p class="nannasprite">NANNASPRITE: Feeling like you're getting your lucky mojo back again?</p>
 <p class="vriska">VRISKA: Not really. ::::/</p>
 <p class="vriska">VRISKA: 8ut everyone has 8een trying so hard to cheer me up, I thought I'd give it another try.</p>
@@ -75,7 +78,8 @@
 <p class="vriska">VRISKA: <33333333</p>
 
 ### \>  {Choose Mindfang's Journal.}
-# chapter3
+
+
 ### \>  {????????}
 <p class="mindmom">MINDMOM: The girl was thrown into emptiness.</p>
 <p class="mindmom">MINDMOM: Despite the darkness, the space wasn't foreign. The way the moons hung in the sky, the sound of the waves as they crashed, the 8reeze, these were all familiar sens8tions.</p>

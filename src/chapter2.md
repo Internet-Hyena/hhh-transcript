@@ -1,6 +1,9 @@
-# chapter2
+## Chapter 2 (FLARP book)
+
+![Chapter select button. A stack of manuals for the roleplaying game, Flarp.](./images/chapterselect/flarp.png)
 
 ### \>  {Select "FLARP BOOK"}
+
 
 ![The grassy cliff outside Tavros's hive.](images/tavroscliff.png)
 
@@ -51,7 +54,8 @@
 
 <p class="tavros">TAVROS (neutral): uNLESS YOU WERE DOING THAT THING, wHERE YOU TELL ME A THING, tHAT IS UNTRUE,</p>
 <p class="tavros">TAVROS: AGAIN,</p>
-> "What will you do?"
+
+<p class="box">What will you do?</p>
 
 
 <p class="vriska">VRISKA: Fiiiiiiiine.</p>
@@ -242,7 +246,7 @@
 <p class="aradiabot">ARADIABOT: shut up is h0w</p>
 <p class="vriska">VRISKA: Ruuuuuuuude. 8ut honestly, I'm so happy to see a new face that I'm not even mad a8out it.</p>
 
-> "What will you do?"
+<p class="box">What will you do?</p>
 
 <p class="vriska">VRISKA: That said... if I was confused 8efore, now I'm really lost.</p>
 <p class="vriska">VRISKA: Shouldn't we 8e 8ack at your hive, with me on my knees telling you I wished I never killed you or something?</p>
@@ -284,18 +288,19 @@
 <p class="vriska">VRISKA (mind control): And that means the usual rules don't 8pply right? Who needs to sit around arguing when I can M8KE YOU C8RE!</p>
 <p class="aradiabot">ARADIABOT: why are y0u hesitating?</p>
 
-> (shaking) "What will you do?"
+<p class="box">(shaking) What will you do?</p>
 
 <p class="aradiabot">ARADIABOT: this is the 0nly way right?</p>
 
-> (big) "What will you do?"
+<p class="box">(big) What will you do?</p>
 
 <p class="aradiabot">ARADIABOT: this is h0w y0u win</p>
-> (bigger shaking) "What will you do?"
+
+<p class="box">(bigger shaking) What will you do?</p>
 
 <p class="aradiabot">ARADIABOT: d0 it</p>
-> (biggest shaking) "WHAT WILL YOU DO?"
 
+<p class="box">(biggest shaking) What will you do?</p>
 
 <p class="vriska">VRISKA: D8MN IT!</p>
 <p class="aradiabot">ARADIABOT: g00d j0b</p>
