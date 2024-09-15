@@ -9,3 +9,10 @@
 .davepetasprite {
     color: #F2A400;
 }
+
+.box {
+    padding: 1rem;
+    border: 1px solid #888;
+    border-radius: 0.5rem;
+    background-color: #eee;
+}
