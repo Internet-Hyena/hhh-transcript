@@ -4,7 +4,6 @@
 {% set css %}
 {% include 'style/main.css'%}
 {% include 'style/quirks.css'%} {% endset%}
-<title>{{ title}}</title>
+<title>{{ title }}</title>
 <style>{{ css | safe }}</style>
-<h1>{{ title }}</h1>
 <main>{{ content | safe }}</main>

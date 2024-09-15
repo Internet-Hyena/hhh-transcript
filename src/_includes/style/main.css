@@ -2,6 +2,7 @@ body {
     max-width: 650px;
     margin: 0 auto;
     font-family: Courier, Courier Prime, Courier New, monospace;
+    line-height: 1.6;
 }
 
 img {
@@ -15,7 +16,9 @@ img[src*="character"] {
     object-position: center;
 }
 
-.table-of-contents {
-    position: fixed;
-    left: 0;
+@media screen and (min-width: 1500px) {   
+    .table-of-contents {
+        position: fixed;
+        left: 0;
+    }
 }

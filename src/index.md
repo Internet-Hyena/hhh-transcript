@@ -1,8 +1,11 @@
 ---
+title: "Hyperbolic Hecktier Chamber"
 layout: layouts/main.njk
 ---
 
 # {S} Begin Session.
+
+[B33<, what's this?](about/)
 
 [[toc]]
 
