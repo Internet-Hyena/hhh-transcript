@@ -1,4 +1,4 @@
-## Chapter 1 – Prologue
+## Prologue
 
 ![The grassy cliff outside Tavros's hive.](images/tavroscliff.png)
 
