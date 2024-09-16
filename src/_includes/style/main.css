@@ -10,10 +10,14 @@ img {
 }
 
 img[src*="character"] {
-    max-height: 250px;
-    max-width: 300px;
+    display: block;
+    width: 100%;
+    max-height: 300px;
     object-fit: contain;
-    object-position: center;
+    object-position: right;
+}
+img[src*="character"][src*="vriska"] {
+    object-position: left;
 }
 
 @media screen and (min-width: 1500px) {   

@@ -1,18 +1,32 @@
 .vriska {
     color: #005682;
 }
-
 .tavros {
     color: #A15000;
 }
-
 .davepetasprite {
     color: #F2A400;
+}
+.aradiabot {
+    color: #A10000
 }
 
 .box {
     padding: 1rem;
     border: 1px solid #888;
     border-radius: 0.5rem;
-    background-color: #eee;
+    text-align: center;
 }
+
+.big {
+    font-size: 150%;
+}
+
+.bigger {
+    font-size: 200%;
+}
+
+.biggest {
+    font-size: 300%;
+}
+
