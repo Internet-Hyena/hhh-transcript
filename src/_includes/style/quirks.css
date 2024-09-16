@@ -10,6 +10,14 @@
 .aradiabot {
     color: #A10000
 }
+.nannasprite {
+    color: #009eff;
+}
+.mindmom {
+    font-style: italic;
+    color: #005682;
+    padding-left: 2rem;
+}
 
 .box {
     padding: 1rem;
