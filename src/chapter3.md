@@ -1,4 +1,4 @@
-## Journal
+## Chapter 3
 
 ![Chapter select button. Mindfang's journal. A black notebook with a blue Scorpio symbol on the front.](./images/chapterselect/mindfang.png)
 

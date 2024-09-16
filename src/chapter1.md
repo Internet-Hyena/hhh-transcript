@@ -1,4 +1,6 @@
-## Prologue
+## Prologue / Chapter 1
+
+![Chapter select button. A green hourglass with blue sand.](./images/chapterselect/hourglass.png)
 
 ![The grassy cliff outside Tavros's hive.](images/tavroscliff.png)
 

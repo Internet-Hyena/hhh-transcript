@@ -1,4 +1,4 @@
-## Cueball
+## Chapter 4
 
 ![Chapter select button. A white cueball. The head of Doc Scratch.](./images/chapterselect/cueball.png)
 

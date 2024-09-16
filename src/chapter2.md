@@ -1,4 +1,4 @@
-## FLARP book
+## Chapter 2
 
 ![Chapter select button. A stack of manuals for the roleplaying game, Flarp.](./images/chapterselect/flarp.png)
 
