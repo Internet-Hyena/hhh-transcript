@@ -3,6 +3,7 @@ body {
     margin: 0 auto;
     font-family: Courier, Courier Prime, Courier New, monospace;
     line-height: 1.6;
+    background-color: #eee;
 }
 
 img {
