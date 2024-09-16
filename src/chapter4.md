@@ -2,9 +2,15 @@
 
 ![Chapter select button. A white cueball. The head of Doc Scratch.](./images/chapterselect/cueball.png)
 
+![Vriska's bedroom](./images/vriskaroom.png)
+
 <p class="vriska">VRISKA: Whew.</p>
 <p class="vriska">VRISKA: Long day.</p>
+
+![GCat Tavros Sprite smiling mischievously](./images/4/characters/gcatav/gcatav_mischievous.webp)
 <p class="gcatav">GCATAVROSPRITE: mAYBE, yOU SHOULD TAKE A BREAK, fROM ALL THE TOTALLY AWESOME PERSONAL BREAKTHROUGHS YOU ARE HAVING,</p>
+
+![Erisolsprite with a neutral expression](./images/4/characters/erisolsprite/erisolsprite_neutral.webp)
 <p class="gcatav">GCATAVROSPRITE: aND KICK IT WITH ME AND ERISOL FOR A WHILE,</p>
 <p class="erisolsprite">ERISOLSPRITE: yeah, you kiinda look liike 2hiit.</p>
 <p class="vriska">VRISKA: Says Scarfshades McLopsided.</p>
@@ -65,11 +71,19 @@
 
 ### \>  {ENTER SCRATCH'S PARLOR}
 
+*Fade to white*
+
+![Background: The parlor of Doc Scratch.](./images/4/images/scratchsparlor.png)
+
+![Doc Scratch. A being in a white suit with a green bowtie, with an enormous white cueball for a head. His body crackles with the energy of the Green Sun.](./images/4/characters/docscratch/scratch.webp)
+
+*Doc Scratch's text appears letter by letter, accompanied with a typewriter noise.*
+
 <p class="doc_scratch">Well, well.</p>
 <p class="doc_scratch">Isn't this a perfectly predictable inevitability?</p>
 <p class="doc_scratch">It certainly has been a while, Vriska. You seem to have blossomed nicely.</p>
 <p class="doc_scratch">Care for a piece of candy?</p>
-<p class="vriska">VRISKA (adult): Oh fuck your stupid candy, you glo8e-headed little freak.</p>
+<p class="vriska">VRISKA (angry): Oh fuck your stupid candy, you glo8e-headed little freak.</p>
 <p class="doc_scratch">I know for a fact you'd enjoy it, but suit yourself.</p>
 <p class="vriska">VRISKA (adult): Ugh. I had a feeling ages ago that I'd 8e seeing your smug ass again.</p>
 <p class="doc_scratch">The feeling was mutual.</p>
@@ -109,72 +123,94 @@
 <p class="doc_scratch">I missed that fumbling braggadocio. It's heartening to know that this place hasn't cured you of it yet.</p>
 <p class="doc_scratch">It makes you so much fun to play with.</p>
 
+*Vriska shrinks and disappears into the corner of the frame.*
+
 ### \> {o} ==>
+
+*Fade to black.*
+
+![Background: A chessboard with various troll-themed pieces. A tiny Vriska stands in the center, with a huge Doc Scratch looming over her with his hands steepled.](./images/4/images/chessboard.png)
 
 <p class="vriska">VRISKA: Hey, what the fuck?!</p>
 
+*Doc Scratch's text appears in front of his face.*
 
-<p class="doc_scratch">There we are.</p>
-<p class="doc_scratch">Now then, why don't we have ourselves a little game?</p>
+<p class="doc_scratch_center">There we are.</p>
+<p class="doc_scratch_center">Now then, why don't we have ourselves a little game?</p>
 
+<p class="box">WHAT WILL YOU DO</p>
 
-> WHAT WILL YOU DO
+![The textbox glitches out.](./images/4/images/glitch_box.webp)
 
-<p class="doc_scratch">Oh no. We won't be needing that.</p>
-<p class="doc_scratch">Let's get you into your uniform.</p>
+*SFX: Glitch.*
 
+<p class="doc_scratch_center">Oh no. We won't be needing that.</p>
+<p class="doc_scratch_center">Let's get you into your uniform.</p>
 
-
+![The chessboard background from before, but with Vriska removed.](./images/4/images/chessboard_vrisgone.png)
+![Vriska, now visibly smaller and younger, with her robotic spider eyepatch, hunched over and gripping her shoulders.](./images/4/characters/vriska/vriska_disgusted.png)
 <p class="vriska">VRISKA: ........</p>
 
-<p class="doc_scratch">Ah, and there she is. My favorite piece.</p>
+<p class="doc_scratch_center">Ah, and there she is. My favorite piece.</p>
 
+![Young Vriska grimaces and clutches her head.](./images/4/characters/vriska/vriska_frustrated.png)
 <p class="vriska">VRISKA: I'm not your piece!</p>
 
+<p class="doc_scratch_center">We'll start with a variation of the King's Pawn opening.</p>
+<p class="doc_scratch_center">Thief to E4; Thief takes Page.</p>
 
-<p class="doc_scratch">We'll start with a variation of the King's Pawn opening.</p>
-<p class="doc_scratch">Thief to E4; Thief takes Page.</p>
+*Vriska jerks to the left. SFX: A bloody impact noise. The screen flashes umber brown.*
 
-
+![Young Vriska, terrified, splattered with blue and mustard-brown blood, hers and Tavros's.](./images/4/characters/vriska/vriska_exploded_blood1.png)
 <p class="vriska">VRISKA: Fuck you!</p>
 
+<p class="doc_scratch_center">Thief to F5; Thief takes Maid.</p>
 
-<p class="doc_scratch">Thief to F5; Thief takes Maid.</p>
+*Vriska jerks to the right. SFX: A bloody impact noise. The screen flashes burgandy.*
 
-
+![Vriska splattered with rust-red blood, Aradia's](./images/4/characters/vriska/vriska_exploded_blood2.png)
 
 <p class="vriska">VRISKA: Stop it!</p>
 
-<p class="doc_scratch">Thief to Z8; Thief takes Seer.</p>
+<p class="doc_scratch_center">Thief to Z8; Thief takes Seer.</p>
 
+*Vriska jerks to the left. SFX: A bloody impact noise. The screen flashes teal.*
+
+![Vriska splattered with teal blood, Terezi's](./images/4/characters/vriska/vriska_exploded_blood3.png)
 
 
 <p class="vriska">VRISKA: Fucking ST8P 8T!!!!!!!!</p>
 <p class="vriska">VRISKA: Z8 ISN'T EVEN A F8CKING P8SITION, YOU HACK!!!!!!!</p>
 
+<p class="doc_scratch_center">All the world's my board.</p>
+<p class="doc_scratch_center">Thief to ∫40; Thief takes pawn.</p>
 
-<p class="doc_scratch">All the world's my board.</p>
-<p class="doc_scratch">Thief to ∫40; Thief takes pawn.</p>
+*Vriska jerks to the right. SFX: A bloody impact noise, slightly slower. The screen flashes purple.*
 
-
+![Vriska splattered with purple blood, Eridan's](./images/4/characters/vriska/vriska_exploded_blood4.png)
 
 <p class="vriska">VRISKA: ST8P IT!</p>
 
+<p class="doc_scratch_center">Thief to µ22; Thief takes pawn.</p>
 
-<p class="doc_scratch">Thief to µ22; Thief takes pawn.</p>
+*Vriska jerks to the left. SFX: A bloody impact noise, slightly slower. The screen flashes purple.*
 
+![Vriska splattered with blue blood, Equius's](./images/4/characters/vriska/vriska_exploded_blood5.png)
 
 <p class="vriska">VRISKA: F8CK YOU!</p>
 
+<p class="doc_scratch_center">Thief to α612; Thief takes pawn.</p>
 
-<p class="doc_scratch">Thief to α612; Thief takes pawn.</p>
+*Vriska jerks to the right. SFX: A bloody impact noise, much slower. The screen flashes green.*
 
-
+![Vriska splattered with jade blood, Kanaya's](./images/4/characters/vriska/vriska_exploded_blood6.png)
 
 <p class="vriska">VRISKA: I'LL F8CKING K8LL YOU!</p>
+<p class="doc_scratch_center">Thief to Ω413; Thief takes pawn. Check.</p>
 
-<p class="doc_scratch">Thief to Ω413; Thief takes pawn. Check.</p>
+*Vriska jerks to the left. SFX: A bloody impact noise, much slower. The screen flashes red.*
 
+![Vriska splattered with bright red blood, Karkat's](./images/4/characters/vriska/vriska_exploded_blood7.png)
 
 <p class="vriska">VRISKA: YOU'LL 8E SORRY FOR THIS!</p>
 <p class="vriska">VRISKA: YOU'LL 8E F8CKING SORRY!</p>
@@ -183,70 +219,79 @@
 <p class="vriska">VRISKA: NONE OF THIS MEANS SHIT,</p>
 <p class="vriska">VRISKA: AND I'M NEVER GOING TO 8E CAUGHT UP IN YOUR FUCKING G8MES EVER AGAIN!!!!!!!!</p>
 
+*Vriska begins trembling.*
 
+<p class="doc_scratch_center">Of course you will.</p>
+<p class="doc_scratch_center">You think you're better than me? Better than fate?</p>
+<p class="doc_scratch_center">Vriska, I am going to put you in situations where you have the potential to do terrible things.</p>
+<p class="doc_scratch_center">I am going to make things ugly.</p>
+<p class="doc_scratch_center">I am going to corner you.</p>
+<p class="doc_scratch_center">I am going to pressure you.</p>
+<p class="doc_scratch_center">And no matter how much “better” you claim to be, all I have to do is catch you at the wrong moment.</p>
+<p class="doc_scratch_center">You're one bad turn from burning all your quaint little progress to the ground.</p>
+<p class="doc_scratch_center">One lapse away from being mine again.</p>
 
-<p class="doc_scratch">Of course you will.</p>
-<p class="doc_scratch">You think you're better than me? Better than fate?</p>
-<p class="doc_scratch">Vriska, I am going to put you in situations where you have the potential to do terrible things.</p>
-<p class="doc_scratch">I am going to make things ugly.</p>
-<p class="doc_scratch">I am going to corner you.</p>
-<p class="doc_scratch">I am going to pressure you.</p>
-<p class="doc_scratch">And no matter how much “better” you claim to be, all I have to do is catch you at the wrong moment.</p>
-<p class="doc_scratch">You're one bad turn from burning all your quaint little progress to the ground.</p>
-<p class="doc_scratch">One lapse away from being mine again.</p>
-
+![Vriska, covered in blood, gripping her elbow and looking down sullenly, eyes shadowed.](./images/4/characters/vriska/vriska_sullen.png)
 <p class="vriska">VRISKA: Get me out of here.</p>
-<p class="vriska">VRISKA (v4 sullen crying): I want a do-over.</p>
 
+![Vriska looking down sullenly. The filename describes her as "sullen crying" but the sprite is visually identical to the previous.](./images/4/characters/vriska/vriska_sullen_crying.png)
+<p class="vriska">VRISKA (sullen crying): I want a do-over.</p>
 
-<p class="doc_scratch">Oh, please.</p>
-<p class="doc_scratch">You of all people should know that you don't *get* do-overs.</p>
-<p class="doc_scratch">The rest of these frivolous little vision quests may feel like sparing you the effort of getting things right the first time around, but the real world doesn't work that way.</p>
-<p class="doc_scratch">No, you'll just have to endure it. This won't take long.</p>
-<p class="doc_scratch">You had a good run out there, flying solo and swashbuckling around as if Light itself were yours to command. </p>
-<p class="doc_scratch">It'd be wise to remember that it's a borrowed blessing.</p>
-<p class="doc_scratch">You flourish at its whim.</p>
-<p class="doc_scratch">Continue to spit in its face and take it for granted, and it will abandon you once again, perhaps for good.</p>
+<p class="doc_scratch_center">Oh, please.</p>
+<p class="doc_scratch_center">You of all people should know that you don't *get* do-overs.</p>
+<p class="doc_scratch_center">The rest of these frivolous little vision quests may feel like sparing you the effort of getting things right the first time around, but the real world doesn't work that way.</p>
+<p class="doc_scratch_center">No, you'll just have to endure it. This won't take long.</p>
+<p class="doc_scratch_center">You had a good run out there, flying solo and swashbuckling around as if Light itself were yours to command. </p>
+<p class="doc_scratch_center">It'd be wise to remember that it's a borrowed blessing.</p>
+<p class="doc_scratch_center">You flourish at its whim.</p>
+<p class="doc_scratch_center">Continue to spit in its face and take it for granted, and it will abandon you once again, perhaps for good.</p>
 
 <p class="vriska">VRISKA: ........</p>
 
 
-<p class="doc_scratch">Do you remember who you were, before it chose you?</p>
-<p class="doc_scratch">The choices you made when luck wasn't on your side?</p>
-<p class="doc_scratch">You were such a delectable little victim.</p>
-<p class="doc_scratch">Poor Vriska, with her voracious lusus.</p>
-<p class="doc_scratch">With her demanding legacy and her uncooperative, fickle little friends.</p>
-<p class="doc_scratch">So much was out of your hands, then; how could you help but be my lovely assistant?</p>
+<p class="doc_scratch_center">Do you remember who you were, before it chose you?</p>
+<p class="doc_scratch_center">The choices you made when luck wasn't on your side?</p>
+<p class="doc_scratch_center">You were such a delectable little victim.</p>
+<p class="doc_scratch_center">Poor Vriska, with her voracious lusus.</p>
+<p class="doc_scratch_center">With her demanding legacy and her uncooperative, fickle little friends.</p>
+<p class="doc_scratch_center">So much was out of your hands, then; how could you help but be my lovely assistant?</p>
+
+![Vriska, sullen. Her eyes visible, in a defiant glare.](./images/4/characters/vriska/vriska_sullen_crying_eye.png)
 
 <p class="vriska">VRISKA: You didn't fucking own me.</p>
 
-<p class="doc_scratch">{image=exactly}</p>
-<p class="doc_scratch">But what matters is that I might as well have.</p>
-<p class="doc_scratch">You let yourself believe you had no option other than to take me up on my hard bargains, again and again.</p>
-<p class="doc_scratch">For all your talk of independence, all your combative posturing and insistence on your own freedom, you barely bothered to put up any actual resistance to my suggestions.</p>
-<p class="doc_scratch">You took the easy way out, swearing all the while it was your move.</p>
-<p class="doc_scratch">What a phenomenal waste of your considerable talents.</p>
+*The background flickers and glitches.*
+
+![The text "EXACTLY". It flashes and crackles.](./images/4/images/Exactly.webp)
+
+<p class="doc_scratch_center">But what matters is that I might as well have.</p>
+<p class="doc_scratch_center">You let yourself believe you had no option other than to take me up on my hard bargains, again and again.</p>
+<p class="doc_scratch_center">For all your talk of independence, all your combative posturing and insistence on your own freedom, you barely bothered to put up any actual resistance to my suggestions.</p>
+<p class="doc_scratch_center">You took the easy way out, swearing all the while it was your move.</p>
+<p class="doc_scratch_center">What a phenomenal waste of your considerable talents.</p>
 
 <p class="vriska">VRISKA: I don't need your compliments.</p>
 
-<p class="doc_scratch">It wasn't a compliment.</p>
-<p class="doc_scratch">It was an insult, and a warning.</p>
-<p class="doc_scratch">You're a trump card, Vriska, but your potency is a double-edged sword.</p>
-<p class="doc_scratch">One you've gotten far too comfortable swinging around, in the past.</p>
-<p class="doc_scratch">What do you intend to fix, when you leave this place?</p>
-<p class="doc_scratch">What, I wonder, will you break?</p>
-<p class="doc_scratch">I'd encourage you to be mindful of both.</p>
-<p class="doc_scratch">Of course, you could always cast aside those pesky trivialities and go with the flow, smashing through circumstance with nary a thought for the consequences.</p>
-<p class="doc_scratch">It'd be easier.</p>
-<p class="doc_scratch">We could dance together again, just like old times.</p>
-<p class="doc_scratch">You choose.</p>
-<p class="doc_scratch">What'll it be, Vriska? Player, or piece?</p>
-<p class="doc_scratch">Thief to ∞108.</p>
+<p class="doc_scratch_center">It wasn't a compliment.</p>
+<p class="doc_scratch_center">It was an insult, and a warning.</p>
+<p class="doc_scratch_center">You're a trump card, Vriska, but your potency is a double-edged sword.</p>
+<p class="doc_scratch_center">One you've gotten far too comfortable swinging around, in the past.</p>
+<p class="doc_scratch_center">What do you intend to fix, when you leave this place?</p>
+<p class="doc_scratch_center">What, I wonder, will you break?</p>
+<p class="doc_scratch_center">I'd encourage you to be mindful of both.</p>
+<p class="doc_scratch_center">Of course, you could always cast aside those pesky trivialities and go with the flow, smashing through circumstance with nary a thought for the consequences.</p>
+<p class="doc_scratch_center">It'd be easier.</p>
+<p class="doc_scratch_center">We could dance together again, just like old times.</p>
+<p class="doc_scratch_center">You choose.</p>
+<p class="doc_scratch_center">What'll it be, Vriska? Player, or piece?</p>
+<p class="doc_scratch_center">Thief to ∞108.</p>
 
+*Vriska slowly returns to the center of the frame. The screen fades to white.*
 
-<p class="doc_scratch">I look forward to finding out.</p>
-<p class="doc_scratch">Good luck.</p>
+<p class="doc_scratch_center biggest">I look forward to finding out.</p>
+<p class="doc_scratch_center biggest">Good luck.</p>
 
+![Background: Vriska's bedroom.](./images/vriskaroom.png)
 
 <p class="erisolsprite">ERISOLSPRITE: oh you totally got traumatiized.</p>
 

@@ -1,43 +1,64 @@
+:root {
+    --vriska: #005682;
+    --tavros: #A15000;
+    --davepeta: #F2A400;
+    --davepeta-prefix: #4AC925;
+    --aradia: #A10000;
+    --nanna: #009eff;
+    --mindmom: var(var(--vriska));
+    --gcatav: #0715cd;
+    --erisol: #4ac925;
+    --scratch: #FFFFFF;
+    --scratch-outline: #003700; 
+    --scratch-outline-center: #2ed73a;
+}
+
 .vriska {
-    color: #005682;
+    color: var(--vriska);
 }
 .tavros {
-    color: #A15000;
+    color: var(--tavros);
 }
 .davepetasprite {
-    color: #F2A400;
+    color: var(--davepeta);
 }
 .davepetasprite > .prefix {
-    color: #4AC925;
+    color: var(--davepeta-prefix);
 }
 .aradiabot {
-    color: #A10000
+    color: var(--aradia)
 }
 .nannasprite {
-    color: #009eff;
+    color: var(--nanna);
 }
 .mindmom {
     font-style: italic;
-    color: #005682;
+    color: var(--mindmom);
     padding-left: 2rem;
 }
 .gcatav {
-    color: #0715cd;
+    color: var(--gcatav);
 }
 .erisolsprite {
-    color: #4ac925;
+    color: var(--erisol);
 }
-.doc_scratch {
-    color: #FFF;
-    text-shadow: -1px -1px 2px #003700, 
-                  0px -2px 2px #003700,
-                  1px -1px 2px #003700,
-                  -2px 0px 2px #003700, 
-                  2px  0px 2px #003700,
-                  -1px 1px 2px #003700, 
-                  0px  2px 2px #003700,
-                  1px  1px 2px #003700;
+.doc_scratch, .doc_scratch_center {
+    color: var(--scratch);
+    text-shadow: -.1em -0.1em 0.1em var(--scratch-outline), 
+                  0px -0.2em 0.1em var(--scratch-outline),
+                  0.1em -0.1em 0.1em var(--scratch-outline),
+                  -0.2em 0px 0.1em var(--scratch-outline), 
+                  0.2em  0px 0.1em var(--scratch-outline),
+                  -0.1em 0.1em 0.1em var(--scratch-outline), 
+                  0px  0.2em 0.1em var(--scratch-outline),
+                  0.1em  0.1em 0.1em var(--scratch-outline);
 }
+
+.doc_scratch_center {
+    --scratch-outline: var(--scratch-outline-center);
+}
+
+
 
 .box {
     padding: 1rem;
