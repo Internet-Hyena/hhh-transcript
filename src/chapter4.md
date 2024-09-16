@@ -293,6 +293,12 @@
 
 ![Background: Vriska's bedroom.](./images/vriskaroom.png)
 
+![Vriska, an adult again, looking sad.](./images/3/characters/vriska/vriska_sad.webp)
+
+![Erisolsprite, smirking](./images/4/characters/erisolsprite/erisolsprite_smirk.webp)
+
 <p class="erisolsprite">ERISOLSPRITE: oh you totally got traumatiized.</p>
 
 ### \>  {Level Complete!}
+
+![Level-up screen. The candle is half-melted. The background and tier list is splattered with rainbow blood. Vriska has achieved the rank PAVLOV'S DAWGG.](./images/4/images/level_complete.webp)
