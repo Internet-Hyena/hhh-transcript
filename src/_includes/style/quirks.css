@@ -56,4 +56,5 @@
 
 .doc_scratch_center {
     --scratch-outline: var(--scratch-outline-center);
+    text-align: center;
 }
