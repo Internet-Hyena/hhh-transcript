@@ -21,6 +21,23 @@
     color: #005682;
     padding-left: 2rem;
 }
+.gcatav {
+    color: #0715cd;
+}
+.erisolsprite {
+    color: #4ac925;
+}
+.doc_scratch {
+    color: #FFF;
+    text-shadow: -1px -1px 2px #003700, 
+                  0px -2px 2px #003700,
+                  1px -1px 2px #003700,
+                  -2px 0px 2px #003700, 
+                  2px  0px 2px #003700,
+                  -1px 1px 2px #003700, 
+                  0px  2px 2px #003700,
+                  1px  1px 2px #003700;
+}
 
 .box {
     padding: 1rem;
