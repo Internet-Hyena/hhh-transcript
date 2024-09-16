@@ -392,3 +392,5 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 <p class="davepetasprite">DAVEPETASPRITE: sure hope thats not true...</p>
 
 <p class="davepetasprite">DAVEPETASPRITE (cute): or well be here furrever!</p>
+
+*A chapter select screen pops up. The remaining chapters are selected from this screen.*

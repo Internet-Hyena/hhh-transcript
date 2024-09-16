@@ -15,3 +15,5 @@ layout: layouts/main.njk
 {% renderFile "./src/chapter2.md", "", "njk" %}
 {% renderFile "./src/chapter3.md", "", "njk" %}
 {% renderFile "./src/chapter4.md", "", "njk" %}
+{% renderFile "./src/chapter5.md", "", "njk" %}
+{% renderFile "./src/chapter6.md", "", "njk" %}
