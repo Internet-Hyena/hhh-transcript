@@ -7,6 +7,9 @@
 .davepetasprite {
     color: #F2A400;
 }
+.davepetasprite > .prefix {
+    color: #4AC925;
+}
 .aradiabot {
     color: #A10000
 }

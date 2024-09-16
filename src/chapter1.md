@@ -310,21 +310,21 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 ![Davepetasprite hunched over, with their claws extended.](images/1/characters/davepetasprite/davepeta_roleplay.webp)
 
-<p class="davepetasprite">DAVEPETASPRITE: *dp pads through the underbrush of the forest, leaving paw prints after themselves in the freshly fallen snow*</p>
-<p class="davepetasprite">DAVEPETASPRITE: *their ears twitch cutely with every step they take beclaws as perfect a creature as they are cats are still too fucking stupid to invent proper p33ts protectors*</p>
-<p class="davepetasprite">DAVEPETASPRITE: *they will probably need to get these silly little beans amputated after walking through all this white shit but whatever its fine, at the end of this tail is an important furiend*</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> *dp pads through the underbrush of the forest, leaving paw prints after themselves in the freshly fallen snow*</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> *their ears twitch cutely with every step they take beclaws as perfect a creature as they are cats are still too fucking stupid to invent proper p33ts protectors*</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> *they will probably need to get these silly little beans amputated after walking through all this white shit but whatever its fine, at the end of this tail is an important furiend*</p>
 
 ![Vriska, now wearing a tank top version of her shirt, and with her hair pulled back.](images/1/characters/vriska/vriska_neutral1.png)
 <p class="vriska">VRISKA: ...</p>
-<p class="davepetasprite">DAVEPETASPRITE: every year farmers and freaks alike crowd around this curious critter wringing their sweaty boring human hands all nervously hoping for winters end</p>
-<p class="davepetasprite">DAVEPETASPRITE: but this overhyped moles shadow offurs a symbolic appouncement for the spider instead</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> every year farmers and freaks alike crowd around this curious critter wringing their sweaty boring human hands all nervously hoping for winters end</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> but this overhyped moles shadow offurs a symbolic appouncement for the spider instead</p>
 <p class="vriska">VRISKA: ........</p>
-<p class="davepetasprite">DAVEPETASPRITE: the breaking of cycles, dissolution of the self, whatever other philosophical rhetoric bill murray said in that one meowvie</p>
-<p class="davepetasprite">DAVEPETASPRITE: its all up to you, spider, to grab this guy by the furry haunches bend him over and nonsexually spank him into submewssion</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> the breaking of cycles, dissolution of the self, whatever other philosophical rhetoric bill murray said in that one meowvie</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> its all up to you, spider, to grab this guy by the furry haunches bend him over and nonsexually spank him into submewssion</p>
 
 ![Davepeta, standing](images/1/characters/davepetasprite/davepeta_neutral.webp)
 
-<p class="davepetasprite">DAVEPETASPRITE (neutral): what will you do vriska?</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (neutral): B33 <</span> what will you do vriska?</p>
 
 ![Vriska, hunched over with rage.](images/1/characters/vriska/vriska_angry.webp)
 
@@ -332,19 +332,19 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 ![Davepeta, an eyebrow and fist raised throughtfully](images/1/characters/davepetasprite/davepeta_thinking.webp)
 
-<p class="davepetasprite">DAVEPETASPRITE: vriskers not to ask an obvious question but</p>
-<p class="davepetasprite">DAVEPETASPRITE: are you good?</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> vriskers not to ask an obvious question but</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> are you good?</p>
 
 ![Davepeta, with a concerned expression](images/1/characters/davepetasprite/davepeta_uncomfortable.webp)
 
-<p class="davepetasprite">DAVEPETASPRITE (uncomfortable): you s33m... depressed</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (uncomfortable): B33 <</span> you s33m... depressed</p>
 <p class="vriska">VRISKA: What are you talking a8out?</p>
 <p class="vriska">VRISKA: Isn't it o8vious how excited I am?</p>
 <p class="vriska">VRISKA: 8anging my head against a wall for several hours is practically my daily medit8tion now.</p>
 
 <p class="vriska">VRISKA (angry): "Purrhaps" today will 8e the day I finally give myself a deep enough pan lesion that my neurons will reset and I can finally understand what I'm supposed to 8e doing here.</p>
 <p class="vriska">VRISKA: Finally moving on FROM THIS 8ORING M8ND NUM8ING SHIIIIIIITTY PUNISHM8NT PIT.</p>
-<p class="davepetasprite">DAVEPETASPRITE: wrow</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> wrow</p>
 
 ![Vriska, pouting](images/1/characters/vriska/vriska_sad.webp)
 
@@ -352,45 +352,45 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 <p class="vriska">VRISKA: Can you please tell me what to do? And not in some coy, rounda8out way like you have 8een.</p>
 
 <p class="vriska">VRISKA (neutral): You're supposed to 8e guiding me, 8ut instead sweeps of my life are 8eing w8sted here when I could 8e doing so much more out there.</p>
-<p class="davepetasprite">DAVEPETASPRITE: trust me im trying!!</p>
-<p class="davepetasprite">DAVEPETASPRITE: my advice is just... a litter bit limited</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> trust me im trying!!</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> my advice is just... a litter bit limited</p>
 
-<p class="davepetasprite">DAVEPETASPRITE (thinking): ask me about mechanics or some dank catnip or even how to stunt down the stairs without breaking every bone in your body and i can chitter your ear off for another couple years</p>
-<p class="davepetasprite">DAVEPETASPRITE: but countless cool dudes and kitty girls cant inform much on how to handle those classic serket problems</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (thinking): B33 <</span> ask me about mechanics or some dank catnip or even how to stunt down the stairs without breaking every bone in your body and i can chitter your ear off for another couple years</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> but countless cool dudes and kitty girls cant inform much on how to handle those classic serket problems</p>
 
 ![Davepeta, with a neutral expression](images/1/characters/davepetasprite/davepeta_pokerface.webp)
 
-<p class="davepetasprite">DAVEPETASPRITE (pokerface): feel me?</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (pokerface): B33 <</span> feel me?</p>
 <p class="vriska">VRISKA: Soooooooo what you are saying is you can't help 8ecause you are the Ultimate Winged Weener and can't relate to 8eing a huge 8itch like me?</p>
-<p class="davepetasprite">DAVEPETASPRITE: ha he</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> ha he</p>
 
-<p class="davepetasprite">DAVEPETASPRITE (pokerface): w33ner</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (pokerface): B33 <</span> w33ner</p>
 
 ![Davepeta making a cute face with squinted eyes and kissy lips, curling their hands into paws. Bishi sparkles float next to them.](images/1/characters/davepetasprite/davepeta_cute.webp)
-<p class="davepetasprite">DAVEPETASPRITE (cute): but yeah thats pretty much how it is</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (cute): B33 <</span> but yeah thats pretty much how it is</p>
 
-<p class="davepetasprite">DAVEPETASPRITE (neutral): you know what they say theres purrppets and then theres pawppet33rs</p>
-<p class="davepetasprite">DAVEPETASPRITE: and both mew selves rather be on the yarn strings</p>
-<p class="davepetasprite">DAVEPETASPRITE: so alot of my thoughts on how to come back from all your bullshit begins and ends at "i simply would not have done that in the first place"</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (neutral): B33 <</span> you know what they say theres purrppets and then theres pawppet33rs</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> and both mew selves rather be on the yarn strings</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> so alot of my thoughts on how to come back from all your bullshit begins and ends at "i simply would not have done that in the first place"</p>
 
-<p class="davepetasprite">DAVEPETASPRITE (pokerface): no judgment of course</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (pokerface): B33 <</span> no judgment of course</p>
 
-<p class="davepetasprite">DAVEPETASPRITE (thinking): see if you had watched the damn groundhog movie youd have all the relatable advice youd n33d</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (thinking): B33 <</span> see if you had watched the damn groundhog movie youd have all the relatable advice youd n33d</p>
 <p class="vriska">VRISKA: I will never ever watch that stupid groundhog movie!</p>
 <p class="vriska">VRISKA: This is such 8ullshit. Like you're some softy, hurt-no8ody housecat! You literally defe8ed Lord English and kill wild animals with your 8are h8nds!!!!!!!!</p>
-<p class="davepetasprite">DAVEPETASPRITE: ok hunting is way different</p>
-<p class="davepetasprite">DAVEPETASPRITE: blood and guts and broken wrists and fractured tailbones</p>
-<p class="davepetasprite">DAVEPETASPRITE: thats nature and instinct it doesnt have to be mean</p>
-<p class="davepetasprite">DAVEPETASPRITE (roleplay): *the fearsome gender neutral lionesster pins down its prey but instead of getting down to business growls out how the prey deserves this for being a big disappointing pussy*</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> ok hunting is way different</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> blood and guts and broken wrists and fractured tailbones</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> thats nature and instinct it doesnt have to be mean</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (roleplay): B33 <</span> *the fearsome gender neutral lionesster pins down its prey but instead of getting down to business growls out how the prey deserves this for being a big disappointing pussy*</p>
 
-<p class="davepetasprite">DAVEPETASPRITE (uncomfortable): s33 very weird</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (uncomfortable): B33 <</span> s33 very weird</p>
 
-<p class="davepetasprite">DAVEPETASPRITE (cute): i might have to eat a guy but that doesnt mean i cant respect them</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (cute): B33 <</span> i might have to eat a guy but that doesnt mean i cant respect them</p>
 <p class="vriska">VRISKA: 8ut what if the natural order is exactly what's working against me here?</p>
 
 <p class="vriska">VRISKA (angry): Wh8t am I supposed to do then????????</p>
-<p class="davepetasprite">DAVEPETASPRITE: sure hope thats not true...</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> sure hope thats not true...</p>
 
-<p class="davepetasprite">DAVEPETASPRITE (cute): or well be here furrever!</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (cute): B33 <</span> or well be here furrever!</p>
 
 *A chapter select screen pops up. The remaining chapters are selected from this screen.*
