@@ -12,9 +12,9 @@ This is a work in progress created by one random fan. Please be patient! In the 
 
 ## Links
 
-* [GitHub Repository](https://github.com/Internet-Hyena/hypertext-hecktier-chatlog)
 * [Homestuck: Beyond Canon – {S} Begin Session.](https://beyondcanon.com/story/666)
-* [/r/Homestuck on Reddit](https://old.reddit.com/r/Homestuck)
+* [GitHub Repository](https://github.com/Internet-Hyena/hypertext-hecktier-chatlog)
+* [Thread on /r/Homestuck](https://www.reddit.com/r/homestuck/comments/1fi92c2/wip_a_static_html_chatlog_version_of_s_begin/)
 
 ## No Copyright Intended
 
