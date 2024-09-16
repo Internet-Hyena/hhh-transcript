@@ -1,9 +1,17 @@
+:root {
+    --bg-color: #eee;
+    --fg-primary: #000;
+    --font-primary: 500 1rem/1.6 Courier, monospace;
+    --font-interface: 1rem/1.6 Verdana, sans-serif;
+}
+
 body {
     max-width: 650px;
     margin: 0 auto;
-    font-family: Courier, Courier Prime, Courier New, monospace;
-    line-height: 1.6;
-    background-color: #eee;
+
+    font: var(--font-primary);
+    background-color: var(--bg-color);
+    color: var(--fg-primary)
 }
 
 img {
@@ -26,4 +34,38 @@ img[src*="character"][src*="vriska"] {
         position: fixed;
         left: 0;
     }
+}
+
+.box {
+    padding: 1rem;
+    border: 1px solid #888;
+    border-radius: 0.5rem;
+    text-align: center;
+}
+
+.big {
+    font-size: 150%;
+}
+
+.bigger {
+    font-size: 200%;
+}
+
+.biggest {
+    font-size: 300%;
+}
+
+h3 {
+    font: var(--font-interface);
+    font-size: 2rem;
+    text-align: center;
+    box-shadow:
+        0 0 0 4px #888,
+        0 0 0 8px #444;
+    color: blue;
+}
+
+h3::before {
+    content: "> ";
+    color: var(--fg-primary);
 }

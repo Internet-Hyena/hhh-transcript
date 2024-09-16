@@ -57,25 +57,3 @@
 .doc_scratch_center {
     --scratch-outline: var(--scratch-outline-center);
 }
-
-
-
-.box {
-    padding: 1rem;
-    border: 1px solid #888;
-    border-radius: 0.5rem;
-    text-align: center;
-}
-
-.big {
-    font-size: 150%;
-}
-
-.bigger {
-    font-size: 200%;
-}
-
-.biggest {
-    font-size: 300%;
-}
-

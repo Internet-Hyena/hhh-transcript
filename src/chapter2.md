@@ -2,7 +2,7 @@
 
 ![Chapter select button. A stack of manuals for the roleplaying game, Flarp.](./images/chapterselect/flarp.png)
 
-### \>  {Select "FLARP BOOK"}
+### {Select "FLARP BOOK"}
 
 ![The grassy cliff outside Tavros's hive.](images/tavroscliff.png)
 
@@ -73,7 +73,7 @@
 
 <p class="vriska">VRISKA (neutral): I'm already here, might as well knock another option off the list I GUESS.</p>
 
-### \>  {Play game.}
+### {Play game.}
 ![Tavros, in his green Pupa Pan costume.](./images/2/characters/tavros/tavros_pupa_neutralsmile.webp)
 <p class="tavros">TAVROS (pupa smiling): yAY!</p>
 
@@ -256,7 +256,7 @@
 <p class="aradiabot">ARADIABOT (shadowed): exactly</p>
 <p class="aradiabot">ARADIABOT (shadowed): y0ure finally starting t0 get it</p>
 
-### \>  {==>}
+### {==>}
 
 ![Background: The Land of Maps of Treasure, Vriska's planet from her Sburb session.](images/2/images/lomat.png)
 
@@ -420,10 +420,10 @@
 
 ![Aradiabot stands over Vriska with an arm outstretched.](images/2/images/panel1.png)
 
-### \>  {Vriska: Take Aradia's hand.}
+### {Vriska: Take Aradia's hand.}
 ![The interior of Vriska's quest cocoon. A pillar of light shines from the top and spotlights the quest bed in the center.](images/2/images/questcocoon.png)
 
-### \>  {==>}
+### {==>}
 ![Vriska lying on her quest bed with a concerned expression. Aradia and Tavros hold her hand and smile.](images/2/images/panel2.png)
 
 <p class="vriska">VRISKA: I know it doesn't change anything, 8ecause it already happened and also you two aren't even real.</p>
@@ -431,7 +431,7 @@
 
 <p class="tavros">TAVROS: yOURE RIGHT, iT'S DEFINITELY POINTLESS TO SAY, bUT, iT IS AN APPRECI8TED GESTURE };)</p>
 
-### \>  {==>}
+### {==>}
 ![A closeup of Vriska lying down, her eye shut.](images/2/images/panel3.png)
 
 <p class="vriska">VRISKA: And, it's not going to 8e the same again.</p>
@@ -448,6 +448,6 @@
 <p class="aradia">ARADIA: g00d luck vriska</p>
 <p class="aradia">ARADIA: i h0pe y0u get better s00n</p>
 
-### \>  {Level Complete!}
+### {Level Complete!}
 
 ![A level-up screen, resembling the Echeladder. Vriska stands beside a tall black candle with a blue flame, and a list of her most recently achieved levels (Hell Tiers?). She has most recently achieved the tier "BOUNDARY RESPECTER". ](images/2/images/level_complete.webp)

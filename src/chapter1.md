@@ -127,7 +127,7 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 <p class="vriska">VRISKA: Fuck, that was a good one... this character growth shit is hard.</p>
 
-### \>  {Hours later, but not many.}
+### {Hours later, but not many.}
 
 ![Vriska, pouting](images/1/characters/vriska/gt/vriska_gt_sad.webp)
 
@@ -275,29 +275,29 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 <p class="vriska">VRISKA: I didn't want to do this, Tavros, 8ut you're forcing my hand here. I won't make the same mistake again.</p>
 
-### \>  {Thief: Do the right thing.}
+### {Thief: Do the right thing.}
 
 ![Vriska holds her head and engages mind control. Her symbol alternates with Tavros's on her forehead.](images/1/images/panel1.webp)
 
-### \>  {It's really for the 8est.}
+### {It's really for the 8est.}
 ![Tavros stands stunned, arms outstretched, as Vriska's symbol flashes on his forehead.](images/1/images/panel2.webp)
 ![Close-up of Tavros's hand, grasping the Cigarette Holder Lance](images/1/images/panel3.png)
 
 <p class="vriska">VRISKA: Good luck.</p>
 
-### \>  {Adios, Toreador.}
+### {Adios, Toreador.}
 
 ![Tavros arches his arms back...](images/1/images/panel4.png)
 
-### \>  {==>}
+### {==>}
 
 ![And impales Vriska using the lance.](images/1/images/panel5.png)
-### \>  {==>}
+### {==>}
 ![Vriska dead on the ground, blue blood splattered behind her. She is captioned "DEAD."](images/1/images/panel6.png)
 
 <p class="tavros">TAVROS: uHH, oH SHUCKS, bYE VRISKA,</p>
 
-### \>  {==>}
+### {==>}
 
 ![Vriska, back at the beach outside her hive.](images/1/images/end.png)
 
@@ -306,7 +306,7 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 > What will you do?"
 
 
-### YEAR 2
+<div class="box big">YEAR 2</div>
 
 ![Vriska's bedroom in her hive.](images/vriskaroom.png)
 

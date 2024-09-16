@@ -69,7 +69,7 @@
 <p class="erisolsprite">ERISOLSPRITE: ok wwell fuck u2 for tryiin ii gue22, havve fun gettiing traumatiized.</p>
 <p class="vriska">VRISKA: I'm not gonna get traumatized!</p>
 
-### \>  {ENTER SCRATCH'S PARLOR}
+### {ENTER SCRATCH'S PARLOR}
 
 *Fade to white*
 
@@ -125,7 +125,7 @@
 
 *Vriska shrinks and disappears into the corner of the frame.*
 
-### \> {o} ==>
+### {o} ==>
 
 *Fade to black.*
 
@@ -299,6 +299,6 @@
 
 <p class="erisolsprite">ERISOLSPRITE: oh you totally got traumatiized.</p>
 
-### \>  {Level Complete!}
+### {Level Complete!}
 
 ![Level-up screen. The candle is half-melted. The background and tier list is splattered with rainbow blood. Vriska has achieved the rank PAVLOV'S DAWGG.](./images/4/images/level_complete.webp)
