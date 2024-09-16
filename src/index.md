@@ -1,11 +1,13 @@
 ---
-title: "Hyperbolic Hecktier Chamber"
+title: "Hypertext Hecktier Chatlog"
 layout: layouts/main.njk
 ---
 
 # {S} Begin Session.
 
-[B33<, what's this?](about/)
+*This is an HTML transcript of [page #666](https://beyondcanon.com/story/666) of Homestuck: Beyond Canon.*
+
+\> [About](about/)
 
 [[toc]]
 
