@@ -317,7 +317,7 @@
 <p class="mindmom">The spider would not notice when the girl turned to leave.</p>
 <p class="mindmom">And the girl would not turn around to see if she had.</p>
 <p class="mindmom">The 8ound cover was closed on our trusted narr8tor, as she whispered these final words.</p>
-<p class="mindmom">“Good luck, Vriska.\n8e assured, you will need it.”</p>
+<p class="mindmom">“Good luck, Vriska.<br>8e assured, you will need it.”</p>
 
 *SFX: Reverberating footsteps, slowly walking away.*
 
