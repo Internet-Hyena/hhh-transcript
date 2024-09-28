@@ -5,7 +5,8 @@
     --davepeta-prefix: #4AC925;
     --aradia: #A10000;
     --nanna: #009eff;
-    --mindmom: var(var(--vriska));
+     /* intentionally non-canon. darkened for contrast with vriska's text */
+    --mindmom: hsl(200, 50%, 20%);
     --gcatav: #0715cd;
     --erisol: #4ac925;
     --scratch: #FFFFFF;
