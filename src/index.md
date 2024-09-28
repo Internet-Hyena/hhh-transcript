@@ -5,7 +5,7 @@ layout: layouts/main.njk
 
 # {S} Begin Session.
 
-*This is an HTML transcript of [page #666](https://beyondcanon.com/story/666) of Homestuck: Beyond Canon.*
+This is an HTML transcript of [page #666](https://beyondcanon.com/story/666) of Homestuck: Beyond Canon.
 
 \> [About](about/)
 

@@ -1,7 +1,7 @@
 :root {
     --bg-color: #eee;
     --fg-primary: #000;
-    --font-primary: 500 1rem/1.6 Courier, monospace;
+    --font-primary: 1rem/1.6 "Courier Prime", monospace;
     --font-interface: 1rem/1.6 Verdana, sans-serif;
 }
 
@@ -36,7 +36,10 @@ img[src*="character"][src*="jasprose"] {
     transform: scaleX(-1.0);
 }
 
-@media screen and (min-width: 1500px) {   
+.table-of-contents {
+    font: var(--font-interface);
+}
+@media screen and (min-width: 1400px) {   
     .table-of-contents {
         position: fixed;
         left: 0;
@@ -62,9 +65,28 @@ img[src*="character"][src*="jasprose"] {
     font-size: 300%;
 }
 
-h3 {
+h1, h2, h3, h4 {
     font: var(--font-interface);
     font-size: 2rem;
+}
+
+h1 {
+    font: var(--font-primary);
+    font-size: 2rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    font: var(--font-interface);
+    font-size: 2em;
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+
+h3, .command-box {
+    font: var(--font-interface);
+    font-size: 1.5em;
     text-align: center;
     box-shadow:
         0 0 0 4px #888,
