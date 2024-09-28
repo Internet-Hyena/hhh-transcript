@@ -11,6 +11,8 @@
     --scratch: #FFFFFF;
     --scratch-outline: #003700; 
     --scratch-outline-center: #2ed73a;
+    --jasprosesprite: #b536da;
+    --jasprosesprite-prefix: #ff6ef2;
 }
 
 .vriska {
@@ -57,4 +59,13 @@
 .doc_scratch_center {
     --scratch-outline: var(--scratch-outline-center);
     text-align: center;
+}
+.jasprosesprite {
+    color: var(--jasprosesprite);
+}
+.jasprosesprite > .prefix {
+    color: var(--jasprosesprite-prefix);
+}
+.thepoint {
+    color: #000;
 }
