@@ -18,7 +18,7 @@
 <p class="vriska">VRISKA: I don't want to 8ore you, it's just the same pro8lem as always.</p>
 
 ![Adult Vriska, folding her arms and turning away, with a sad expression.](./images/3/characters/vriska/vriska_sad.webp)
-<p class="vriska">VRISKA (adult sad): Finally I get my sea legs and figured out what this whole process is a8out, 8reeze through Eridan and John and Kanaya, only to get stuck all over again on HER.</p>
+<p class="vriska">VRISKA (sad): Finally I get my sea legs and figured out what this whole process is a8out, 8reeze through Eridan and John and Kanaya, only to get stuck all over again on HER.</p>
 <p class="nannasprite">NANNASPRITE: Well I am sure there is some common thread, every trial you face is designed to better prepare you for the next.</p>
 <p class="vriska">VRISKA: I'm not so sure........she's different from the rest of them. And no matter how I approach this, I can't figure out what the hell she wants.</p>
 <p class="nannasprite">NANNASPRITE: You'll figure it out sooner than you expect, deary! I have the utmost faith in you.</p>
@@ -30,7 +30,7 @@
 ![Adult Vriska, smiling](./images/3/characters/vriska/vriska_smiling.webp)
 <p class="vriska">VRISKA: Hell yeeeeeeees!!!!!!!!</p>
 <p class="vriska">VRISKA: It's funny thinking 8ack on it, John and I actually had a conversation a8out you sweeps ago.</p>
-<p class="vriska">VRISKA (adult smiling): We kind of 8onded over how, past our cultural differences, we shared this same experience of connecting to our predecessors through their writings.</p>
+<p class="vriska">VRISKA (smiling): We kind of 8onded over how, past our cultural differences, we shared this same experience of connecting to our predecessors through their writings.</p>
 <p class="vriska">VRISKA: I'm glad he finally got to meet you. I hope he appreci8ted every minute of it!</p>
 
 <p class="nannasprite">NANNASPRITE (giggle): Oh ho, I'd like to think so!</p>
@@ -49,13 +49,13 @@
 <p class="nannasprite">NANNASPRITE: It never sat right with me, how limited my experience with actual humans was.</p>
 <p class="nannasprite">NANNASPRITE: I couldn't exactly bring that man back from the dead, but I could put myself in his shoes and do the bang up job he never had the opportunity to do. Not to mention, I like babies! :B</p>
 <p class="vriska">VRISKA: That's it?</p>
-<p class="vriska">VRISKA (adult angry): I don't know, couldn't you have done anything else? What's so special a8out 8a8ies? I saw one in passing and they're weird as hell! Rose told me they even pee their damn pants!</p>
+<p class="vriska">VRISKA (angry): I don't know, couldn't you have done anything else? What's so special a8out 8a8ies? I saw one in passing and they're weird as hell! Rose told me they even pee their damn pants!</p>
 <p class="nannasprite">NANNASPRITE (giggle): They sure do! Sometimes, they'll even pee on you too.</p>
 
 ![Adult Vriska, mouth agape, eyebrow twitching](./images/3/characters/vriska/vriska_jawdrop.webp)
 <p class="vriska">VRISKA (jaw drop): They pee ON people!</p>
 <p class="vriska">VRISKA:  What........</p>
-<p class="vriska">VRISKA (adult neutral): That sounds like a nightmare.</p>
+<p class="vriska">VRISKA (neutral): That sounds like a nightmare.</p>
 <p class="nannasprite">NANNASPRITE (giggle): It is! One time my son laughed at me as it was happening!</p>
 
 ![Adult Vriska, mouth agape, eyebrow twitching](./images/3/characters/vriska/vriska_angry.webp)
@@ -176,7 +176,7 @@
 <p class="vriska">VRISKA: I don't know if it's a f8tal symptom of watching the sweeps go 8y, 8ut FLARPing isn't as fun anymore. A lot of energy and drama for nothing.</p>
 <p class="mindmom">(thinking annoyed) That statement was so un8elieva8le as to 8e almost insulting. Who could deny a little drama? Everyone appreci8ted a good game. Especially the girl.</p>
 <p class="vriska">VRISKA: Ok, yes, I am attached to the struggle. 8ut 8ack then, all that satisf8ction was pretty short lived.</p>
-<p class="vriska">VRISKA (adult sad): Every win, I had to share with her. Every moment, I felt her w8ting for me. It feels 8ad, not getting a choice when you do all the fucking work.</p>
+<p class="vriska">VRISKA (sad): Every win, I had to share with her. Every moment, I felt her w8ting for me. It feels 8ad, not getting a choice when you do all the fucking work.</p>
 <p class="mindmom">When we were sailing the high seas, we did not exhaust our exploits with self indulgent contrition.</p>
 <p class="mindmom">Daily we made 8ets with death, and whichever faulty panlo8es occasionally sparked empathetic were rightly silenced, that we might revel in our winnings undistur8ed. We have always taken what we wanted </p>
 
@@ -195,15 +195,15 @@
 <p class="vriska">VRISKA (angry smiling): 8ZZZZZZZZT WRONG! I'm not falling for that hoofshit again.</p>
 <p class="vriska">VRISKA (angry smiling): I've already tried respecting you for making me the 8est, 8ut you know what I'm realizing?</p>
 <p class="vriska">VRISKA (angry smiling): I didn't have to go through aaaaaaaall of THAT to 8e strong. Vrissy didn't!</p>
-<p class="vriska">VRISKA (adult angry): Even growing up in a f8ke world where no one has a spine, and with 8arely any guidance, her powers can do things mine can't.</p>
-<p class="vriska">VRISKA (adult angry smiling): So what silver lining is left, honestly?</p>
+<p class="vriska">VRISKA (angry): Even growing up in a f8ke world where no one has a spine, and with 8arely any guidance, her powers can do things mine can't.</p>
+<p class="vriska">VRISKA (angry smiling): So what silver lining is left, honestly?</p>
 
 ![Mindfang, looking down, silent.](./images/3/characters/mindmom/mindfang_silent.png)
 <p class="mindmom">........</p>
 
 <p class="vriska">VRISKA (angry smiling): 8ut that's the point, right?</p>
 <p class="vriska">VRISKA: There is no p8sitive spin, no learning to appreci8 you, 8ecause even 8y Alternian st8ndards you sucked!</p>
-<p class="vriska">VRISKA (adult angry): You weren't a cust8dian, you were a responsi8ility.</p>
+<p class="vriska">VRISKA (angry): You weren't a cust8dian, you were a responsi8ility.</p>
 <p class="vriska">VRISKA: I protected you, I c8red for you, and you would have happily killed me the moment things didn't go your w8y.</p>
 <p class="mindmom">And?</p>
 
@@ -215,7 +215,7 @@
 
 <p class="vriska">VRISKA (sad): God, you're insuffera8le!!!!!!!!</p>
 <p class="vriska">VRISKA: I had one place I was supposed to feel safe.</p>
-<p class="vriska">VRISKA (adult angry): Why did you h8ve to 8e everything wrong with the w8rld, rolled into one terri8le monster?</p>
+<p class="vriska">VRISKA (angry): Why did you h8ve to 8e everything wrong with the w8rld, rolled into one terri8le monster?</p>
 <p class="mindmom">The spider has no answer to that. She has never once thought of her own n8ture. She has only ever lived and devoured.</p>
 
 ![Momfang, thinking, annoyed.](./images/3/characters/mindmom/momfang_back.webp)
@@ -245,7 +245,7 @@
 <p class="mindmom">It was a well written, one-of-a-kind historical document that mapped out all the swash8uckling majesty of a 8rilliant woman's destiny.</p>
 <p class="vriska">VRISKA: Of course you'd s8y that, you wr8te it!</p>
 <p class="vriska">VRISKA: 8ut sure, y8u helped keep me alive, and m8de me a wicked pir8. Unfortun8tely, it made everyone else h8 me!</p>
-<p class="vriska">VRISKA (adult sad): I could have 8een any8ody... and you took that aw8y from me. You made me afraid of it.</p>
+<p class="vriska">VRISKA (sad): I could have 8een any8ody... and you took that aw8y from me. You made me afraid of it.</p>
 <p class="mindmom">“STUPID. STUPID. STUPID. STUPID. STUPID. STUPID. STUPID. STUPID.”</p>
 <p class="mindmom">The girl has to 8e reminded, she is not special.</p>
 <p class="mindmom">She is not the victim of some gr8 tragedy.</p>
@@ -279,7 +279,7 @@
 <p class="vriska">VRISKA: You know, every week I come in here trying to figure out what more you could possi8ly want from me, and every week it's the same shit.</p>
 
 ![Adult Vriska, smiling](./images/3/characters/vriska/vriska_smiling.webp)
-<p class="vriska">VRISKA (adult smiling): I really am suuuuuuuuch a moron.</p>
+<p class="vriska">VRISKA (smiling): I really am suuuuuuuuch a moron.</p>
 <p class="mindmom">“FEED.”</p>
 <p class="vriska">VRISKA (smiling): Exactly. It was never any deeper than that, the answer was right in front of my face.</p>
 <p class="vriska">VRISKA: Well. I'm not your free meal ticket anymore.</p>

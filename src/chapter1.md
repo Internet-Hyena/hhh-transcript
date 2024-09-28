@@ -14,23 +14,23 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 <p class="box">What will you do?</p>
 
-<p class="vriska">VRISKA (gt angry): What do you MEAN what will I do????????</p>
+<p class="vriska">VRISKA (angry): What do you MEAN what will I do????????</p>
 
 <p class="vriska">VRISKA: Davepeta, is that you?</p>
 
 ![Vriska thinking](images/1/characters/vriska/gt/vriska_gt_thinking.webp)
 
-<p class="vriska">VRISKA (gt thinking): ...</p>
+<p class="vriska">VRISKA (thinking): ...</p>
 
 ![Vriska smirking and shrugging](images/1/characters/vriska/gt/vriska_gt_smug.webp)
 
-<p class="vriska">VRISKA (gt smug): Wow once again it falls to me to figure all this shit out in any sort of meaningful way.</p>
+<p class="vriska">VRISKA (smug): Wow once again it falls to me to figure all this shit out in any sort of meaningful way.</p>
 
-<p class="vriska">VRISKA (gt idle): ...</p>
+<p class="vriska">VRISKA (idle): ...</p>
 
 ![Vriska hunched over in rage](images/1/characters/vriska/gt/vriska_gt_angry.webp)
 
-<p class="vriska">VRISKA (gt angry): And why the fuck is Tavros here!!!!!!!!</p>
+<p class="vriska">VRISKA (angry): And why the fuck is Tavros here!!!!!!!!</p>
 
 ![Tavros](images/1/characters/tavros/tavros_neutral.webp)
 
@@ -47,17 +47,17 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 <p class="tavros">TAVROS (smiling): lIVE HERE MOSTLY,</p>
 <p class="vriska">VRISKA: Shut the fuck up Tavros!</p>
 
-<p class="vriska">VRISKA (gt thinking): This is o8viously some sort of trial.</p>
+<p class="vriska">VRISKA (thinking): This is o8viously some sort of trial.</p>
 
 <p class="vriska">VRISKA: Cleeeeeeeearly I'm 8eing faced with the ghosts of my past and I have to "sort it out" or some horse shit.</p>
 
 <p class="vriska">VRISKA: Thanks for the guidance, Nepadave, or whoever the literal hell.</p>
 
-<p class="vriska">VRISKA (gt smug): 8ut I got it all figured out already!</p>
+<p class="vriska">VRISKA (smug): 8ut I got it all figured out already!</p>
 
-<p class="vriska">VRISKA (gt thinking): I'm going to speedrun enlightenment and save this horri8le fake universe from imploding in on itself.</p>
+<p class="vriska">VRISKA (thinking): I'm going to speedrun enlightenment and save this horri8le fake universe from imploding in on itself.</p>
 
-<p class="vriska">VRISKA (gt smug): You're welcome.</p>
+<p class="vriska">VRISKA (smug): You're welcome.</p>
 <p class="tavros">TAVROS: oK WELL, i WILL PRETEND THAT, uHH</p>
 
 <p class="tavros">TAVROS: iF I WAS SOMEONE, wHO DIDN'T UNDERSTAND, wHAT YOU WERE SAYING,</p>
@@ -79,13 +79,13 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 <p class="tavros">TAVROS: sO, mAYBE, wE ARE BOTH GHOSTS,</p>
 
 <p class="tavros">TAVROS (smiling): }:)</p>
-<p class="vriska">VRISKA (gt thinking): I've already done this, though.</p>
+<p class="vriska">VRISKA (thinking): I've already done this, though.</p>
 
-<p class="vriska">VRISKA (gt smug): I reconciled with Tavros days ago.</p>
+<p class="vriska">VRISKA (smug): I reconciled with Tavros days ago.</p>
 
 <p class="vriska">VRISKA: I'm completely in the clear! He forgave me already.</p>
 <p class="tavros">TAVROS (nervous): fOR WHAT,</p>
-<p class="vriska">VRISKA (gt thinking): It couldn't 8e that easy, could it?</p>
+<p class="vriska">VRISKA (thinking): It couldn't 8e that easy, could it?</p>
 
 <p class="vriska">VRISKA: Hey. Tavros.</p>
 <p class="tavros">TAVROS (smiling): hI THAT'S ME, i THINK,</p>
@@ -94,21 +94,21 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 <p class="box">What will you do?</p>
 
-<p class="vriska">VRISKA (gt idle): </p>
+<p class="vriska">VRISKA (idle): </p>
 
-<p class="vriska">VRISKA (gt neutral): ... damn.</p>
+<p class="vriska">VRISKA (neutral): ... damn.</p>
 
-<p class="vriska">VRISKA (gt smug): Well I guess it wouldn't 8e worth anything if it were that simple.</p>
+<p class="vriska">VRISKA (smug): Well I guess it wouldn't 8e worth anything if it were that simple.</p>
 <p class="tavros">TAVROS (nervous): uM VRISKA DID-</p>
-<p class="vriska">VRISKA (gt angry): Ugh!!!!!!!!</p>
+<p class="vriska">VRISKA (angry): Ugh!!!!!!!!</p>
 
-<p class="vriska">VRISKA (gt thinking): What did they mean "sort it out," then? I feel fine a8out killing Tavros, and he's certainly ok with it now. The situation's sorted!</p>
+<p class="vriska">VRISKA (thinking): What did they mean "sort it out," then? I feel fine a8out killing Tavros, and he's certainly ok with it now. The situation's sorted!</p>
 <p class="tavros">TAVROS (smiling): iS THAT TRUE,</p>
 <p class="vriska">VRISKA: It's completely sorted!</p>
 
 <p class="vriska">VRISKA: Damn, it could have 8een any num8er of things.</p>
 
-<p class="vriska">VRISKA (gt smug): I did a lot of things wrong.</p>
+<p class="vriska">VRISKA (smug): I did a lot of things wrong.</p>
 
 <p class="vriska">VRISKA: Hey Tavros, I'm sorry I made you an accomplice to a really awesome assassination that I got my ass kicked for, 8ut then I 8ecame a god so 8asically it was the right thing to do.</p>
 
@@ -118,7 +118,7 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 <p class="box">What will you do?</p>
 
-<p class="vriska">VRISKA (gt thinking): No dice, huh? Okay, try this one on for size!</p>
+<p class="vriska">VRISKA (thinking): No dice, huh? Okay, try this one on for size!</p>
 
 <p class="vriska">VRISKA: I'm sorry I kissed you and then used mind control to make you try and love me that one time. That one's on me.</p>
 <p class="tavros">TAVROS (smiling): ...</p>
@@ -131,13 +131,13 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 ![Vriska, pouting](images/1/characters/vriska/gt/vriska_gt_sad.webp)
 
-<p class="vriska">VRISKA (gt sad): ...I'm sorry I said your lusus "smelled like tears".</p>
+<p class="vriska">VRISKA (sad): ...I'm sorry I said your lusus "smelled like tears".</p>
 
 <p class="box">What will you do?</p>
 
-<p class="vriska">VRISKA (gt angry): FUCK!!!!!!!!</p>
+<p class="vriska">VRISKA (angry): FUCK!!!!!!!!</p>
 
-<p class="vriska">VRISKA (gt thinking): I'm really scraping the 8ottom of the 8arrel here...</p>
+<p class="vriska">VRISKA (thinking): I'm really scraping the 8ottom of the 8arrel here...</p>
 
 <p class="vriska">VRISKA: and I'm 8eing sincere a8out at least 80%% of these!</p>
 <p class="tavros">TAVROS (nervous): aS MUCH FUN, aS I THINK YOU MAYBE THINK WE ARE MUTUALLY HAVING</p>
@@ -151,13 +151,13 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 <p class="tavros">TAVROS (smiling): uNIMPORTANT AND SORT OF, nORMAL,</p>
 
 <p class="tavros">TAVROS (nervous): fOR YOU,</p>
-<p class="vriska">VRISKA (gt thinking): </p>
+<p class="vriska">VRISKA (thinking): </p>
 
-<p class="vriska">VRISKA (gt smug): You're right.</p>
+<p class="vriska">VRISKA (smug): You're right.</p>
 
-<p class="vriska">VRISKA (gt idle): ...</p>
+<p class="vriska">VRISKA (idle): ...</p>
 
-<p class="vriska">VRISKA (gt idle): ...</p>
+<p class="vriska">VRISKA (idle): ...</p>
 
 <p class="box">What will you do?</p>
 
@@ -180,9 +180,9 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 <p class="vriska">VRISKA: And even after all I put you through, you're still not trying to get your just desserts.</p>
 
-<p class="vriska">VRISKA (gt sad): All this apologizing and rolling over and exposing my weaknesses isn't solving shit!</p>
+<p class="vriska">VRISKA (sad): All this apologizing and rolling over and exposing my weaknesses isn't solving shit!</p>
 
-<p class="vriska">VRISKA (gt smug): It's like I'm always saying, words are meaningless.</p>
+<p class="vriska">VRISKA (smug): It's like I'm always saying, words are meaningless.</p>
 
 <p class="vriska">VRISKA: What we need is action.</p>
 <p class="tavros">TAVROS (nervous): i THINK MAYBE, tHAT,</p>
@@ -200,15 +200,15 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 <p class="tavros">TAVROS (smiling eyesclosed): oH, oK,</p>
 <p class="vriska">VRISKA: Instead of me taking action, what I need is for you to take action.</p>
 
-<p class="vriska">VRISKA (gt smug): It was so o8vious that it's stupid, actually.</p>
+<p class="vriska">VRISKA (smug): It was so o8vious that it's stupid, actually.</p>
 <p class="tavros">TAVROS: tHAT'S NOT, wHAT I SAID, aT ALL,</p>
 <p class="vriska">VRISKA: The reason I'm stuck here is 8ecause I don't owe you plac8ing apologies</p>
 
 <p class="vriska">VRISKA: I owe you revenge. It's just that easy!</p>
 <p class="tavros">TAVROS: bUT-</p>
-<p class="vriska">VRISKA (gt smug): It's just that easy!</p>
+<p class="vriska">VRISKA (smug): It's just that easy!</p>
 <p class="tavros">TAVROS (idle): ...</p>
-<p class="vriska">VRISKA (gt angry): IT'S J-</p>
+<p class="vriska">VRISKA (angry): IT'S J-</p>
 <p class="tavros">TAVROS: bUT WHAT IF, sOMEONE WERE TO SAY, hYPOTHETICALLY SPEAKING,</p>
 
 <p class="tavros">TAVROS: i DON'T THINK THATS THE THING I WANT TO, uMM, bE DOING</p>
@@ -218,13 +218,13 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 <p class="tavros">TAVROS: aND THAT I STILL THINK IT WAS WRONG BUT I FORGIVE YOU FOR DOING THOSE THINGS THAT YOU SAID YOU DID, tO ME EARLIER,</p>
 <p class="vriska">VRISKA: No. You deserve revenge. Action 8egets action. This makes perfect sense to anyone who's 8een paying attention.</p>
 
-<p class="vriska">VRISKA (gt thinking): </p>
+<p class="vriska">VRISKA (thinking): </p>
 
-<p class="vriska">VRISKA (gt neutral): You have to throw me off this cliff.</p>
+<p class="vriska">VRISKA (neutral): You have to throw me off this cliff.</p>
 
 <p class="vriska">VRISKA: Then we'll 8e completely squared away.</p>
 <p class="tavros">TAVROS (nervous): uHH I DON'T THINK-</p>
-<p class="vriska">VRISKA (gt smug): I'm praaaaaaaactically an expert on this revenge thing. Trust me.</p>
+<p class="vriska">VRISKA (smug): I'm praaaaaaaactically an expert on this revenge thing. Trust me.</p>
 <p class="tavros">TAVROS: vRISKA I DON'T WANT TO DO A REVENGE ON YOU</p>
 
 <p class="tavros">TAVROS: fOR CRIMES, yOU HAVEN'T REALLY DONE, aND MAYBE SOME YOU DID,</p>
@@ -234,44 +234,44 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 <p class="tavros">TAVROS (nervous): bUT IT SOUNDS LIKE, bEING THROWN OFF A CLIFF MIGHT NOT BE A HEALTHY COPING MECHANISM,</p>
 <p class="vriska">VRISKA: It's fine! Kill me, get your revenge, and I'll finally 8e on my way.</p>
 
-<p class="vriska">VRISKA (gt smug): Out of your life forever! Never to torment you again!</p>
+<p class="vriska">VRISKA (smug): Out of your life forever! Never to torment you again!</p>
 
 <p class="vriska">VRISKA: And whatever version of you this is can go on living your little life playing with your little monster dolls or whatever!</p>
 
-<p class="vriska">VRISKA (gt sad): Here on Alternia.</p>
+<p class="vriska">VRISKA (sad): Here on Alternia.</p>
 
-<p class="vriska">VRISKA (gt sad): 8efore everything goes wrong.</p>
+<p class="vriska">VRISKA (sad): 8efore everything goes wrong.</p>
 
 <p class="vriska">VRISKA: You can kill me now 8efore it's too late for you.</p>
 
-<p class="vriska">VRISKA (gt sad): 8efore I screw your life up.</p>
+<p class="vriska">VRISKA (sad): 8efore I screw your life up.</p>
 
-<p class="vriska">VRISKA (gt smug): It's perfect!</p>
+<p class="vriska">VRISKA (smug): It's perfect!</p>
 <p class="tavros">TAVROS (nervous): nO I DON'T WANT TO DO THAT,</p>
 <p class="vriska">VRISKA: I know you have it in you. I've seen it.</p>
 
-<p class="vriska">VRISKA (gt angry): God damn it Tavros, if you don't kill me I can't move on.</p>
+<p class="vriska">VRISKA (angry): God damn it Tavros, if you don't kill me I can't move on.</p>
 
-<p class="vriska">VRISKA (gt neutral): You'd 8e doing me a favor.</p>
+<p class="vriska">VRISKA (neutral): You'd 8e doing me a favor.</p>
 
 <p class="vriska">VRISKA: Go on.</p>
 <p class="tavros">TAVROS (nervous): uHH,</p>
 <p class="vriska">VRISKA: Kill me.</p>
 <p class="tavros">TAVROS (nervous): nO,</p>
-<p class="vriska">VRISKA (gt angry): Hey get 8ack here!</p>
+<p class="vriska">VRISKA (angry): Hey get 8ack here!</p>
 <p class="tavros">TAVROS (nervous): nO!</p>
-<p class="vriska">VRISKA (gt angry): Stop running!</p>
+<p class="vriska">VRISKA (angry): Stop running!</p>
 <p class="tavros">TAVROS: nO, i LOVE TO RUN AND, i DO NOT PLAN ON STOPPING, aNY TIME SOON,</p>
 
 
-<p class="vriska">VRISKA (gt angry): You kill me right this instant!</p>
+<p class="vriska">VRISKA (angry): You kill me right this instant!</p>
 
 [Tavros turns and dashes off.]
 
 <p class="vriska">VRISKA: Damn it, I forgot how fast he used to 8e.</p>
 <p class="tavros">TAVROS: nO!</p>
 
-<p class="vriska">VRISKA (gt smug): Man, doing the right thing sure is hard work.</p>
+<p class="vriska">VRISKA (smug): Man, doing the right thing sure is hard work.</p>
 
 <p class="vriska">VRISKA: I didn't want to do this, Tavros, 8ut you're forcing my hand here. I won't make the same mistake again.</p>
 
