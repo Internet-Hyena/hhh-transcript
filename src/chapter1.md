@@ -139,7 +139,7 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 <p class="vriska">VRISKA (thinking): I'm really scraping the 8ottom of the 8arrel here...</p>
 
-<p class="vriska">VRISKA: and I'm 8eing sincere a8out at least 80%% of these!</p>
+<p class="vriska">VRISKA: and I'm 8eing sincere a8out at least 80% of these!</p>
 <p class="tavros">TAVROS (nervous): aS MUCH FUN, aS I THINK YOU MAYBE THINK WE ARE MUTUALLY HAVING</p>
 
 <p class="tavros">TAVROS: aND, i DON'T WANT TO RUIN THAT, bY</p>

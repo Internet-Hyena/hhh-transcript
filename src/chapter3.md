@@ -308,7 +308,7 @@
 
 <p class="vriska">VRISKA (stoic): Oh, a8solutely not.</p>
 <p class="vriska">VRISKA (stoic): Hell no.</p>
-<p class="mindmom">That proved a good call, as the spider had 100%% planned on eating the girl.</p>
+<p class="mindmom">That proved a good call, as the spider had 100% planned on eating the girl.</p>
 <p class="mindmom">Instead, the long lim8 was retracted, placed 8etween the monster's own massive jaws.</p>
 
 *Pause. SFX: A reverberating crunch.*
