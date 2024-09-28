@@ -19,7 +19,7 @@
 <p class="erisolsprite">ERISOLSPRITE: ii cant be held accountable for my dii2cordant cla22-2wwag diichotomy, but here you are a 2wweep and a half deep iin a per2onally taiilored realm of 2elf-reflectiion and you 2tiill choo2e twwo look liike thii2.</p>
 <p class="vriska">VRISKA: Heh.</p>
 <p class="erisolsprite">ERISOLSPRITE: heh.</p>
-<p class="erisolsprite">ERISOLSPRITE (neutral): anyway, come chiill.</p>
+<p class="erisolsprite">ERISOLSPRITE: anyway, come chiill.</p>
 <p class="gcatav">GCATAVROSPRITE: oR, iNSTEAD OF CHILLING,</p>
 <p class="gcatav">GCATAVROSPRITE (mischievous): wE COULD THROW AROUND A BALL OF YARN, oR SOMETHING ELSE VISUALLY STIMULATING, tHAT MIMICS MY PREFERRED QUARRY OF SMALL ANIMALS I COULD KILL FOR FUN AND NOT EAT,</p>
 <p class="gcatav">GCATAVROSPRITE (mischievous): aND I COULD CHASE IT WITH MY LEGS,</p>
@@ -33,7 +33,7 @@
 <p class="gcatav">GCATAVROSPRITE (mischievous): }:3</p>
 <p class="gcatav">GCATAVROSPRITE (sneeze): aCHOO!</p>
 <p class="erisolsprite">ERISOLSPRITE: dude, 2neeze iintwwo your fuckin 2houlder or 2omethiing.</p>
-<p class="erisolsprite">ERISOLSPRITE (neutral): arent you done beiin allergiic twwo your2elf?</p>
+<p class="erisolsprite">ERISOLSPRITE: arent you done beiin allergiic twwo your2elf?</p>
 <p class="gcatav">GCATAVROSPRITE: i MEAN,</p>
 <p class="gcatav">GCATAVROSPRITE (mischievous): *sNIFF*</p>
 <p class="gcatav">GCATAVROSPRITE (mischievous): i FEEL LIKE i'M DOING PRETTY GOOD, oN THE NOT BEING ALLERGIC TO MYSELF FRONT,</p>
@@ -52,7 +52,7 @@
 <p class="gcatav">GCATAVROSPRITE (subdued): *sNIFF*</p>
 <p class="erisolsprite">ERISOLSPRITE: yeah.</p>
 <p class="vriska">VRISKA: Whaaaaaaaat?</p>
-<p class="vriska">VRISKA (neutral): No way.</p>
+<p class="vriska">VRISKA: No way.</p>
 <p class="vriska">VRISKA (smiling): These irons are always, always fired.</p>
 <p class="gcatav">GCATAVROSPRITE: wELL, yEAH,</p>
 <p class="gcatav">GCATAVROSPRITE (subdued): aND HISTORICALLY SPEAKING-</p>
@@ -61,11 +61,11 @@
 <p class="vriska">VRISKA: You know what I mean.</p>
 <p class="vriska">VRISKA (smiling): I've just gotta get in there and make this shit happen.</p>
 <p class="vriska">VRISKA (proud): I pretty much AM the fire!</p>
-<p class="vriska">VRISKA (neutral): How 8ad could it even 8e?</p>
+<p class="vriska">VRISKA: How 8ad could it even 8e?</p>
 <p class="gcatav">GCATAVROSPRITE: ,,,</p>
 <p class="erisolsprite">ERISOLSPRITE: ...</p>
 <p class="vriska">VRISKA: ........</p>
-<p class="vriska">VRISKA (neutral): Look, I'm just gonna go ahead and do this thing.</p>
+<p class="vriska">VRISKA: Look, I'm just gonna go ahead and do this thing.</p>
 <p class="erisolsprite">ERISOLSPRITE: ok wwell fuck u2 for tryiin ii gue22, havve fun gettiing traumatiized.</p>
 <p class="vriska">VRISKA: I'm not gonna get traumatized!</p>
 

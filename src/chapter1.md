@@ -96,7 +96,7 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 <p class="vriska">VRISKA (idle): </p>
 
-<p class="vriska">VRISKA (neutral): ... damn.</p>
+<p class="vriska">VRISKA: ... damn.</p>
 
 <p class="vriska">VRISKA (smug): Well I guess it wouldn't 8e worth anything if it were that simple.</p>
 <p class="tavros">TAVROS (nervous): uM VRISKA DID-</p>
@@ -220,7 +220,7 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 <p class="vriska">VRISKA (thinking): </p>
 
-<p class="vriska">VRISKA (neutral): You have to throw me off this cliff.</p>
+<p class="vriska">VRISKA: You have to throw me off this cliff.</p>
 
 <p class="vriska">VRISKA: Then we'll 8e completely squared away.</p>
 <p class="tavros">TAVROS (nervous): uHH I DON'T THINK-</p>
@@ -252,7 +252,7 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 <p class="vriska">VRISKA (angry): God damn it Tavros, if you don't kill me I can't move on.</p>
 
-<p class="vriska">VRISKA (neutral): You'd 8e doing me a favor.</p>
+<p class="vriska">VRISKA: You'd 8e doing me a favor.</p>
 
 <p class="vriska">VRISKA: Go on.</p>
 <p class="tavros">TAVROS (nervous): uHH,</p>
@@ -326,7 +326,7 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 ![Davepeta, standing](images/1/characters/davepetasprite/davepeta_neutral.webp)
 
-<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (neutral): B33 <</span> what will you do vriska?</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> what will you do vriska?</p>
 
 ![Vriska, hunched over with rage.](images/1/characters/vriska/vriska_angry.webp)
 
@@ -353,7 +353,7 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 <p class="vriska">VRISKA: Sigh.</p>
 <p class="vriska">VRISKA: Can you please tell me what to do? And not in some coy, rounda8out way like you have 8een.</p>
 
-<p class="vriska">VRISKA (neutral): You're supposed to 8e guiding me, 8ut instead sweeps of my life are 8eing w8sted here when I could 8e doing so much more out there.</p>
+<p class="vriska">VRISKA: You're supposed to 8e guiding me, 8ut instead sweeps of my life are 8eing w8sted here when I could 8e doing so much more out there.</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> trust me im trying!!</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> my advice is just... a litter bit limited</p>
 
@@ -371,7 +371,7 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 ![Davepeta making a cute face with squinted eyes and kissy lips, curling their hands into paws. Bishi sparkles float next to them.](images/1/characters/davepetasprite/davepeta_cute.webp)
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (cute): B33 <</span> but yeah thats pretty much how it is</p>
 
-<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (neutral): B33 <</span> you know what they say theres purrppets and then theres pawppet33rs</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> you know what they say theres purrppets and then theres pawppet33rs</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> and both mew selves rather be on the yarn strings</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> so alot of my thoughts on how to come back from all your bullshit begins and ends at "i simply would not have done that in the first place"</p>
 

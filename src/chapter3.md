@@ -34,7 +34,7 @@
 <p class="vriska">VRISKA: I'm glad he finally got to meet you. I hope he appreci8ted every minute of it!</p>
 
 <p class="nannasprite">NANNASPRITE (giggle): Oh ho, I'd like to think so!</p>
-<p class="nannasprite">NANNASPRITE (neutral): I miss that boy, he could be such a pill at times but we had some lovely chats. Always sung his heart out during our little “jam seshs,” too.</p>
+<p class="nannasprite">NANNASPRITE: I miss that boy, he could be such a pill at times but we had some lovely chats. Always sung his heart out during our little “jam seshs,” too.</p>
 
 <p class="vriska">VRISKA (smiling): Doooooooork! Can you 8elieve he has his own little progeny now, strutting his shit in that same oddly secure, self-assured way?</p>
 <p class="vriska">VRISKA: I wonder how those kids are doing right now........</p>
@@ -55,7 +55,7 @@
 ![Adult Vriska, mouth agape, eyebrow twitching](./images/3/characters/vriska/vriska_jawdrop.webp)
 <p class="vriska">VRISKA (jaw drop): They pee ON people!</p>
 <p class="vriska">VRISKA:  What........</p>
-<p class="vriska">VRISKA (neutral): That sounds like a nightmare.</p>
+<p class="vriska">VRISKA: That sounds like a nightmare.</p>
 <p class="nannasprite">NANNASPRITE (giggle): It is! One time my son laughed at me as it was happening!</p>
 
 ![Adult Vriska, mouth agape, eyebrow twitching](./images/3/characters/vriska/vriska_angry.webp)
@@ -83,10 +83,10 @@
 <p class="nannasprite">NANNASPRITE (serious): But the real issue was that not once during my childhood did I ever feel particularly wanted, or welcomed, into the world. I only had my brother, and even he ran off on me!</p>
 <p class="nannasprite">NANNASPRITE (serious): Yet despite that fact, and the anger and the disappointment, I still raised someone who knew what it was like to be loved.</p>
 <p class="nannasprite">NANNASPRITE (serious): I never once questioned choosing my son over some run of the mill escapade or rousing romp. And while in my twilight years of retired spritehood, I have often pondered the “could be.”</p>
-<p class="nannasprite">NANNASPRITE (neutral): Seeing that choice isn't innate to every iteration of Jane Crocker has assured me that I did indeed fulfill a path of potential to its fullest degree. I'm grateful to her for that... marginally.</p>
+<p class="nannasprite">NANNASPRITE: Seeing that choice isn't innate to every iteration of Jane Crocker has assured me that I did indeed fulfill a path of potential to its fullest degree. I'm grateful to her for that... marginally.</p>
 <p class="vriska">VRISKA: I guess that makes sense. Weren't you worried, though? That you weren't following the right path, or living up to your destiny?</p>
 <p class="nannasprite">NANNASPRITE (giggle): I never even considered that, hoo hoo!</p>
-<p class="nannasprite">NANNASPRITE (neutral): Is that how you kids think these days? My lord, no wonder none of you go outside anymore.</p>
+<p class="nannasprite">NANNASPRITE: Is that how you kids think these days? My lord, no wonder none of you go outside anymore.</p>
 <p class="vriska">VRISKA (angry): Don't p8tronize me, old lady! Destiny's the found8tion of my godhood!</p>
 <p class="nannasprite">NANNASPRITE: True. I am only a simple elderly woman, stand-mixed with the unknowable secrets of the universe and a one-armed clown doll. But from experience, I would still argue that destiny mostly fulfills itself.</p>
 
@@ -229,7 +229,7 @@
 <p class="mindmom">To hear her say “THANK YOU” for the young girl's service, for her to 8e “SORRY"?</p>
 <p class="vriska">VRISKA (angry): What I w8nt is for you to go 8ack in time and pr8tect that fucking kid, like you were supposed to!!!!!!!!</p>
 <p class="vriska">VRISKA (angry): If you did, may8e I'd 8e a8le to relax and let my f8cking guard down for ONCE, instead of const8ntly ruining things and thinking everyone is going to turn around and kill me!</p>
-<p class="vriska">VRISKA (neutral): Oh my god.</p>
+<p class="vriska">VRISKA: Oh my god.</p>
 <p class="vriska">VRISKA (angry): Tavros was right!!!!!!!!</p>
 
 ![Momfang](./images/3/characters/mindmom/momfang_back.webp)

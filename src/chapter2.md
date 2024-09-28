@@ -64,14 +64,14 @@
 <p class="tavros">TAVROS (smiling): iT'S WHAT I ALWAYS WANT TO DO,</p>
 <p class="tavros">TAVROS (smiling): i CAN GO, sET EVERYTHING UP,</p>
 
-<p class="tavros">TAVROS (neutral): uNLESS YOU WERE DOING THAT THING, wHERE YOU TELL ME A THING, tHAT IS UNTRUE,</p>
+<p class="tavros">TAVROS: uNLESS YOU WERE DOING THAT THING, wHERE YOU TELL ME A THING, tHAT IS UNTRUE,</p>
 <p class="tavros">TAVROS: AGAIN,</p>
 
 <p class="box">What will you do?</p>
 
 <p class="vriska">VRISKA (angry): Fiiiiiiiine.</p>
 
-<p class="vriska">VRISKA (neutral): I'm already here, might as well knock another option off the list I GUESS.</p>
+<p class="vriska">VRISKA: I'm already here, might as well knock another option off the list I GUESS.</p>
 
 ### {Play game.}
 ![Tavros, in his green Pupa Pan costume.](./images/2/characters/tavros/tavros_pupa_neutralsmile.webp)
@@ -250,7 +250,7 @@
 <p class="vriska">VRISKA: You're right, it is funny.</p>
 <p class="vriska">VRISKA: This whole time I thought I was supposed to 8e pushing you.</p>
 
-<p class="vriska">VRISKA (neutral): It's soooooooo o8vious now, that was pretty fucking stupid of me. There was nothing I could have done to change your mind, huh?</p>
+<p class="vriska">VRISKA: It's soooooooo o8vious now, that was pretty fucking stupid of me. There was nothing I could have done to change your mind, huh?</p>
 
 ![Aradiabot, leaning forward, her eyes glowing menacingly.](./images/2/characters/aradia/aradiabot_ominous.webp)
 <p class="aradiabot">ARADIABOT (shadowed): exactly</p>
@@ -266,7 +266,7 @@
 <p class="vriska">VRISKA: Tavros????????</p>
 <p class="vriska">VRISKA: Aradia… 8ot?</p>
 
-<p class="vriska">VRISKA (neutral): ... LOMAT.</p>
+<p class="vriska">VRISKA: ... LOMAT.</p>
 
 ![Aradiabot, in a neutral pose, speaking](./images/2/characters/aradia/aradiabot_speak.webp)
 <p class="aradiabot">ARADIABOT: im n0t g0ing t0 kill y0u</p>
@@ -389,7 +389,7 @@
 <p class="aradiabot">ARADIABOT: sl0wly making y0u w0rse</p>
 <p class="aradiabot">ARADIABOT: and w0rse</p>
 <p class="aradiabot">ARADIABOT (shadowed): and w0rse</p>
-<p class="aradiabot">ARADIABOT (neutral): until n0thing is left</p>
+<p class="aradiabot">ARADIABOT: until n0thing is left</p>
 <p class="vriska">VRISKA: Jeeze.</p>
 <p class="vriska">VRISKA: There it is, there is that fucking Megido-patented 8ummer.</p>
 <p class="aradiabot">ARADIABOT: yeah</p>
@@ -416,7 +416,7 @@
 <p class="aradiabot">ARADIABOT (shadowed): V.V</p>
 <p class="vriska">VRISKA (angry): ........</p>
 <p class="vriska">VRISKA (sad): ........ ok.</p>
-<p class="vriska">VRISKA (neutral): Ok.</p>
+<p class="vriska">VRISKA: Ok.</p>
 
 ![Aradiabot stands over Vriska with an arm outstretched.](images/2/images/panel1.png)
 

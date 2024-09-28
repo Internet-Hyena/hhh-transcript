@@ -76,7 +76,7 @@ Meanwhile...!
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2 (curious):</span> We've also had some developments from my new favorite foppish lunk, the inimitable Mr. English. Though he does seem to be locked in the particularly stubborn throes of his broken-hearted malaise.</p>
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2 (pleased):</span> I'm confident I can tear past the pitiable plush exterior and reveal the fragrant potpourri of heroism that lies within before curtain call!</p>
 
-<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2  (neutral): B33 <</span> sounds like youve had a real eventful... uh</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 : B33 <</span> sounds like youve had a real eventful... uh</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2  (thinking): B33 <</span> how many w33ks of developments has this b33n i wasnt fully purring attention</p>
 
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2 (thinking):</span> Weeks?</p>
