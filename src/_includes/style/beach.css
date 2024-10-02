@@ -1,0 +1,32 @@
+.beach {
+    position: relative;
+    overflow: hidden;;
+}
+
+.beach_horses {
+    position: absolute;
+    height: calc(650 / 950 * 49px);
+    top: calc(440 / 650 * 100%);
+    left: 0;
+    opacity: 0;
+}
+
+.beach_horses {
+    animation-name: horse;
+    animation-duration: 50s;
+    animation-timing-function: linear;
+}
+
+@keyframes horse {
+    0% {
+        opacity: 0;
+        left: 4%;
+    }
+    8% {
+        opacity: 1;
+    }
+    100% {
+        left: 150%;
+        opacity: 1;
+    }
+}

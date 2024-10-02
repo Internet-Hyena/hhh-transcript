@@ -59,11 +59,9 @@ transform spinfade:
 label chapter6:
     scene black
 
-    "LATER" (window_yalign=0.5, window_yoffset=0, window_xsize=150, window_ysize=75, window_ypos=0.5)
+<p class="box">LATER</p>
 
-    scene bg vriskaroom with Dissolve(3.0)
-
-    play music "chapters/X/audio/11-5a.ogg" fadein 1.0 volume 0.5 loop
+![Background: Vriska's room](./images/vriskaroom.png)
 
     show davepeta neutral onlayer talksprites at right with slideinright
     DAVEPETASPRITE "well here we are"
@@ -240,12 +238,11 @@ label chapter6:
     VRISKA adult "Alright fine, one hug 8efore I crush this and I'm outta here."
     hide vriska with slideoutleft
 
+![A simplistic MS Paint sketch of Davepeta hugging the reluctant Vriska. "Glomp!!!!"](./images/6/images/Davepeta_Vriska-hug.png)
 
-    scene bg davepeta_vriska_hug with Dissolve(1.0)
-    play sfx "audio/vris_level.wav" noloop
     DAVEPETASPRITE_center "yay"
 
-    scene bg davepeta_8ball with Dissolve(1.0)
+![Closeup: Davepeta clutches the 8 ball and extends it toward Vriska.](images/6/images/Davepeta_8ball.png)
 
     DAVEPETASPRITE_center "here you go, your last hell"
 
@@ -266,28 +263,33 @@ label chapter6:
     scene black
     VRISKA_center "..."
 
-    scene bg 8ball_1 with Dissolve(1.0)
+![The inside of the 8 ball. A dark void. A tree is barely visible.](./images/6/images/8ballVoid_1.png)
+
     VRISKA_center "...?"
     VRISKA_center "Hey!!!!!!!!"
 
     play music "chapters/6/audio/terezi_vn.ogg" fadein 1.0 volume 0.5 loop
-    scene bg 8ball_2 with Dissolve(1.0)
+
+![The scene gets closer and clearer. A tree in a field of green and red. At the center, stands a young troll girl, facing away.](./images/6/images/8ballVoid_2.png)
+
     VRISKA_center "Terezi!!!!!!!!"
     VRISKA_center "Is that you?"
     VRISKA_center "I knew it would 8e you!"
     VRISKA_center "You were the one thing missing from this!"
     VRISKA_center "Even if you're just a phantom designed explicitly to torture me, I'm so happy to see-"
     VRISKA_center "you...?"
+    
+![Closer. The troll from behind. She's wearing a gray tank top, and her hair is pulled back into braids, resembling Meenah's.](./images/6/images/8ballVoid_3.png)
 
-    scene bg 8ball_3 with Dissolve(1.0)
     VRISKA_center "What?"
     VRISKA_center "Who are..."
 
-    scene bg 8ball_4 with Dissolve(1.0)
+![Closeup. She turns around, revealing a teenage Vriska with empty white eyes. It's (Vriska), the ghost of her younger self from the Game Over timeline.](./images/6/images/8ballVoid_4.png)
+
     stop music
     pause
 
-    scene bg 8ball with Dissolve(1.0)
+![Background. A dream bubble. Green grass, red mountains, and a large green tree with red blossoms.](./images/6/images/8ball.png)
 
     play music "chapters/6/audio/11-6.wav" fadein 1.0 volume 0.5 loop
     show vriska adult glaring onlayer talksprites at left with slideinleft
@@ -372,6 +374,14 @@ label chapter6:
     show white with Dissolve(3.0)
     pause 3.5
     play music "chapters/6/audio/vrisbeach-dreamy.ogg" fadein 1.0 volume 0.5 loop
+
+
+<div class="beach">
+    <img class="beach_bg" src="./images/6/images/Vriska_Beach.png"
+        alt="Vriska sits on the familiar beach outside her hive, exactly back where she started. A herd of horses slowly runs past.">
+    <img class="beach_horses" role="presentation" src="./images/6/images/horses.png">
+</div>
+
     scene bg vris_beach with Dissolve(2.0)
     show horses onlayer talksprites with Dissolve(2.0):
         yoffset 440
@@ -383,4 +393,3 @@ label chapter6:
     show white onlayer talksprites with Dissolve(3.0)
     hide horses
     return
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
