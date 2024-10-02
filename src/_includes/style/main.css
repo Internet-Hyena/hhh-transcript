@@ -102,7 +102,7 @@ h3::before {
     color: var(--fg-primary);
 }
 
-img[src*="fefetasprite_xc"] {
+img[src*="fefetasprite_XC"] {
     animation: dissolve_out 4s;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;

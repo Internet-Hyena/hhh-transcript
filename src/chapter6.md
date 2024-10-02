@@ -157,7 +157,7 @@
 
 <!-- sfx "chapters/6/audio/disappear.ogg" volume 0.75 noloop -->
 <!-- fefeta xc onlayer talksprites at right, fadeout with slideinright -->
-![Fefetasprite grimaces and suddenly disappears.](./images/6/characters/fefeta/fefetasprite_xc.png)
+![Fefetasprite grimaces and suddenly disappears.](./images/6/characters/fefeta/fefetasprite_XC.png)
 <p class="fefetasprite">FEFETASPRITE: 3X(( < 3X((</p>
 <!-- fefeta with Dissolve(0.3) -->
 
