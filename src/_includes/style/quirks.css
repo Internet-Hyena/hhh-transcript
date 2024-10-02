@@ -6,7 +6,7 @@
     --aradia: #A10000;
     --nanna: #009eff;
      /* intentionally non-canon. darkened for contrast with vriska's text */
-    --mindmom: hsl(200, 50%, 20%);
+    --mindmom: hsl(200, 50%, 25%);
     --gcatav: #0715cd;
     --erisol: #4ac925;
     --scratch: #FFFFFF;
@@ -14,6 +14,7 @@
     --scratch-outline-center: #2ed73a;
     --jasprosesprite: #b536da;
     --jasprosesprite-prefix: #ff6ef2;
+    --vriska_paren: var(--mindmom);
 }
 
 .vriska {
@@ -69,4 +70,7 @@
 }
 .the-point {
     color: #000;
+}
+.vriska_paren {
+    color: var(--vriska_paren);
 }
