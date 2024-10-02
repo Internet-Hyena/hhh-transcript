@@ -9,7 +9,7 @@
 ![Background: Vriska's room](./images/vriskaroom.png)
 
 <!-- davepeta neutral onlayer talksprites at right with slideinright -->
-<p class="davepetasprite">DAVEPETASPRITE: well here we are</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> well here we are</p>
 <!-- davepeta with slideoutright -->
 
 
@@ -19,8 +19,8 @@
 
 
 <!-- davepeta thinking onlayer talksprites at right with slideinright -->
-<p class="davepetasprite">DAVEPETASPRITE: its b33n a long ass time but were cr33ping up behind the grand finale</p>
-<p class="davepetasprite">DAVEPETASPRITE (neutral): that finale is never gonna s33 it coming</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> its b33n a long ass time but were cr33ping up behind the grand finale</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (neutral): B33 <</span> that finale is never gonna s33 it coming</p>
 <!-- davepeta with slideoutright -->
 
 
@@ -30,7 +30,7 @@
 
 
 <!-- davepeta laugh onlayer talksprites at right with slideinright -->
-<p class="davepetasprite">DAVEPETASPRITE: master hand, your days are fucking numbered</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> master hand, your days are fucking numbered</p>
 <!-- davepeta with slideoutright -->
 
 
@@ -40,7 +40,7 @@
 
 
 <!-- davepeta neutral onlayer talksprites at right with slideinright -->
-<p class="davepetasprite">DAVEPETASPRITE: finally ready to take that final step</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> finally ready to take that final step</p>
 <!-- davepeta with slideoutright -->
 
 
@@ -50,11 +50,11 @@
 
 
 <!-- davepeta neutral onlayer talksprites at right with slideinright -->
-<p class="davepetasprite">DAVEPETASPRITE: you sure did!</p>
-<p class="davepetasprite">DAVEPETASPRITE (neutral): *a tear begins to well up in dps eye behind their shades*</p>
-<p class="davepetasprite">DAVEPETASPRITE (neutral): *they f33l like a mom s33ing their freshly pupated charge about to finish their final trials and march off to the subgrubs or maybe a dope ass cave*</p>
-<p class="davepetasprite">DAVEPETASPRITE (thinking): *dp wonders will they be safe out there? will she make use of all the lessons theyve learned here?*</p>
-<p class="davepetasprite">DAVEPETASPRITE (thinking): *will she remember to wipe the lid?*</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> you sure did!</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (neutral): B33 <</span> *a tear begins to well up in dps eye behind their shades*</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (neutral): B33 <</span> *they f33l like a mom s33ing their freshly pupated charge about to finish their final trials and march off to the subgrubs or maybe a dope ass cave*</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (thinking): B33 <</span> *dp wonders will they be safe out there? will she make use of all the lessons theyve learned here?*</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (thinking): B33 <</span> *will she remember to wipe the lid?*</p>
 <!-- davepeta with slideoutright -->
 
 
@@ -72,8 +72,8 @@
 
 
 <!-- davepeta thinking onlayer talksprites at right with slideinright -->
-<p class="davepetasprite">DAVEPETASPRITE: what for</p>
-<p class="davepetasprite">DAVEPETASPRITE (laugh): i barely did shit</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> what for</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (laugh): B33 <</span> i barely did shit</p>
 <!-- davepeta with slideoutright -->
 
 
@@ -96,7 +96,7 @@
 
 
 <!-- davepeta neutral onlayer talksprites at right with slideinright -->
-<p class="davepetasprite">DAVEPETASPRITE: yeah</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> yeah</p>
 <!-- davepeta with slideoutright -->
 
 
@@ -106,7 +106,7 @@
 
 
 <!-- davepeta neutral onlayer talksprites at right with slideinright -->
-<p class="davepetasprite">DAVEPETASPRITE: ... yeah?</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> ... yeah?</p>
 <!-- davepeta with slideoutright -->
 
 
@@ -131,7 +131,7 @@
 
 
 <!-- davepeta uncomfortable onlayer talksprites at right with slideinright -->
-<p class="davepetasprite_800">DAVEPETASPRITE_800: vriska wait dont say it!!!!</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> vriska wait dont say it!!!!</p>
 <!-- davepeta with slideoutright -->
 
 
@@ -152,7 +152,7 @@
 
 
 <!-- davepeta pokerface onlayer talksprites at right with slideinright -->
-<p class="davepetasprite">DAVEPETASPRITE: you just fucking sent dear sw33t precious fefeta to sprite city.</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> you just fucking sent dear sw33t precious fefeta to sprite city.</p>
 <!-- davepeta with slideoutright -->
 
 
@@ -162,9 +162,9 @@
 
 
 <!-- davepeta laugh onlayer talksprites at right with slideinright -->
-<p class="davepetasprite">DAVEPETASPRITE: hahahaha anyway</p>
-<p class="davepetasprite">DAVEPETASPRITE (neutral): i was just fucking around earlier but honestly, im actually gonna miss you</p>
-<p class="davepetasprite">DAVEPETASPRITE (cute): i think im f33ling a goodbye glomp coming on</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> hahahaha anyway</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (neutral): B33 <</span> i was just fucking around earlier but honestly, im actually gonna miss you</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (cute): B33 <</span> i think im f33ling a goodbye glomp coming on</p>
 <!-- davepeta with slideoutright -->
 
 
@@ -174,8 +174,8 @@
 
 
 <!-- davepeta pokerface onlayer talksprites at right with slideinright -->
-<p class="davepetasprite">DAVEPETASPRITE: oh yeah sorry</p>
-<p class="davepetasprite">DAVEPETASPRITE (uncomfortable): {size=14}*dp deflates like a cartoon meowbeast thats b33n blown up by some freaky pervert, tied to a balloon, handed off to a snot nosed kid at a theme park who just fucking lets it go because he got distracted by goofy and mickey duking it out (that summer heat makes people crazy)*{/size}</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> oh yeah sorry</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (uncomfortable): B33 <</span> *dp deflates like a cartoon meowbeast thats b33n blown up by some freaky pervert, tied to a balloon, handed off to a snot nosed kid at a theme park who just fucking lets it go because he got distracted by goofy and mickey duking it out (that summer heat makes people crazy)*</p>
 <!-- davepeta with slideoutright -->
 
 
@@ -185,21 +185,21 @@
 
 ![A simplistic MS Paint sketch of Davepeta hugging the reluctant Vriska. "Glomp!!!!"](./images/6/images/Davepeta_Vriska-hug.png)
 
-<p class="davepetasprite">DAVEPETASPRITE: yay</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> yay</p>
 
 ![Closeup: Davepeta clutches the 8 ball and extends it toward Vriska.](images/6/images/Davepeta_8ball.png)
 
-<p class="davepetasprite">DAVEPETASPRITE: here you go, your last hell</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> here you go, your last hell</p>
 
 
 <p class="vriska">VRISKA: I've 8een waiting for this one.</p>
 <p class="vriska">VRISKA: I have a pretty good feeling I know who's waiting on the other side.</p>
 
-<p class="davepetasprite">DAVEPETASPRITE: *sniffs* you're a real pro at this silent hill mind prison shit now, youve come so far</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> *sniffs* you're a real pro at this silent hill mind prison shit now, youve come so far</p>
 
 <p class="vriska">VRISKA: It's 8een real Davepeta, see you around!</p>
 
-<p class="davepetasprite">DAVEPETASPRITE: good luck vriska!</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> good luck vriska!</p>
 
 <!-- blue with Dissolve(1.0) -->
 <!-- music fadeout 2.0 -->
