@@ -17,3 +17,5 @@ This is an HTML transcript of [page #666](https://beyondcanon.com/story/666) of 
 {% renderFile "./src/chapter4.md", "", "njk" %}
 {% renderFile "./src/chapter5.md", "", "njk" %}
 {% renderFile "./src/chapter6.md", "", "njk" %}
+
+\> [Back to top](#top)

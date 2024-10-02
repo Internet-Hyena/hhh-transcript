@@ -1,41 +1,47 @@
-## Chapter ???
+## Chapter 6
 
 ![Chapter select button. A Magic 8 Ball.](./images/chapterselect/8ball.png)
 
-<p class="command-box">Check back later!</p>
+*Black background.*
 
 <p class="box">LATER</p>
 
+*Fade to...*
+
 ![Background: Vriska's room](./images/vriskaroom.png)
 
+
+![Davepeta](./images/1/characters/davepetasprite/davepeta_neutral.webp)
 <!-- davepeta neutral onlayer talksprites at right with slideinright -->
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> well here we are</p>
 <!-- davepeta with slideoutright -->
 
 
+![Adult Vriska beaming, hands proudly on her hips](./images/3/characters/vriska/vriska_proud.webp)
 <!-- vriska adult proud onlayer talksprites at left with slideinleft -->
-<p class="vriska">VRISKA: Here we fucking are!</p>
+<p class="vriska">VRISKA (proud): Here we fucking are!</p>
 <!-- vriska with slideoutleft -->
 
-
 <!-- davepeta thinking onlayer talksprites at right with slideinright -->
-<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> its b33n a long ass time but were cr33ping up behind the grand finale</p>
-<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (neutral): B33 <</span> that finale is never gonna s33 it coming</p>
+![Davepeta](./images/1/characters/davepetasprite/davepeta_thinking.webp)
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (thinking): B33 <</span> its b33n a long ass time but were cr33ping up behind the grand finale</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (thinking): B33 <</span> that finale is never gonna s33 it coming</p>
 <!-- davepeta with slideoutright -->
 
 
 <!-- vriska adult smiling onlayer talksprites at left with slideinleft -->
-<p class="vriska">VRISKA: The final 8oss.</p>
+![Vriska smiling.](./images/3/characters/vriska/vriska_smiling.webp)
+<p class="vriska">VRISKA (smiling): The final 8oss.</p>
 <!-- vriska with slideoutleft -->
 
 
 <!-- davepeta laugh onlayer talksprites at right with slideinright -->
-<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> master hand, your days are fucking numbered</p>
+![Davepeta laughs.](./images/1/characters/davepetasprite/davepeta_laugh.webp)
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (laugh): B33 <</span> master hand, your days are fucking numbered</p>
 <!-- davepeta with slideoutright -->
 
-
 <!-- vriska adult smiling onlayer talksprites at left with slideinleft -->
-<p class="vriska">VRISKA: More like minutes!</p>
+<p class="vriska">VRISKA (smiling): More like minutes!</p>
 <!-- vriska with slideoutleft -->
 
 
@@ -45,26 +51,27 @@
 
 
 <!-- vriska adult smiling onlayer talksprites at left with slideinleft -->
-<p class="vriska">VRISKA: I needed a 8reather!</p>
+<p class="vriska">VRISKA (smiling): I needed a 8reather!</p>
 <!-- vriska with slideoutleft -->
 
 
 <!-- davepeta neutral onlayer talksprites at right with slideinright -->
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> you sure did!</p>
-<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (neutral): B33 <</span> *a tear begins to well up in dps eye behind their shades*</p>
-<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (neutral): B33 <</span> *they f33l like a mom s33ing their freshly pupated charge about to finish their final trials and march off to the subgrubs or maybe a dope ass cave*</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> *a tear begins to well up in dps eye behind their shades*</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> *they f33l like a mom s33ing their freshly pupated charge about to finish their final trials and march off to the subgrubs or maybe a dope ass cave*</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (thinking): B33 <</span> *dp wonders will they be safe out there? will she make use of all the lessons theyve learned here?*</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (thinking): B33 <</span> *will she remember to wipe the lid?*</p>
 <!-- davepeta with slideoutright -->
 
 
 <!-- fefeta neutral onlayer talksprites at right with slideinright -->
+![Fefetasprite, smiling.](./images/6/characters/fefeta/fefetasprite_neutral.png)
 <p class="fefetasprite">FEFETASPRITE: 3833 < 383</p>
 <!-- fefeta with slideoutright -->
 
 
 <!-- vriska adult proud onlayer talksprites at left with slideinleft -->
-<p class="vriska">VRISKA: *The Thief proudly puffs out her chest with her hands on her hips and her 8ack to the sun, looking heroic and 8adass.*</p>
+<p class="vriska">VRISKA (proud): *The Thief proudly puffs out her chest with her hands on her hips and her 8ack to the sun, looking heroic and 8adass.*</p>
 <p class="vriska">VRISKA (proud): Ha! You've got nothing to fear.</p>
 <p class="vriska">VRISKA (proud): I'm older and wiser now.</p>
 <p class="vriska">VRISKA (smiling): I want to thank you, too.</p>
@@ -72,26 +79,29 @@
 
 
 <!-- davepeta thinking onlayer talksprites at right with slideinright -->
-<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> what for</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (thinking): B33 <</span> what for</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (laugh): B33 <</span> i barely did shit</p>
 <!-- davepeta with slideoutright -->
 
 
 <!-- vriska adult smiling onlayer talksprites at left with slideinleft -->
-<p class="vriska">VRISKA: Haha yeah, 8ut I'm glad you were here anyway.</p>
+<p class="vriska">VRISKA (smiling): Haha yeah, 8ut I'm glad you were here anyway.</p>
 <p class="vriska">VRISKA (smiling): You and everyone else!</p>
 <!-- vriska with slideoutleft -->
 
 
 <!-- fefeta neutral onlayer talksprites at right with slideinright -->
+![Fefetasprite, smiling.](./images/6/characters/fefeta/fefetasprite_neutral.png)
 <p class="fefetasprite">FEFETASPRITE: 3833 < 383</p>
 <!-- fefeta with slideoutright -->
 
 
 <!-- vriska adult smiling onlayer talksprites at left with slideinleft -->
-<p class="vriska">VRISKA: ........</p>
+<p class="vriska">VRISKA (smiling): ........</p>
+
+![Vriska, folding her arms and squinting.](./images/3/characters/vriska/vriska_stoic.png)
 <p class="vriska">VRISKA (stoic): Okay, I have to say something.</p>
-<p class="vriska">VRISKA (neutral): So, DP, you're half Nepeta, right?</p>
+<p class="vriska">VRISKA: So, DP, you're half Nepeta, right?</p>
 <!-- vriska with slideoutleft -->
 
 
@@ -111,6 +121,7 @@
 
 
 <!-- fefeta neutral onlayer talksprites at right with slideinright -->
+![Fefetasprite, smiling.](./images/6/characters/fefeta/fefetasprite_neutral.png)
 <p class="fefetasprite">FEFETASPRITE: 3833 < 383</p>
 <!-- fefeta with slideoutright -->
 
@@ -131,66 +142,76 @@
 
 
 <!-- davepeta uncomfortable onlayer talksprites at right with slideinright -->
+
+![Davepeta furrows their eyebrows](./images/1/characters/davepetasprite/davepeta_uncomfortable.webp)
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> vriska wait dont say it!!!!</p>
 <!-- davepeta with slideoutright -->
 
 
 <!-- vriska adult neutral onlayer talksprites at left with slideinleft -->
+![Vriska, folding her arms and squinting.](./images/3/characters/vriska/vriska_neutral.webp)
 <p class="vriska">VRISKA: Why are there two Nepetas?</p>
 <!-- vriska with slideoutleft -->
 
+*SFX: A video game damage noise, and a high pitched squeal.*
 
 <!-- sfx "chapters/6/audio/disappear.ogg" volume 0.75 noloop -->
 <!-- fefeta xc onlayer talksprites at right, fadeout with slideinright -->
+![Fefetasprite grimaces and suddenly disappears.](./images/6/characters/fefeta/fefetasprite_xc.png)
 <p class="fefetasprite">FEFETASPRITE: 3X(( < 3X((</p>
 <!-- fefeta with Dissolve(0.3) -->
 
-
 <!-- vriska adult confused onlayer talksprites at left with slideinleft -->
-<p class="vriska">VRISKA: ... What the fuck was that?</p>
+![Vriska blinking in confusion](./images/3/characters/vriska/vriska_confused.webp)
+<p class="vriska">VRISKA (confused): ... What the fuck was that?</p>
 <!-- vriska with slideoutleft -->
 
 
 <!-- davepeta pokerface onlayer talksprites at right with slideinright -->
-<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> you just fucking sent dear sw33t precious fefeta to sprite city.</p>
+![Davepeta, calm](./images/1/characters/davepetasprite/davepeta_pokerface.webp)
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (pokerface): B33 <</span> you just fucking sent dear sw33t precious fefeta to sprite city.</p>
 <!-- davepeta with slideoutright -->
 
 
 <!-- vriska adult confused onlayer talksprites at left with slideinleft -->
-<p class="vriska">VRISKA: ????????</p>
+<p class="vriska">VRISKA (confused): ????????</p>
 <!-- vriska with slideoutleft -->
 
 
 <!-- davepeta laugh onlayer talksprites at right with slideinright -->
-<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> hahahaha anyway</p>
-<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (neutral): B33 <</span> i was just fucking around earlier but honestly, im actually gonna miss you</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (laugh): B33 <</span> hahahaha anyway</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (laugh): B33 <</span> i was just fucking around earlier but honestly, im actually gonna miss you</p>
+
+![Davepeta, paws curled cutely](./images/1/characters/davepetasprite/davepeta_cute.webp)
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (cute): B33 <</span> i think im f33ling a goodbye glomp coming on</p>
 <!-- davepeta with slideoutright -->
 
 
 <!-- vriska adult glaring onlayer talksprites at left with slideinleft -->
-<p class="vriska">VRISKA: Hey hey, we talked a8out this.</p>
+![Vriska, unamused, arms crossed, gaze lowered](./images/3/characters/vriska/vriska_glaring.png)
+<p class="vriska">VRISKA (glaring): Hey hey, we talked a8out this.</p>
 <!-- vriska with slideoutleft -->
 
-
 <!-- davepeta pokerface onlayer talksprites at right with slideinright -->
-<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> oh yeah sorry</p>
+<p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (pokerface): B33 <</span> oh yeah sorry</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (uncomfortable): B33 <</span> *dp deflates like a cartoon meowbeast thats b33n blown up by some freaky pervert, tied to a balloon, handed off to a snot nosed kid at a theme park who just fucking lets it go because he got distracted by goofy and mickey duking it out (that summer heat makes people crazy)*</p>
 <!-- davepeta with slideoutright -->
-
 
 <!-- vriska adult neutral onlayer talksprites at left with slideinleft -->
 <p class="vriska">VRISKA: Alright fine, one hug 8efore I crush this and I'm outta here.</p>
 <!-- vriska with slideoutleft -->
 
+*SFX: Level up!*
+
 ![A simplistic MS Paint sketch of Davepeta hugging the reluctant Vriska. "Glomp!!!!"](./images/6/images/Davepeta_Vriska-hug.png)
 
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> yay</p>
 
+*Fade to...*
+
 ![Closeup: Davepeta clutches the 8 ball and extends it toward Vriska.](images/6/images/Davepeta_8ball.png)
 
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> here you go, your last hell</p>
-
 
 <p class="vriska">VRISKA: I've 8een waiting for this one.</p>
 <p class="vriska">VRISKA: I have a pretty good feeling I know who's waiting on the other side.</p>
@@ -201,11 +222,8 @@
 
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> good luck vriska!</p>
 
-<!-- blue with Dissolve(1.0) -->
-<!-- music fadeout 2.0 -->
-<!-- black with Dissolve(1.0) -->
+*Fade to black.*
 
-<!-- black -->
 <p class="vriska">VRISKA: ...</p>
 
 ![The inside of the 8 ball. A dark void. A tree is barely visible.](./images/6/images/8ballVoid_1.png)
@@ -231,90 +249,121 @@
 
 ![Closeup. She turns around, revealing a teenage Vriska with empty white eyes. It's (Vriska), the ghost of her younger self from the Game Over timeline.](./images/6/images/8ballVoid_4.png)
 
-<!-- music -->
-    pause
+*The music stops.*
 
 ![Background. A dream bubble. Green grass, red mountains, and a large green tree with red blossoms.](./images/6/images/8ball.png)
 
 <!-- music "chapters/6/audio/11-6.wav" fadein 1.0 volume 0.5 loop -->
 <!-- vriska adult glaring onlayer talksprites at left with slideinleft -->
+![Vriska, glaring.](./images/3/characters/vriska/vriska_glaring.png)
 <p class="vriska">VRISKA: ...</p>
 <!-- vriska with slideoutleft -->
 
 <!-- vriska_paren sad onlayer talksprites at right with slideinright -->
+![Ghost Vriska, with a blank expression](./images/6/characters/vriska_paren/(Vriska)_Frown.png)
 <p class="vriska_paren">(VRISKA): ...</p>
 <!-- vriska_paren with slideoutright -->
 
 <!-- vriska adult glaring onlayer talksprites at left with slideinleft -->
-<p class="vriska">VRISKA (glaring): ...</p>
+![Vriska, glaring.](./images/3/characters/vriska/vriska_glaring.png)
+<p class="vriska">VRISKA: ...</p>
 <!-- vriska with slideoutleft -->
 
 <!-- vriska_paren sad onlayer talksprites at right with slideinright -->
+![Ghost Vriska, with a blank expression](./images/6/characters/vriska_paren/(Vriska)_Frown.png)
 <p class="vriska_paren">(VRISKA): ...</p>
 <!-- vriska_paren with slideoutright -->
 
 
 <!-- vriska adult uncomfortable onlayer talksprites at left with slideinleft -->
-<p class="vriska">VRISKA (uncomfortable): ........</p>
-<p class="vriska">VRISKA (uncomfortable): Alright, fine.</p>
-<p class="vriska">VRISKA (uncomfortable): Makes sense I'd have to do this eventually.</p>
-<p class="vriska">VRISKA (neutral): I'm sorry.</p>
-<p class="vriska">VRISKA (uncomfortable): For all that shit I said to- did to you.</p>
-<p class="vriska">VRISKA (uncomfortable): It was wrong of me to hate you for getting soft.</p>
-<p class="vriska">VRISKA (uncomfortable): For knowing when to quit.</p>
-<p class="vriska">VRISKA (sad): For choosing to be happy.</p>
-<p class="vriska">VRISKA (neutral): I get that now.</p>
+![Vriska clutching her shoulder and avoiding eye contact](./images/3/characters/vriska/vriska_uncomfortable.webp)
+<p class="vriska">VRISKA: ........</p>
+<p class="vriska">VRISKA: Alright, fine.</p>
+<p class="vriska">VRISKA: Makes sense I'd have to do this eventually.</p>
+
+![Vriska looking matter-of-fact](./images/3/characters/vriska/vriska_neutral.webp)
+<p class="vriska">VRISKA: I'm sorry.</p>
+
+![Vriska uncomfortable](./images/3/characters/vriska/vriska_uncomfortable.webp)
+<p class="vriska">VRISKA: For all that shit I said to- did to you.</p>
+<p class="vriska">VRISKA: It was wrong of me to hate you for getting soft.</p>
+<p class="vriska">VRISKA: For knowing when to quit.</p>
+
+![Vriska sad](./images/3/characters/vriska/vriska_sad.webp)
+<p class="vriska">VRISKA: For choosing to be happy.</p>
+
+![Vriska neutral](./images/3/characters/vriska/vriska_neutral.webp)
+<p class="vriska">VRISKA: I get that now.</p>
 <!-- vriska with slideoutleft -->
 
 <!-- vriska_paren hug onlayer talksprites at right with slideinright -->
+![Ghost Vriska](./images/6/characters/vriska_paren/(Vriska)_Hug.png)
 <p class="vriska_paren">(VRISKA): ...</p>
 <!-- vriska_paren with slideoutright -->
 
 <!-- vriska adult shocked onlayer talksprites at left with slideinleft -->
-<p class="vriska">VRISKA (shocked): HUH???????? What the hell...</p>
+![Vriska, frozen in shock](./images/3/characters/vriska/vriska_shocked.png)
+<p class="vriska">VRISKA: HUH???????? What the hell...</p>
 <!-- vriska with slideoutleft -->
 
 <!-- vriska_paren hug onlayer talksprites at right with slideinright -->
+![Ghost Vriska](./images/6/characters/vriska_paren/(Vriska)_Hug.png)
 <p class="vriska_paren">(VRISKA): ...</p>
 <!-- vriska_paren with slideoutright -->
 
 <!-- vriska adult uncomfortable onlayer talksprites at left with slideinleft -->
-<p class="vriska">VRISKA (uncomfortable): Come on now...</p>
+![Vriska uncomfortable](./images/3/characters/vriska/vriska_uncomfortable.webp)
+<p class="vriska">VRISKA: Come on now...</p>
 <!-- vriska with slideoutleft -->
 
 <!-- vriska_paren hug onlayer talksprites at right with slideinright -->
+![Ghost Vriska](./images/6/characters/vriska_paren/(Vriska)_Hug.png)
 <p class="vriska_paren">(VRISKA): ...</p>
 <!-- vriska_paren with slideoutright -->
 
 <!-- vriska adult uncomfortable onlayer talksprites at left with slideinleft -->
-<p class="vriska">VRISKA (uncomfortable): You're asking for too much.</p>
-<p class="vriska">VRISKA (glaring): You're really going to make me do this?</p>
-<p class="vriska">VRISKA (uncomfortable): ...</p>
+![Vriska uncomfortable](./images/3/characters/vriska/vriska_uncomfortable.webp)
+<p class="vriska">VRISKA: You're asking for too much.</p>
+
+![Vriska glaring](./images/3/characters/vriska/vriska_glaring.png)
+<p class="vriska">VRISKA: You're really going to make me do this?</p>
+
+![Vriska uncomfortable](./images/3/characters/vriska/vriska_uncomfortable.webp)
+<p class="vriska">VRISKA: ...</p>
 <!-- vriska with slideoutleft -->
 
 <div class="box">What will you do?</div>
 
 <!-- vriska adult uncomfortable onlayer talksprites at left with slideinleft -->
+![Vriska uncomfortable](./images/3/characters/vriska/vriska_uncomfortable.webp)
 <p class="vriska">VRISKA: ...</p>
-<p class="vriska">VRISKA (sad): I...</p>
-<p class="vriska">VRISKA (stoic): I won't.</p>
+
+![Vriska sad](./images/3/characters/vriska/vriska_sad.webp)
+<p class="vriska">VRISKA: I...</p>
+
+![Vriska stoic](./images/3/characters/vriska/vriska_stoic.png)
+<p class="vriska">VRISKA: I won't.</p>
 <!-- vriska with slideoutleft -->
 
 <!-- vriska_paren sad onlayer talksprites at right with slideinright -->
+![Ghost Vriska frowns and lowers her arms.](./images/6/characters/vriska_paren/(Vriska)_Frown.png)
 <p class="vriska_paren">(VRISKA): ...</p>
 <!-- vriska_paren with slideoutright -->
 
 
 <!-- vriska adult uncomfortable onlayer talksprites at left with slideinleft -->
+![Vriska uncomfortable](./images/3/characters/vriska/vriska_uncomfortable.webp)
 <p class="vriska">VRISKA: I can't.</p>
 <!-- vriska adult uncomfortable: -->
 
 
-
 <!-- 0.1 xzoom -1.0 xcenter 0.5 xoffset -100 -->
+*Vriska turns to the left, and leaves.*
 <!-- 0.25 -->
 <!-- vriska with slideoutleftslow -->
 <!-- music fadeout 3.0 -->
+
+*Fade to white.*
 
 <!-- white with Dissolve(3.0) -->
 <!-- 3.5 -->
