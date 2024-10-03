@@ -1,3 +1,6 @@
+.disable_talksprites img[src*="character"] {
+    display: none;
+}
 
 img[src*="character"] {
     display: flex;
@@ -5,21 +8,17 @@ img[src*="character"] {
     margin-left: auto;
 }
 
-/* STUPID HACK: if it's vriska, put her on the left */
-img[src*="character"][src*="vriska"] {
+/* if it's vriska, put her on the left */
+img[src*="character"]:is([src*="vriska"], [src*="jasprose"]):not([src*="vriska_paren"]) {
     margin-left: 0;
     margin-right: auto;
 }
-/* STUPIDER HACK: if it's pre-retcon vriska put on the left. */
-img[src*="character"][src*="vriska_paren"] {
-    margin-left: auto;
-    margin-right: 0;
-}
 
 /* STUPID HACK: if it's Jasprosprite, flip her 180deg. */
-img[src*="character"][src*="jasprose"] {
-    margin-left: auto;
-    transform: scaleX(-1.0);
+img[src*="jasprose"] {
+    scale: -1.0 1;
+    margin-left: 0;
+    margin-right: auto;
 }
 
 img[src*="fefeta/xc"] {
@@ -36,16 +35,22 @@ img[src*="fefeta/xc"] {
 }
 
 .tavros_escape {
-    display: inline-block;
-    animation-name: tavros_escape;
-    animation-duration: 2s;
-    animation-fill-mode: forwards;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;
+    scale: -1 1;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .tavros_escape {
+        animation-name: tavros_escape;
+        animation-duration: 2s;
+        animation-fill-mode: forwards;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+    }
+    
 }
 
 @keyframes tavros_escape {
-    25% {
+    0%, 25% {
         scale: 1 1;
         translate: 0 0;
     }
@@ -56,5 +61,29 @@ img[src*="fefeta/xc"] {
     60%, 100% {
         scale: -1 1;
         translate: 50vw 0;
+    }
+}
+
+.vriska_shrink {
+    scale: 50%;
+    transform-origin: bottom left;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .vriska_shrink {
+        animation: ease-out 1.5s vriska_shrink infinite;
+    }
+}
+
+@keyframes vriska_shrink {
+    from {
+        scale: 1;
+        opacity: 1;
+    }
+    50%, 100% {
+    }
+    80%, 100% {
+        scale: 0;
+        opacity: 0;
     }
 }

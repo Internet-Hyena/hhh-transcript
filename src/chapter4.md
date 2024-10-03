@@ -123,7 +123,7 @@
 <p class="doc_scratch">I missed that fumbling braggadocio. It's heartening to know that this place hasn't cured you of it yet.</p>
 <p class="doc_scratch">It makes you so much fun to play with.</p>
 
-*Vriska shrinks and disappears into the corner of the frame.*
+<img class="vriska_shrink" src="./assets/characters/vriska_adult/angry.webp" alt="Vriska shrinks into the corner of the frame and disappears.">
 
 ### {o} ==>
 
