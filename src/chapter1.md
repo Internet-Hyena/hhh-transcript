@@ -316,7 +316,7 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> *their ears twitch cutely with every step they take beclaws as perfect a creature as they are cats are still too fucking stupid to invent proper p33ts protectors*</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> *they will probably need to get these silly little beans amputated after walking through all this white shit but whatever its fine, at the end of this tail is an important furiend*</p>
 
-![Vriska, now wearing a tank top version of her shirt, and with her hair pulled back.](images/1/characters/vriska/vriska_neutral1.png)
+![Vriska, now wearing a tank top version of her shirt, and with her hair pulled back.](images/1/characters/vriska/vriska_idle.png)
 <p class="vriska">VRISKA: ...</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> every year farmers and freaks alike crowd around this curious critter wringing their sweaty boring human hands all nervously hoping for winters end</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> but this overhyped moles shadow offurs a symbolic appouncement for the spider instead</p>
