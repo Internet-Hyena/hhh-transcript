@@ -4,48 +4,62 @@
 
 ![Vriska's bedroom](./assets/images/vriskaroom.webp)
 
+![Vriska, neutral](assets/characters/vriska_adult/neutral.webp)
 <p class="vriska">VRISKA: Whew.</p>
 <p class="vriska">VRISKA: Long day.</p>
 
-![GCat Tavros Sprite smiling mischievously](./assets/characters/gcatav/mischievous.webp)
+![Gcatavrosprite, the sprite combination of Tavros and God Cat, smiling mischievously](./assets/characters/gcatav/mischievous.webp)
 <p class="gcatav">GCATAVROSPRITE: mAYBE, yOU SHOULD TAKE A BREAK, fROM ALL THE TOTALLY AWESOME PERSONAL BREAKTHROUGHS YOU ARE HAVING,</p>
+<p class="gcatav">GCATAVROSPRITE: aND KICK IT WITH ME AND ERISOL FOR A WHILE,</p>
 
 ![Erisolsprite with a neutral expression](./assets/characters/erisolsprite/neutral.webp)
-<p class="gcatav">GCATAVROSPRITE: aND KICK IT WITH ME AND ERISOL FOR A WHILE,</p>
 <p class="erisolsprite">ERISOLSPRITE: yeah, you kiinda look liike 2hiit.</p>
-<p class="vriska">VRISKA: Says Scarfshades McLopsided.</p>
+
+<p class="vriska">VRISKA (smiling): Says Scarfshades McLopsided.</p>
+
 <p class="erisolsprite">ERISOLSPRITE: 2ay2 the bu2ted a22 biitch wweariin the 2ame raggedy jacket 2he2 wworn 2iince wwe wwere liike fiivve.</p>
-<p class="vriska">VRISKA: Says the guy who literally can't change his clothes.</p>
+
+<p class="vriska">VRISKA (smiling): Says the guy who literally can't change his clothes.</p>
 <p class="erisolsprite">ERISOLSPRITE: ii cant be held accountable for my dii2cordant cla22-2wwag diichotomy, but here you are a 2wweep and a half deep iin a per2onally taiilored realm of 2elf-reflectiion and you 2tiill choo2e twwo look liike thii2.</p>
-<p class="vriska">VRISKA: Heh.</p>
-<p class="erisolsprite">ERISOLSPRITE: heh.</p>
+
+<p class="vriska">VRISKA (smiling): Heh.</p>
+
+![Erisolsprite smirking](./assets/characters/erisolsprite/smirk.webp)
+<p class="erisolsprite">ERISOLSPRITE (smirk): heh.</p>
 <p class="erisolsprite">ERISOLSPRITE: anyway, come chiill.</p>
+
 <p class="gcatav">GCATAVROSPRITE: oR, iNSTEAD OF CHILLING,</p>
-<p class="gcatav">GCATAVROSPRITE (mischievous): wE COULD THROW AROUND A BALL OF YARN, oR SOMETHING ELSE VISUALLY STIMULATING, tHAT MIMICS MY PREFERRED QUARRY OF SMALL ANIMALS I COULD KILL FOR FUN AND NOT EAT,</p>
-<p class="gcatav">GCATAVROSPRITE (mischievous): aND I COULD CHASE IT WITH MY LEGS,</p>
-<p class="gcatav">GCATAVROSPRITE (mischievous): tHAT AREN'T LEGS, aND ARE ACTUALLY A GHOST TAIL,</p>
-<p class="gcatav">GCATAVROSPRITE (mischievous): wHICH REALLY HAS NO BEARING ON MY ABILITY TO MOVE AT ALL,</p>
-<p class="gcatav">GCATAVROSPRITE (mischievous): aNYWAY,</p>
-<p class="gcatav">GCATAVROSPRITE (mischievous): tHE IMPORTANT THING, iS THAT YOU SHOULD PROBABLY GET SOME R AND R,</p>
-<p class="gcatav">GCATAVROSPRITE (mischievous): aND ALSO HAVE A VERY VIGOROUS PLAYTIME SESH, wITH THE BOYS,</p>
-<p class="gcatav">GCATAVROSPRITE (mischievous): aND MAYBE GET WICKED PRANKED ON,</p>
-<p class="gcatav">GCATAVROSPRITE (mischievous): sO YOU DON'T BURN OUT,</p>
-<p class="gcatav">GCATAVROSPRITE (mischievous): }:3</p>
+<p class="gcatav">GCATAVROSPRITE: wE COULD THROW AROUND A BALL OF YARN, oR SOMETHING ELSE VISUALLY STIMULATING, tHAT MIMICS MY PREFERRED QUARRY OF SMALL ANIMALS I COULD KILL FOR FUN AND NOT EAT,</p>
+<p class="gcatav">GCATAVROSPRITE: aND I COULD CHASE IT WITH MY LEGS,</p>
+<p class="gcatav">GCATAVROSPRITE: tHAT AREN'T LEGS, aND ARE ACTUALLY A GHOST TAIL,</p>
+<p class="gcatav">GCATAVROSPRITE: wHICH REALLY HAS NO BEARING ON MY ABILITY TO MOVE AT ALL,</p>
+<p class="gcatav">GCATAVROSPRITE: aNYWAY,</p>
+<p class="gcatav">GCATAVROSPRITE: tHE IMPORTANT THING, iS THAT YOU SHOULD PROBABLY GET SOME R AND R,</p>
+<p class="gcatav">GCATAVROSPRITE: aND ALSO HAVE A VERY VIGOROUS PLAYTIME SESH, wITH THE BOYS,</p>
+<p class="gcatav">GCATAVROSPRITE: aND MAYBE GET WICKED PRANKED ON,</p>
+<p class="gcatav">GCATAVROSPRITE: sO YOU DON'T BURN OUT,</p>
+<p class="gcatav">GCATAVROSPRITE: }:3</p>
+
+![Tavros-sprite sneezes.](./assets/characters/gcatav/sneeze.webp)
 <p class="gcatav">GCATAVROSPRITE (sneeze): aCHOO!</p>
 <p class="erisolsprite">ERISOLSPRITE: dude, 2neeze iintwwo your fuckin 2houlder or 2omethiing.</p>
 <p class="erisolsprite">ERISOLSPRITE: arent you done beiin allergiic twwo your2elf?</p>
 <p class="gcatav">GCATAVROSPRITE: i MEAN,</p>
-<p class="gcatav">GCATAVROSPRITE (mischievous): *sNIFF*</p>
-<p class="gcatav">GCATAVROSPRITE (mischievous): i FEEL LIKE i'M DOING PRETTY GOOD, oN THE NOT BEING ALLERGIC TO MYSELF FRONT,</p>
-<p class="gcatav">GCATAVROSPRITE (mischievous): cOMPARED TO BEFORE,</p>
-<p class="gcatav">GCATAVROSPRITE (mischievous): cONSIDERING THAT i HAVE A BUILT-IN MAGICAL AUTOIMMUNE DISORDER WHICH i HAVE NEVERTHELESS MOSTLY TRIUMPHED OVER, dUE TO MY VAST WILLPOWER, aND ALSO BECAUSE EVERYONE YELLED AT ME,</p>
+<p class="gcatav">GCATAVROSPRITE: *sNIFF*</p>
+<p class="gcatav">GCATAVROSPRITE: i FEEL LIKE i'M DOING PRETTY GOOD, oN THE NOT BEING ALLERGIC TO MYSELF FRONT,</p>
+<p class="gcatav">GCATAVROSPRITE: cOMPARED TO BEFORE,</p>
+<p class="gcatav">GCATAVROSPRITE: cONSIDERING THAT i HAVE A BUILT-IN MAGICAL AUTOIMMUNE DISORDER WHICH i HAVE NEVERTHELESS MOSTLY TRIUMPHED OVER, dUE TO MY VAST WILLPOWER, aND ALSO BECAUSE EVERYONE YELLED AT ME,</p>
 <p class="gcatav">GCATAVROSPRITE (sneeze): aCHOO!</p>
 <p class="vriska">VRISKA: As tempting as it sounds to stick around and shoot the shit for a while, I think...</p>
 <p class="vriska">VRISKA: I think I need to keep going.</p>
 <p class="vriska">VRISKA (smiling): I'm kind of on a roll here. Gotta strike while the iron is hot!</p>
-<p class="gcatav">GCATAVROSPRITE: iS THE IRON, iN THE FIRE,</p>
-<p class="vriska">VRISKA: You fucking know it is!</p>
-<p class="gcatav">GCATAVROSPRITE: tHAT'S COOL,</p>
+
+![Tavros-sprite, brow furrowed, looking a bit morose](assets/characters/gcatav/subdued.webp)
+<p class="gcatav">GCATAVROSPRITE (subdued): iS THE IRON, iN THE FIRE,</p>
+
+![Vriska angry smile](assets/characters/vriska_adult/angrysmiling.webp)
+<p class="vriska">VRISKA (angry smiling): You fucking know it is!</p>
+<p class="gcatav">GCATAVROSPRITE (subdued): tHAT'S COOL,</p>
 <p class="gcatav">GCATAVROSPRITE (subdued): iT'S JUST THAT eRISOL AND i HAVE BEEN SORT OF TALKING IT OVER,</p>
 <p class="gcatav">GCATAVROSPRITE (subdued): aND IT KIND OF FEELS LIKE THE FIRE IS ABOUT TO GET REALLY REALLY HOT,</p>
 <p class="gcatav">GCATAVROSPRITE (subdued): aND MAYBE SPENDING TOO MUCH TIME IN THE FIRE IS GOING TO MAKE YOUR IRON KIND OF MELTED AND FLACCID AND SHITTY, iNSTEAD OF USEFUL, iN THE BLACKSMITHING SENSE THAT'S RELEVANT TO THIS METAPHOR,</p>
@@ -54,46 +68,61 @@
 <p class="vriska">VRISKA: Whaaaaaaaat?</p>
 <p class="vriska">VRISKA: No way.</p>
 <p class="vriska">VRISKA (smiling): These irons are always, always fired.</p>
-<p class="gcatav">GCATAVROSPRITE: wELL, yEAH,</p>
+
+<p class="gcatav">GCATAVROSPRITE (subdued): wELL, yEAH,</p>
 <p class="gcatav">GCATAVROSPRITE (subdued): aND HISTORICALLY SPEAKING-</p>
 <p class="vriska">VRISKA: Oh 8lah 8lah 8lah, don't 8e such a pussy.</p>
-<p class="gcatav">GCATAVROSPRITE: i LITERALLY CAN'T NOT BE A CAT,</p>
+<p class="gcatav">GCATAVROSPRITE (subdued): i LITERALLY CAN'T NOT BE A CAT,</p>
 <p class="vriska">VRISKA: You know what I mean.</p>
 <p class="vriska">VRISKA (smiling): I've just gotta get in there and make this shit happen.</p>
 <p class="vriska">VRISKA (proud): I pretty much AM the fire!</p>
 <p class="vriska">VRISKA: How 8ad could it even 8e?</p>
+
+![Gcatavrossprite, silent](./assets/characters/gcatav/subdued_still.webp)
 <p class="gcatav">GCATAVROSPRITE: ,,,</p>
+
+![Erisolsprite, silent](./assets/characters/erisolsprite/neutral_still.webp)
 <p class="erisolsprite">ERISOLSPRITE: ...</p>
+
+![Vriska, silent](./assets/characters/vriska_adult/idle.webp)
 <p class="vriska">VRISKA: ........</p>
 <p class="vriska">VRISKA: Look, I'm just gonna go ahead and do this thing.</p>
 <p class="erisolsprite">ERISOLSPRITE: ok wwell fuck u2 for tryiin ii gue22, havve fun gettiing traumatiized.</p>
-<p class="vriska">VRISKA: I'm not gonna get traumatized!</p>
+
+![Vriska, angry](assets/characters/vriska_adult/angry.webp)
+<p class="vriska">VRISKA (angry): I'm not gonna get traumatized!</p>
 
 ### {ENTER SCRATCH'S PARLOR}
 
-*Fade to white*
+*[Fade to white, then fade to...]*
 
 ![Background: The parlor of Doc Scratch.](./assets/images/4/scratchsparlor.webp)
 
 ![Doc Scratch. A being in a white suit with a green bowtie, with an enormous white cueball for a head. His body crackles with the energy of the Green Sun.](./assets/characters/docscratch/scratch.webp)
 
-*Doc Scratch's text appears letter by letter, accompanied with a typewriter noise.*
+*[Doc Scratch's text appears letter by letter, accompanied with a typewriter noise.]*
 
 <p class="doc_scratch">Well, well.</p>
 <p class="doc_scratch">Isn't this a perfectly predictable inevitability?</p>
 <p class="doc_scratch">It certainly has been a while, Vriska. You seem to have blossomed nicely.</p>
 <p class="doc_scratch">Care for a piece of candy?</p>
+
+![Vriska, angry](assets/characters/vriska_adult/angry.webp)
 <p class="vriska">VRISKA (angry): Oh fuck your stupid candy, you glo8e-headed little freak.</p>
 <p class="doc_scratch">I know for a fact you'd enjoy it, but suit yourself.</p>
-<p class="vriska">VRISKA: Ugh. I had a feeling ages ago that I'd 8e seeing your smug ass again.</p>
+
+![Vriska, stoic](assets/characters/vriska_adult/stoic.webp)
+<p class="vriska">VRISKA (stoic): Ugh. I had a feeling ages ago that I'd 8e seeing your smug ass again.</p>
 <p class="doc_scratch">The feeling was mutual.</p>
 <p class="doc_scratch">Although it was less the wary hunch of a scared little girl than the delightful certainty that you'd come crawling back to me, sooner or later.</p>
 <p class="doc_scratch">Care to tell me how you've been?</p>
-<p class="vriska">VRISKA: What, like you don't know?</p>
+
+![Vriska jawdrop](assets/characters/vriska_adult/jawdrop.webp)
+<p class="vriska">VRISKA (jaw drop): What, like you don't know?</p>
 <p class="doc_scratch">Of course I know. I'm always watching you.</p>
 <p class="doc_scratch">I just figured I'd lend a little weight to the charade of our reintroduction, and allow you a chance to greet me on your own terms.</p>
 <p class="doc_scratch">It's only polite.</p>
-<p class="vriska">VRISKA: You know what?</p>
+<p class="vriska">VRISKA (angry smiling): You know what?</p>
 <p class="vriska">VRISKA (angry smiling): I've 8een pretty damn good.</p>
 <p class="vriska">VRISKA (angry smiling): 8een losing track of the sweeps I've spent in here fixing pretty much everything other than the thing I actually came in here to fix, 8ut it's paying off!</p>
 <p class="doc_scratch">There's a convenient timer for the express purpose of tracking that.</p>
@@ -107,11 +136,14 @@
 <p class="doc_scratch">I like to think that I'm far and away the most prolific contributor to your baggage.</p>
 <p class="vriska">VRISKA: You wish!</p>
 <p class="vriska">VRISKA (angry smiling): Man, I figured may8e this place was working up to something really intense, 8ut instead all I get is Glo8ehead the Gru8toucher playing puppetmaster again.</p>
+
+*[Vriska begins to tremble.]*
+
 <p class="vriska">VRISKA (angry smiling): What a joke!</p>
 <p class="vriska">VRISKA (angry smiling): You fucked with a 8unch of little kids and 8lew up, then you LOST.</p>
 <p class="vriska">VRISKA (angry smiling): You could 8arely handle me when I was six, I'm supposed to 8e scared of you NOW?</p>
 <p class="doc_scratch">Well, you're shaking.</p>
-<p class="vriska">VRISKA: THE F8CK I AM!!!!!!!!</p>
+<p class="vriska">VRISKA (angry): THE F8CK I AM!!!!!!!!</p>
 <p class="vriska">VRISKA (angry smiling): Shaking with excitement to get you in my rear-view, may8e!</p>
 <p class="vriska">VRISKA (angry smiling): What is it YOU'RE supposed to teach me?</p>
 <p class="vriska">VRISKA (angry smiling): How to 8e a creepy little pedophile?</p>
@@ -119,6 +151,8 @@
 <p class="vriska">VRISKA (stoic): C'mon!</p>
 <p class="vriska">VRISKA (stoic): Teach me a lesson!</p>
 <p class="vriska">VRISKA (angry): F8cking 8RING IT, you 8ald-ass 8ITCH!!!!!!!!</p>
+
+![Doc Scratch.](./assets/characters/docscratch/scratch.webp)
 <p class="doc_scratch">Exquisite.</p>
 <p class="doc_scratch">I missed that fumbling braggadocio. It's heartening to know that this place hasn't cured you of it yet.</p>
 <p class="doc_scratch">It makes you so much fun to play with.</p>
@@ -127,22 +161,22 @@
 
 ### {o} ==>
 
-*Fade to black.*
+*[Fade to black, then...]*
 
 ![Background: A chessboard with various troll-themed pieces. A tiny Vriska stands in the center, with a huge Doc Scratch looming over her with his hands steepled.](./assets/images/4/chessboard.webp)
 
 <p class="vriska">VRISKA: Hey, what the fuck?!</p>
 
-*Doc Scratch's text appears in front of his face.*
+*[Doc Scratch's text appears in front of his face.]*
 
 <p class="doc_scratch_center">There we are.</p>
 <p class="doc_scratch_center">Now then, why don't we have ourselves a little game?</p>
 
 <p class="box">WHAT WILL YOU DO</p>
 
-![The textbox glitches out.](./assets/images/4/glitch_box.webp)
+*[SFX: Glitch.]*
 
-*SFX: Glitch.*
+![The textbox glitches out and disappears.](./assets/images/4/glitch_box.webp)
 
 <p class="doc_scratch_center">Oh no. We won't be needing that.</p>
 <p class="doc_scratch_center">Let's get you into your uniform.</p>
@@ -260,9 +294,13 @@
 
 <p class="vriska">VRISKA: You didn't fucking own me.</p>
 
-*The background flickers and glitches.*
+*[The background flickers and glitches.]*
 
-![The text "EXACTLY". It flashes and crackles.](./assets/images/4/Exactly.webp)
+<div class="doc_scratch_center">
+
+![The word "Exactly", flashing and crackling.](./assets/images/4/Exactly.webp)
+
+</div>
 
 <p class="doc_scratch_center">But what matters is that I might as well have.</p>
 <p class="doc_scratch_center">You let yourself believe you had no option other than to take me up on my hard bargains, again and again.</p>
