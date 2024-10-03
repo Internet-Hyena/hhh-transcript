@@ -47,22 +47,24 @@
 .erisolsprite {
     color: var(--erisol);
 }
+
 .doc_scratch, .doc_scratch_center {
-    color: var(--scratch);
-    text-shadow: -.1em -0.1em 0.1em var(--scratch-outline), 
-                  0px -0.2em 0.1em var(--scratch-outline),
-                  0.1em -0.1em 0.1em var(--scratch-outline),
-                  -0.2em 0px 0.1em var(--scratch-outline), 
-                  0.2em  0px 0.1em var(--scratch-outline),
-                  -0.1em 0.1em 0.1em var(--scratch-outline), 
-                  0px  0.2em 0.1em var(--scratch-outline),
-                  0.1em  0.1em 0.1em var(--scratch-outline);
+    color: var(--scratch-outline);
 }
 
 .doc_scratch_center {
     --scratch-outline: var(--scratch-outline-center);
     text-align: center;
 }
+@supports (paint-order: stroke fill) and (-webkit-text-stroke-width: 6px) {
+    .doc_scratch, .doc_scratch_center {
+        color: var(--scratch_outline);
+        -webkit-text-stroke: 0.3em var(--scratch-outline);
+        -webkit-text-fill-color: var(--scratch);
+        paint-order: stroke fill;
+    }
+}
+
 .jasprosesprite {
     color: var(--jasprosesprite);
 }
