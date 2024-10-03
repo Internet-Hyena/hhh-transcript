@@ -75,14 +75,14 @@
 
 ### {Play game.}
 ![Tavros, in his green Pupa Pan costume.](./assets/characters/tavros/pupa/neutralsmile.webp)
-<p class="tavros">TAVROS (pupa smiling): yAY!</p>
+<p class="tavros">TAVROS (smiling): yAY!</p>
 
 ![Vriska, shoulders hunched and glowering](assets/characters/vriska_teen/scared.webp)
 <p class="vriska">VRISKA (scared): I won........</p>
 
 <p class="tavros">TAVROS: tHAT,</p>
 
-<p class="tavros">TAVROS (pupa smiling): wAS AWESOME!</p>
+<p class="tavros">TAVROS (smiling): wAS AWESOME!</p>
 <p class="tavros">TAVROS: mY CHARACTER EARNED SO MUCH XP,</p>
 <p class="tavros">TAVROS: hEHEHE,</p>
 <p class="vriska">VRISKA: 8ut I won. Why hasn't this place spit me out yet?</p>
@@ -92,13 +92,13 @@
 <p class="tavros">TAVROS: uGH, mAYBE NOT,</p>
 <p class="tavros">TAVROS: bUT, i DON'T CARE THAT MUCH ABOUT lOSING,</p>
 
-<p class="tavros">TAVROS (pupa smiling): i JUST WANT TO PLAY,</p>
+<p class="tavros">TAVROS (smiling): i JUST WANT TO PLAY,</p>
 <p class="tavros">TAVROS: iN THAT WAY, iTS LIKE, wE ARE BOTH WINNERS,</p>
 <p class="vriska">VRISKA (angry): No we are not. I won.</p>
 <p class="vriska">VRISKA (angry): You didn't, and you have to accept that.</p>
 <p class="tavros">TAVROS: oKAY, bUT, i DON'T,</p>
 
-<p class="tavros">TAVROS (pupa neutral): oR, i GUESS I DO, bUT, nOT IN THE WAY YOU WANT ME TO,</p>
+<p class="tavros">TAVROS: oR, i GUESS I DO, bUT, nOT IN THE WAY YOU WANT ME TO,</p>
 <p class="vriska">VRISKA: In that c8se, let's play another session! Let's just keep playing sessions over and over again and never stop!!!!!!!!!</p>
 <p class="vriska">VRISKA: And for the rest of forever, you will lose every single one of them.</p>
 <p class="vriska">VRISKA: How does that m8ke you feel, you still “ok8y” with that?</p>
@@ -107,7 +107,7 @@
 <p class="tavros">TAVROS: tHAT IS ALSO PRETTY EXCITING, sTILL,</p>
 
 ![Tavros, in his Pupa Pan costume, smiling with his eyes closed, and shimmying his shoulders.](./assets/characters/tavros/pupa/eyesclosedsmile.webp)
-<p class="tavros">TAVROS (pupa smiling eyesclosed): lIKE AN ADVENTURE, };),</p>
+<p class="tavros">TAVROS (smiling eyesclosed): lIKE AN ADVENTURE, };),</p>
 <p class="vriska">VRISKA: Damn.</p>
 <p class="vriska">VRISKA: That is quite possi8ly the gayest thing I have ever heard someone say, Nitram.</p>
 
@@ -120,7 +120,7 @@
 <p class="tavros">TAVROS: dAVE, wHAT?</p>
 <p class="vriska">VRISKA: Who cares, essentially it's just what you call people after they say something incredi8ly inane and need to shut up.</p>
 <p class="tavros">TAVROS: oKAY,</p>
-<p class="tavros">TAVROS (pupa smiling): wELL THEN, vRISKA, i THINK YOU, aRE gAY TOO,</p>
+<p class="tavros">TAVROS (smiling): wELL THEN, vRISKA, i THINK YOU, aRE gAY TOO,</p>
 
 ![Vriska, hunched over and screaming with rage](assets/characters/vriska_teen/angry.webp)
 <p class="vriska">VRISKA: Tavros, you can't just call me gay when I haven't said anything stupid, that's not how this works!</p>
@@ -137,7 +137,7 @@
 <p class="tavros">TAVROS: mAYBE?</p>
 <p class="tavros">TAVROS: bUT ALSO, iF SOMEONE DIDN'T LOSE, fOLLOWING ALL THESE RULES WOULDN'T BE VERY AMUSING,</p>
 
-<p class="tavros">TAVROS (pupa smiling): sO REALLY, lOSING IS ACTUALLY A FINE AND NORMAL THING TO HAPPEN,</p>
+<p class="tavros">TAVROS (smiling): sO REALLY, lOSING IS ACTUALLY A FINE AND NORMAL THING TO HAPPEN,</p>
 <p class="vriska">VRISKA: What is your fucking pro8lem m8n!</p>
 <p class="tavros">TAVROS (nervous): lITERALLY, nOTHING?</p>
 <p class="tavros">TAVROS (nervous): yOU ARE REALLY, uHH, cONCERNING YOURSELF HERE, wITH ME LOSING,</p>
@@ -161,7 +161,7 @@
 
 <p class="tavros">TAVROS: hMM,</p>
 
-<p class="tavros">TAVROS (pupa smiling): nO,</p>
+<p class="tavros">TAVROS (smiling): nO,</p>
 
 <p class="vriska">VRISKA (jaw drop): W-Wh8?</p>
 
@@ -185,7 +185,7 @@
 <p class="tavros">TAVROS: oR,</p>
 
 ![Pupa tavros, pointing with faux-surprise](./assets/characters/tavros/pupa/surprise.webp)
-<p class="tavros">TAVROS (pupa surprise): !</p>
+<p class="tavros">TAVROS (surprise): !</p>
 <p class="vriska">VRISKA: Shut up.</p>
 <p class="tavros">TAVROS (smirk): aRE YOU, tHE SOMEBODY ELSE, vRISKA,</p>
 <p class="vriska">VRISKA: ........</p>
@@ -199,7 +199,7 @@
 
 <!-- TODO: At this point I stopped manually tagging the poses from the "show" commands. Continue at some point. Line 464 -->
 
-<p class="tavros">TAVROS (pupa smirk): iT'S AS IF, i'M YOUR RUFIOH,</p>
+<p class="tavros">TAVROS (smirk): iT'S AS IF, i'M YOUR RUFIOH,</p>
 <p class="vriska">VRISKA: No.</p>
 <p class="tavros">TAVROS: uHHH, yES,</p>
 <p class="tavros">TAVROS: bUT INSTEAD OF BEING YOUR BEST PAL WITH HIGH SELF ESTEEM, i, rEMIND YOU OF ALL YOUR FEARS,</p>
@@ -213,28 +213,28 @@
 <p class="tavros">TAVROS: i LOVE NOW KNOWING, tHAT YOU HAVE PROBLEMS,</p>
 <p class="tavros">TAVROS: aND, i THINK YOU ARE, aCTUALLY, bEING INCREDIBLY SMART,</p>
 
-<p class="tavros">TAVROS (pupa neutral): pERHAPS, rUFIOH WAS TOO FAKE FOR AN IMAGINARY FRIEND, aND, tHAT'S WHY MY SELF ESTEEM NEVER IMPROVED,</p>
+<p class="tavros">TAVROS: pERHAPS, rUFIOH WAS TOO FAKE FOR AN IMAGINARY FRIEND, aND, tHAT'S WHY MY SELF ESTEEM NEVER IMPROVED,</p>
 
-<p class="tavros">TAVROS (pupa smiling): wHAT I MEAN IS, wE BOTH, cOULD BE PROJECTS, fOR EACH OTHER,</p>
+<p class="tavros">TAVROS (smiling): wHAT I MEAN IS, wE BOTH, cOULD BE PROJECTS, fOR EACH OTHER,</p>
 <p class="vriska">VRISKA: Noooooooo.</p>
 <p class="tavros">TAVROS: yEEEEEEEES,</p>
 <p class="vriska">VRISKA: >::::(</p>
-<p class="tavros">TAVROS (pupa smiling eyesclosed): i FEEL, sO VERY INSPIRED RIGHT NOW, i COULD DO A LITTLE DANCE,</p>
+<p class="tavros">TAVROS (smiling eyesclosed): i FEEL, sO VERY INSPIRED RIGHT NOW, i COULD DO A LITTLE DANCE,</p>
 <p class="vriska">VRISKA: Don't.</p>
 <p class="tavros">TAVROS: oK THEN CONSIDER,</p>
 <p class="tavros">TAVROS: iN OUR NEXT CAMPAIGN, tHE BOY SKYLARK,,, bECOMES HIS OWN, uH, bLUE FAIRY,</p>
 <p class="vriska">VRISKA: You're not 8lue Tavros. Don't start pretending to 8e 8lue.</p>
 <p class="tavros">TAVROS: i WON'T,</p>
 
-<p class="tavros">TAVROS (pupa smirk): i WILL, iNSTEAD, bE THE MUCH RARER BRONZE FAIRY, wHO COMMANDS BEAST WITH HER RESPLENDENT SONG, bUT, iS ACTUALLY USING HER PSYCHIC POWERS,</p>
+<p class="tavros">TAVROS (smirk): i WILL, iNSTEAD, bE THE MUCH RARER BRONZE FAIRY, wHO COMMANDS BEAST WITH HER RESPLENDENT SONG, bUT, iS ACTUALLY USING HER PSYCHIC POWERS,</p>
 <p class="tavros">TAVROS: aND, sHE WILL BE SUPER NICE, aND SOFT, aND AWESOME BECAUSE, eVERYONE LIKES HER,</p>
-<p class="tavros">TAVROS (pupa smiling eyesclosed): cONTRARY, tO HER EVIL FAIRY FRIEND, wHO EVERYONE HATES, fOR BEING A BIG ASSHOLE,</p>
+<p class="tavros">TAVROS (smiling eyesclosed): cONTRARY, tO HER EVIL FAIRY FRIEND, wHO EVERYONE HATES, fOR BEING A BIG ASSHOLE,</p>
 <p class="vriska">VRISKA: ........</p>
 <p class="tavros">TAVROS: sORRY,</p>
 <p class="vriska">VRISKA: No you're not, you're totally proud of yourself!!!!!!!!</p>
 <p class="tavros">TAVROS: oKAY, i'M NOT,</p>
 
-<p class="tavros">TAVROS (pupa smirk): hEHEHEHEHEHEHEHE,</p>
+<p class="tavros">TAVROS (smirk): hEHEHEHEHEHEHEHE,</p>
 <p class="vriska">VRISKA: Fuck it, what other choice do I have 8ut 8e on 8oard with this whole trainwreck.</p>
 
 <p class="vriska">VRISKA (smiling): Let's play some games for girls.</p>
