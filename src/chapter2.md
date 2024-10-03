@@ -15,7 +15,7 @@
 <p class="vriska">VRISKA (sad): Sigh.</p>
 <p class="vriska">VRISKA (sad): Hi Tavros.</p>
 
-![Tavros, frowning without speaking](./images/1/characters/tavros/tavros_idle.webp)
+![Tavros, frowning without speaking](./assets/characters/tavros/idle.webp)
 <p class="tavros">TAVROS: ,,,,,</p>
 <p class="vriska">VRISKA (sad): ........</p>
 
