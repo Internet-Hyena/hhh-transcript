@@ -358,23 +358,25 @@
 
 
 <!-- 0.1 xzoom -1.0 xcenter 0.5 xoffset -100 -->
-*Vriska turns to the left, and leaves.*
+<img class="vriska_escape" src="./assets/characters/vriska_adult/uncomfortable.webp" alt="Vriska turns to the left, and exits.">
+
 <!-- 0.25 -->
 <!-- vriska with slideoutleftslow -->
 <!-- music fadeout 3.0 -->
 
-*Fade to white.*
+*[Fade to white, then...]*
 
 <!-- white with Dissolve(3.0) -->
 <!-- 3.5 -->
 <!-- music "chapters/6/audio/vrisbeach-dreamy.ogg" fadein 1.0 volume 0.5 loop -->
 
 
-<div class="beach">
-    <img class="beach_bg" src="./assets/images/6/Vriska_Beach.webp"
-        alt="Vriska sits on the familiar beach outside her hive, exactly back where she started. A herd of horses slowly runs past.">
-    <img class="beach_horses" role="presentation" src="./assets/images/6/horses.webp">
+<div class="beach" role="img" aria-label="Vriska sits on the familiar beach outside her hive, exactly back where she started. A herd of horses slowly runs past.">
+    <img class="beach_bg" src="./assets/images/6/Vriska_Beach.webp" alt="Beach">
+    <img class="beach_horses" src="./assets/images/6/horses.webp" alt="Horses">
 </div>
+
+*[Fade to white.]*
 
 <!-- bg vris_beach with Dissolve(2.0) -->
 <!-- horses onlayer talksprites with Dissolve(2.0): -->
