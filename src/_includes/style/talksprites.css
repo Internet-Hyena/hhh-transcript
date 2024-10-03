@@ -34,3 +34,27 @@ img[src*="fefeta/xc"] {
     50% { opacity: 0; }
     100% { opacity: 0; }
 }
+
+.tavros_escape {
+    display: inline-block;
+    animation-name: tavros_escape;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes tavros_escape {
+    25% {
+        scale: 1 1;
+        translate: 0 0;
+    }
+    35%, 42.5% {
+        scale: -1 1;
+        translate: 0 0;
+    }
+    60%, 100% {
+        scale: -1 1;
+        translate: 50vw 0;
+    }
+}

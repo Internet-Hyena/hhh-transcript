@@ -260,13 +260,12 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 <p class="tavros">TAVROS (nervous): nO,</p>
 <p class="vriska">VRISKA (angry): Hey get 8ack here!</p>
 <p class="tavros">TAVROS (nervous): nO!</p>
+<img class="tavros_escape" src="./assets/characters/tavros/nervous_idle.webp"
+    alt="Tavros turns to the right and escapes off the screen.">
+
 <p class="vriska">VRISKA (angry): Stop running!</p>
 <p class="tavros">TAVROS: nO, i LOVE TO RUN AND, i DO NOT PLAN ON STOPPING, aNY TIME SOON,</p>
-
-
 <p class="vriska">VRISKA (angry): You kill me right this instant!</p>
-
-[Tavros turns and dashes off.]
 
 <p class="vriska">VRISKA: Damn it, I forgot how fast he used to 8e.</p>
 <p class="tavros">TAVROS: nO!</p>
