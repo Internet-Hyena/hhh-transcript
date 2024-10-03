@@ -1,10 +1,10 @@
 ## Chapter 2
 
-![Chapter select button. A stack of manuals for the roleplaying game, Flarp.](./images/chapterselect/flarp.png)
+![Chapter select button. A stack of manuals for the roleplaying game, Flarp.](./images/chapterselect/flarp.webp)
 
 ### {Select "FLARP BOOK"}
 
-![The grassy cliff outside Tavros's hive.](images/tavroscliff.png)
+![The grassy cliff outside Tavros's hive.](images/tavroscliff.webp)
 
 ![Vriska, folding her arms and pouting](images/1/characters/vriska/vriska_sad.webp)
 <p class="vriska">VRISKA (sad): ........</p>
@@ -15,7 +15,7 @@
 <p class="vriska">VRISKA (sad): Sigh.</p>
 <p class="vriska">VRISKA (sad): Hi Tavros.</p>
 
-![Tavros, frowning without speaking](./images/1/characters/tavros/tavros_idle.png)
+![Tavros, frowning without speaking](./images/1/characters/tavros/tavros_idle.webp)
 <p class="tavros">TAVROS: ,,,,,</p>
 <p class="vriska">VRISKA (sad): ........</p>
 
@@ -258,7 +258,7 @@
 
 ### {==>}
 
-![Background: The Land of Maps of Treasure, Vriska's planet from her Sburb session.](images/2/images/lomat.png)
+![Background: The Land of Maps of Treasure, Vriska's planet from her Sburb session.](images/2/images/lomat.webp)
 
 ![Vriska, shoulders hunched, mouth agape in shock and anger. Her eyebrow twitches.](./images/2/characters/vriska/vriska_jawdrop.webp)
 <p class="vriska">VRISKA (jaw drop): !!!!!!!!</p>
@@ -418,13 +418,13 @@
 <p class="vriska">VRISKA (sad): ........ ok.</p>
 <p class="vriska">VRISKA: Ok.</p>
 
-![Aradiabot stands over Vriska with an arm outstretched.](images/2/images/panel1.png)
+![Aradiabot stands over Vriska with an arm outstretched.](images/2/images/panel1.webp)
 
 ### {Vriska: Take Aradia's hand.}
-![The interior of Vriska's quest cocoon. A pillar of light shines from the top and spotlights the quest bed in the center.](images/2/images/questcocoon.png)
+![The interior of Vriska's quest cocoon. A pillar of light shines from the top and spotlights the quest bed in the center.](images/2/images/questcocoon.webp)
 
 ### {==>}
-![Vriska lying on her quest bed with a concerned expression. Aradia and Tavros hold her hand and smile.](images/2/images/panel2.png)
+![Vriska lying on her quest bed with a concerned expression. Aradia and Tavros hold her hand and smile.](images/2/images/panel2.webp)
 
 <p class="vriska">VRISKA: I know it doesn't change anything, 8ecause it already happened and also you two aren't even real.</p>
 <p class="vriska">VRISKA: 8ut I am actually sorry. For everything.</p>
@@ -432,7 +432,7 @@
 <p class="tavros">TAVROS: yOURE RIGHT, iT'S DEFINITELY POINTLESS TO SAY, bUT, iT IS AN APPRECI8TED GESTURE };)</p>
 
 ### {==>}
-![A closeup of Vriska lying down, her eye shut.](images/2/images/panel3.png)
+![A closeup of Vriska lying down, her eye shut.](images/2/images/panel3.webp)
 
 <p class="vriska">VRISKA: And, it's not going to 8e the same again.</p>
 <p class="vriska">VRISKA: I'll stick with it this time. I promise.</p>

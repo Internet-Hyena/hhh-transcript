@@ -1,10 +1,10 @@
 ## Chapter 3
 
-![Chapter select button. Mindfang's journal. A black notebook with a blue Scorpio symbol on the front.](./images/chapterselect/mindfang.png)
+![Chapter select button. Mindfang's journal. A black notebook with a blue Scorpio symbol on the front.](./images/chapterselect/mindfang.webp)
 
 ### "YEAR 4"
 
-![Vriska's bedroom](./images/vriskaroom.png)
+![Vriska's bedroom](./images/vriskaroom.webp)
 
 ![Nannasprite](./images/3/characters/nannasprite/nannasprite_neutral.webp)
 <p class="nannasprite">NANNASPRITE: Oh there you are!</p>
@@ -90,7 +90,7 @@
 <p class="vriska">VRISKA (angry): Don't p8tronize me, old lady! Destiny's the found8tion of my godhood!</p>
 <p class="nannasprite">NANNASPRITE: True. I am only a simple elderly woman, stand-mixed with the unknowable secrets of the universe and a one-armed clown doll. But from experience, I would still argue that destiny mostly fulfills itself.</p>
 
-![Nannasprite winking and waggling her finger](./images/3/characters/nannasprite/nannasprite_wink.png)
+![Nannasprite winking and waggling her finger](./images/3/characters/nannasprite/nannasprite_wink.webp)
 <p class="nannasprite">NANNASPRITE (wink): There are many more important things you should focus on, such as getting the heck out of here!</p>
 <p class="vriska">VRISKA: Wow, I've 8een pep-talked and I didn't even realize it. You have a point, though... It's not like I have any other plan 8ut to keep trying.</p>
 <p class="vriska">VRISKA (sad): Also, sorry for getting snippy there. <::::(</p>
@@ -106,7 +106,7 @@
 *Fade to white.*
 
 ### \>  {????????}
-![Background: A spider's web](./images/3/images/web.png)
+![Background: A spider's web](./images/3/images/web.webp)
 
 ![Sillouhette of the Marquise Spinneret Mindfang from the back, grinning with sharp teeth.](./images/3/characters/mindmom/silhouette_blue.webp)
 
@@ -120,7 +120,7 @@
 ![Mindfang, still in shadow.](./images/3/characters/mindmom/mindfang_neutral.webp)
 <p class="mindmom">Oh? Had the thief 8een here 8efore?</p>
 
-![Adult Vriska, arms folded, tipping her head back stoically.](./images/3/characters/vriska/vriska_stoic.png)
+![Adult Vriska, arms folded, tipping her head back stoically.](./images/3/characters/vriska/vriska_stoic.webp)
 <p class="vriska">VRISKA (stoic): Yep! In 8rief summary, at least once a week for the last 2 years.</p>
 <p class="vriska">VRISKA: 8roaching every kind of chit chat that goes a8solutely nowhere.</p>
 <p class="vriska">VRISKA: The whole endeavor usually ends with me either killing you or... feeding myself to you.</p>
@@ -142,9 +142,9 @@
 
 *Fade transition.*
 
-![Background: The craggy pit outside Vriska's hive, where her spider lusus lives](./images/3/images/spidermom_pit.png)
+![Background: The craggy pit outside Vriska's hive, where her spider lusus lives](./images/3/images/spidermom_pit.webp)
 
-![Vriska, stoic](./images/3/characters/vriska/vriska_stoic.png)
+![Vriska, stoic](./images/3/characters/vriska/vriska_stoic.webp)
 <p class="vriska">VRISKA (stoic): Hi Momfang.</p>
 <p class="vriska">VRISKA (stoic): It's 8een a 8it. How are you?</p>
 
@@ -198,7 +198,7 @@
 <p class="vriska">VRISKA (angry): Even growing up in a f8ke world where no one has a spine, and with 8arely any guidance, her powers can do things mine can't.</p>
 <p class="vriska">VRISKA (angry smiling): So what silver lining is left, honestly?</p>
 
-![Mindfang, looking down, silent.](./images/3/characters/mindmom/mindfang_silent.png)
+![Mindfang, looking down, silent.](./images/3/characters/mindmom/mindfang_silent.webp)
 <p class="mindmom">........</p>
 
 <p class="vriska">VRISKA (angry smiling): 8ut that's the point, right?</p>

@@ -1,6 +1,6 @@
 ## Chapter X
 
-![Chapter select button. An orange feather.](./images/chapterselect/davepeta.png)
+![Chapter select button. An orange feather.](./images/chapterselect/davepeta.webp)
 
 *Fade to white.*
 
@@ -8,7 +8,7 @@ Meanwhile...!
 
 *Fade to...*
 
-![Background: Vriska's bedroom](./images/vriskaroom.png)
+![Background: Vriska's bedroom](./images/vriskaroom.webp)
     
 ![Davepeta, eyes lowered, looking unconomfortable.](./images/1/characters/davepetasprite/davepeta_uncomfortable.webp)
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2  (uncomfortable): B33 <</span> *dp hesitantly crawls up to their phone, curiously pawing at the device and feigning ignorance as though they don't know what the fuck it is because theyre kind of embarrassed to talk to the sprite^2 they know is at the other end*</p>
@@ -26,7 +26,7 @@ Meanwhile...!
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> whats shaking</p>
 
 *Slide in from left.*
-![Background: The frame of Vriska's room is split halfway down the middle, showing Midnight City.](./images/5/images/vriska_room_midnight_city.png)
+![Background: The frame of Vriska's room is split halfway down the middle, showing Midnight City.](./images/5/images/vriska_room_midnight_city.webp)
 
 ![Jasprose with her arms folded disdainfully.](./images/5/characters/jasprose/jasprose_annoyed.webp)
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2 (annoyed):</span> Hello? Haven't you heard it's rude to keep a lady waiting?</p>

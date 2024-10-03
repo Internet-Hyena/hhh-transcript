@@ -1,6 +1,6 @@
 ## Chapter 6
 
-![Chapter select button. A Magic 8 Ball.](./images/chapterselect/8ball.png)
+![Chapter select button. A Magic 8 Ball.](./images/chapterselect/8ball.webp)
 
 *Black background.*
 
@@ -8,7 +8,7 @@
 
 *Fade to...*
 
-![Background: Vriska's room](./images/vriskaroom.png)
+![Background: Vriska's room](./images/vriskaroom.webp)
 
 
 ![Davepeta](./images/1/characters/davepetasprite/davepeta_neutral.webp)
@@ -65,7 +65,7 @@
 
 
 <!-- fefeta neutral onlayer talksprites at right with slideinright -->
-![Fefetasprite, smiling.](./images/6/characters/fefeta/fefetasprite_neutral.png)
+![Fefetasprite, smiling.](./images/6/characters/fefeta/fefetasprite_neutral.webp)
 <p class="fefetasprite">FEFETASPRITE: 3833 < 383</p>
 <!-- fefeta with slideoutright -->
 
@@ -91,7 +91,7 @@
 
 
 <!-- fefeta neutral onlayer talksprites at right with slideinright -->
-![Fefetasprite, smiling.](./images/6/characters/fefeta/fefetasprite_neutral.png)
+![Fefetasprite, smiling.](./images/6/characters/fefeta/fefetasprite_neutral.webp)
 <p class="fefetasprite">FEFETASPRITE: 3833 < 383</p>
 <!-- fefeta with slideoutright -->
 
@@ -99,7 +99,7 @@
 <!-- vriska adult smiling onlayer talksprites at left with slideinleft -->
 <p class="vriska">VRISKA (smiling): ........</p>
 
-![Vriska, folding her arms and squinting.](./images/3/characters/vriska/vriska_stoic.png)
+![Vriska, folding her arms and squinting.](./images/3/characters/vriska/vriska_stoic.webp)
 <p class="vriska">VRISKA (stoic): Okay, I have to say something.</p>
 <p class="vriska">VRISKA: So, DP, you're half Nepeta, right?</p>
 <!-- vriska with slideoutleft -->
@@ -121,7 +121,7 @@
 
 
 <!-- fefeta neutral onlayer talksprites at right with slideinright -->
-![Fefetasprite, smiling.](./images/6/characters/fefeta/fefetasprite_neutral.png)
+![Fefetasprite, smiling.](./images/6/characters/fefeta/fefetasprite_neutral.webp)
 <p class="fefetasprite">FEFETASPRITE: 3833 < 383</p>
 <!-- fefeta with slideoutright -->
 
@@ -157,7 +157,7 @@
 
 <!-- sfx "chapters/6/audio/disappear.ogg" volume 0.75 noloop -->
 <!-- fefeta xc onlayer talksprites at right, fadeout with slideinright -->
-![Fefetasprite grimaces and suddenly disappears.](./images/6/characters/fefeta/fefetasprite_XC.png)
+![Fefetasprite grimaces and suddenly disappears.](./images/6/characters/fefeta/fefetasprite_XC.webp)
 <p class="fefetasprite">FEFETASPRITE: 3X(( < 3X((</p>
 <!-- fefeta with Dissolve(0.3) -->
 
@@ -188,7 +188,7 @@
 
 
 <!-- vriska adult glaring onlayer talksprites at left with slideinleft -->
-![Vriska, unamused, arms crossed, gaze lowered](./images/3/characters/vriska/vriska_glaring.png)
+![Vriska, unamused, arms crossed, gaze lowered](./images/3/characters/vriska/vriska_glaring.webp)
 <p class="vriska">VRISKA (glaring): Hey hey, we talked a8out this.</p>
 <!-- vriska with slideoutleft -->
 
@@ -203,13 +203,13 @@
 
 *SFX: Level up!*
 
-![A simplistic MS Paint sketch of Davepeta hugging the reluctant Vriska. "Glomp!!!!"](./images/6/images/Davepeta_Vriska-hug.png)
+![A simplistic MS Paint sketch of Davepeta hugging the reluctant Vriska. "Glomp!!!!"](./images/6/images/Davepeta_Vriska-hug.webp)
 
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> yay</p>
 
 *Fade to...*
 
-![Closeup: Davepeta clutches the 8 ball and extends it toward Vriska.](images/6/images/Davepeta_8ball.png)
+![Closeup: Davepeta clutches the 8 ball and extends it toward Vriska.](images/6/images/Davepeta_8ball.webp)
 
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> here you go, your last hell</p>
 
@@ -226,14 +226,14 @@
 
 <p class="vriska">VRISKA: ...</p>
 
-![The inside of the 8 ball. A dark void. A tree is barely visible.](./images/6/images/8ballVoid_1.png)
+![The inside of the 8 ball. A dark void. A tree is barely visible.](./images/6/images/8ballVoid_1.webp)
 
 <p class="vriska">VRISKA: ...?</p>
 <p class="vriska">VRISKA: Hey!!!!!!!!</p>
 
 <!-- music "chapters/6/audio/terezi_vn.ogg" fadein 1.0 volume 0.5 loop -->
 
-![The scene gets closer and clearer. A tree in a field of green and red. At the center, stands a young troll girl, facing away.](./images/6/images/8ballVoid_2.png)
+![The scene gets closer and clearer. A tree in a field of green and red. At the center, stands a young troll girl, facing away.](./images/6/images/8ballVoid_2.webp)
 
 <p class="vriska">VRISKA: Terezi!!!!!!!!</p>
 <p class="vriska">VRISKA: Is that you?</p>
@@ -242,35 +242,35 @@
 <p class="vriska">VRISKA: Even if you're just a phantom designed explicitly to torture me, I'm so happy to see-</p>
 <p class="vriska">VRISKA: you...?</p>
     
-![Closer. The troll from behind. She's wearing a gray tank top, and her hair is pulled back into braids, resembling Meenah's.](./images/6/images/8ballVoid_3.png)
+![Closer. The troll from behind. She's wearing a gray tank top, and her hair is pulled back into braids, resembling Meenah's.](./images/6/images/8ballVoid_3.webp)
 
 <p class="vriska">VRISKA: What?</p>
 <p class="vriska">VRISKA: Who are...</p>
 
-![Closeup. She turns around, revealing a teenage Vriska with empty white eyes. It's (Vriska), the ghost of her younger self from the Game Over timeline.](./images/6/images/8ballVoid_4.png)
+![Closeup. She turns around, revealing a teenage Vriska with empty white eyes. It's (Vriska), the ghost of her younger self from the Game Over timeline.](./images/6/images/8ballVoid_4.webp)
 
 *The music stops.*
 
-![Background. A dream bubble. Green grass, red mountains, and a large green tree with red blossoms.](./images/6/images/8ball.png)
+![Background. A dream bubble. Green grass, red mountains, and a large green tree with red blossoms.](./images/6/images/8ball.webp)
 
 <!-- music "chapters/6/audio/11-6.wav" fadein 1.0 volume 0.5 loop -->
 <!-- vriska adult glaring onlayer talksprites at left with slideinleft -->
-![Vriska, glaring.](./images/3/characters/vriska/vriska_glaring.png)
+![Vriska, glaring.](./images/3/characters/vriska/vriska_glaring.webp)
 <p class="vriska">VRISKA: ...</p>
 <!-- vriska with slideoutleft -->
 
 <!-- vriska_paren sad onlayer talksprites at right with slideinright -->
-![Ghost Vriska, with a blank expression](./images/6/characters/vriska_paren/(Vriska)_Frown.png)
+![Ghost Vriska, with a blank expression](./images/6/characters/vriska_paren/(Vriska)_Frown.webp)
 <p class="vriska_paren">(VRISKA): ...</p>
 <!-- vriska_paren with slideoutright -->
 
 <!-- vriska adult glaring onlayer talksprites at left with slideinleft -->
-![Vriska, glaring.](./images/3/characters/vriska/vriska_glaring.png)
+![Vriska, glaring.](./images/3/characters/vriska/vriska_glaring.webp)
 <p class="vriska">VRISKA: ...</p>
 <!-- vriska with slideoutleft -->
 
 <!-- vriska_paren sad onlayer talksprites at right with slideinright -->
-![Ghost Vriska, with a blank expression](./images/6/characters/vriska_paren/(Vriska)_Frown.png)
+![Ghost Vriska, with a blank expression](./images/6/characters/vriska_paren/(Vriska)_Frown.webp)
 <p class="vriska_paren">(VRISKA): ...</p>
 <!-- vriska_paren with slideoutright -->
 
@@ -297,17 +297,17 @@
 <!-- vriska with slideoutleft -->
 
 <!-- vriska_paren hug onlayer talksprites at right with slideinright -->
-![Ghost Vriska](./images/6/characters/vriska_paren/(Vriska)_Hug.png)
+![Ghost Vriska](./images/6/characters/vriska_paren/(Vriska)_Hug.webp)
 <p class="vriska_paren">(VRISKA): ...</p>
 <!-- vriska_paren with slideoutright -->
 
 <!-- vriska adult shocked onlayer talksprites at left with slideinleft -->
-![Vriska, frozen in shock](./images/3/characters/vriska/vriska_shocked.png)
+![Vriska, frozen in shock](./images/3/characters/vriska/vriska_shocked.webp)
 <p class="vriska">VRISKA: HUH???????? What the hell...</p>
 <!-- vriska with slideoutleft -->
 
 <!-- vriska_paren hug onlayer talksprites at right with slideinright -->
-![Ghost Vriska](./images/6/characters/vriska_paren/(Vriska)_Hug.png)
+![Ghost Vriska](./images/6/characters/vriska_paren/(Vriska)_Hug.webp)
 <p class="vriska_paren">(VRISKA): ...</p>
 <!-- vriska_paren with slideoutright -->
 
@@ -317,7 +317,7 @@
 <!-- vriska with slideoutleft -->
 
 <!-- vriska_paren hug onlayer talksprites at right with slideinright -->
-![Ghost Vriska](./images/6/characters/vriska_paren/(Vriska)_Hug.png)
+![Ghost Vriska](./images/6/characters/vriska_paren/(Vriska)_Hug.webp)
 <p class="vriska_paren">(VRISKA): ...</p>
 <!-- vriska_paren with slideoutright -->
 
@@ -325,7 +325,7 @@
 ![Vriska uncomfortable](./images/3/characters/vriska/vriska_uncomfortable.webp)
 <p class="vriska">VRISKA: You're asking for too much.</p>
 
-![Vriska glaring](./images/3/characters/vriska/vriska_glaring.png)
+![Vriska glaring](./images/3/characters/vriska/vriska_glaring.webp)
 <p class="vriska">VRISKA: You're really going to make me do this?</p>
 
 ![Vriska uncomfortable](./images/3/characters/vriska/vriska_uncomfortable.webp)
@@ -341,12 +341,12 @@
 ![Vriska sad](./images/3/characters/vriska/vriska_sad.webp)
 <p class="vriska">VRISKA: I...</p>
 
-![Vriska stoic](./images/3/characters/vriska/vriska_stoic.png)
+![Vriska stoic](./images/3/characters/vriska/vriska_stoic.webp)
 <p class="vriska">VRISKA: I won't.</p>
 <!-- vriska with slideoutleft -->
 
 <!-- vriska_paren sad onlayer talksprites at right with slideinright -->
-![Ghost Vriska frowns and lowers her arms.](./images/6/characters/vriska_paren/(Vriska)_Frown.png)
+![Ghost Vriska frowns and lowers her arms.](./images/6/characters/vriska_paren/(Vriska)_Frown.webp)
 <p class="vriska_paren">(VRISKA): ...</p>
 <!-- vriska_paren with slideoutright -->
 
@@ -371,9 +371,9 @@
 
 
 <div class="beach">
-    <img class="beach_bg" src="./images/6/images/Vriska_Beach.png"
+    <img class="beach_bg" src="./images/6/images/Vriska_Beach.webp"
         alt="Vriska sits on the familiar beach outside her hive, exactly back where she started. A herd of horses slowly runs past.">
-    <img class="beach_horses" role="presentation" src="./images/6/images/horses.png">
+    <img class="beach_horses" role="presentation" src="./images/6/images/horses.webp">
 </div>
 
 <!-- bg vris_beach with Dissolve(2.0) -->

@@ -1,8 +1,8 @@
 ## Prologue / Chapter 1
 
-![Chapter select button. A green hourglass with blue sand.](./images/chapterselect/hourglass.png)
+![Chapter select button. A green hourglass with blue sand.](./images/chapterselect/hourglass.webp)
 
-![The grassy cliff outside Tavros's hive.](images/tavroscliff.png)
+![The grassy cliff outside Tavros's hive.](images/tavroscliff.webp)
 
 You are now Vriska, and like any good Main Character, you find yourself on the precipice of an all too familiar cliff.
 
@@ -281,25 +281,25 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 ### {It's really for the 8est.}
 ![Tavros stands stunned, arms outstretched, as Vriska's symbol flashes on his forehead.](images/1/images/panel2.webp)
-![Close-up of Tavros's hand, grasping the Cigarette Holder Lance](images/1/images/panel3.png)
+![Close-up of Tavros's hand, grasping the Cigarette Holder Lance](images/1/images/panel3.webp)
 
 <p class="vriska">VRISKA: Good luck.</p>
 
 ### {Adios, Toreador.}
 
-![Tavros arches his arms back...](images/1/images/panel4.png)
+![Tavros arches his arms back...](images/1/images/panel4.webp)
 
 ### {==>}
 
-![And impales Vriska using the lance.](images/1/images/panel5.png)
+![And impales Vriska using the lance.](images/1/images/panel5.webp)
 ### {==>}
-![Vriska dead on the ground, blue blood splattered behind her. She is captioned "DEAD."](images/1/images/panel6.png)
+![Vriska dead on the ground, blue blood splattered behind her. She is captioned "DEAD."](images/1/images/panel6.webp)
 
 <p class="tavros">TAVROS: uHH, oH SHUCKS, bYE VRISKA,</p>
 
 ### {==>}
 
-![Vriska, back at the beach outside her hive.](images/1/images/end.png)
+![Vriska, back at the beach outside her hive.](images/1/images/end.webp)
 
 > "You are now Vriska, and like any good Main Character, you find yourself on the precipice of an all too familiar Beach.
 > 
@@ -308,7 +308,7 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 <div class="box big">YEAR 2</div>
 
-![Vriska's bedroom in her hive.](images/vriskaroom.png)
+![Vriska's bedroom in her hive.](images/vriskaroom.webp)
 
 ![Davepetasprite hunched over, with their claws extended.](images/1/characters/davepetasprite/davepeta_roleplay.webp)
 
@@ -316,7 +316,7 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> *their ears twitch cutely with every step they take beclaws as perfect a creature as they are cats are still too fucking stupid to invent proper p33ts protectors*</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> *they will probably need to get these silly little beans amputated after walking through all this white shit but whatever its fine, at the end of this tail is an important furiend*</p>
 
-![Vriska, now wearing a tank top version of her shirt, and with her hair pulled back.](images/1/characters/vriska/vriska_idle.png)
+![Vriska, now wearing a tank top version of her shirt, and with her hair pulled back.](images/1/characters/vriska/vriska_idle.webp)
 <p class="vriska">VRISKA: ...</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> every year farmers and freaks alike crowd around this curious critter wringing their sweaty boring human hands all nervously hoping for winters end</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> but this overhyped moles shadow offurs a symbolic appouncement for the spider instead</p>
