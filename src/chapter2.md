@@ -1,15 +1,15 @@
 ## Chapter 2
 
-![Chapter select button. A stack of manuals for the roleplaying game, Flarp.](./images/chapterselect/flarp.webp)
+![Chapter select button. A stack of manuals for the roleplaying game, Flarp.](./assets/images/chapterselect/flarp.webp)
 
 ### {Select "FLARP BOOK"}
 
-![The grassy cliff outside Tavros's hive.](images/tavroscliff.webp)
+![The grassy cliff outside Tavros's hive.](assets/images/tavroscliff.webp)
 
-![Vriska, folding her arms and pouting](images/1/characters/vriska/vriska_sad.webp)
+![Vriska, folding her arms and pouting](assets/characters/vriska_teen/sad.webp)
 <p class="vriska">VRISKA (sad): ........</p>
 
-![Tavros, smiling](./images/1/characters/tavros/tavros_smiling.webp)
+![Tavros, smiling](./assets/characters/tavros/smiling.webp)
 <p class="tavros">TAVROS: oH,</p>
 <p class="tavros">TAVROS: hI VRISKA,</p>
 <p class="vriska">VRISKA (sad): Sigh.</p>
@@ -19,7 +19,7 @@
 <p class="tavros">TAVROS: ,,,,,</p>
 <p class="vriska">VRISKA (sad): ........</p>
 
-![Tavros, sweating and averting eye contact](./images/1/characters/tavros/tavros_nervous.webp)
+![Tavros, sweating and averting eye contact](./assets/characters/tavros/nervous.webp)
 <p class="tavros">TAVROS (nervous): sHOULD I, bE WORRIED ABOUT THE FACT THAT YOU, aRE NOT TALKING,</p>
 <p class="tavros">TAVROS (nervous): wHEN THAT IS, uHH, yOUR FAVORITE THING TO DO, uSUALLY,</p>
 <p class="vriska">VRISKA (sad): May8e.</p>
@@ -29,15 +29,15 @@
 <p class="vriska">VRISKA (sad): It doesn't matter. We can do whatever you want.</p>
 <p class="tavros">TAVROS (nervous): iS THIS, a TRICK,,, i CAN NEVER TELL,</p>
 
-![Vriska, folding her arms and pouting](images/1/characters/vriska/vriska_neutral.webp)
+![Vriska, folding her arms and pouting](assets/characters/vriska_teen/neutral.webp)
 <p class="vriska">VRISKA: No, Tavros, I've already tried tricking you. It doesn't work.</p>
 
-![Vriska, hunched over and screaming with rage](images/1/characters/vriska/vriska_angry.webp)
+![Vriska, hunched over and screaming with rage](assets/characters/vriska_teen/angry.webp)
 <p class="vriska">VRISKA (angry): I've apologized, I've killed you, you've killed me, you've paralyzed me, disfigured me, we traveled the world together.</p>
 <p class="vriska">VRISKA (angry): We 8uilt you an army, had several revolutions, you got to do your little dance a thousand times over.</p>
 <p class="tavros">TAVROS: wOAH,</p>
 
-![Tavros, smirking and waggling his eyebrows](images/1/characters/tavros/tavros_smirk.webp)
+![Tavros, smirking and waggling his eyebrows](assets/characters/tavros/smirk.webp)
 <p class="tavros">TAVROS (smirk): bADASS,</p>
 <p class="vriska">VRISKA: Not that you remem8er any of it, asshole.</p>
 <p class="vriska">VRISKA: And even worse, none of it was what I was supposed to do, apparently!</p>
@@ -59,7 +59,7 @@
 <p class="vriska">VRISKA: ........</p>
 <p class="tavros">TAVROS (smiling): tO PLAY A GAME, }:),</p>
 
-![Vriska, shoulders hunched, mouth agape in shock and anger. Her eyebrow twitches.](./images/2/characters/vriska/vriska_jawdrop.webp)
+![Vriska, shoulders hunched, mouth agape in shock and anger. Her eyebrow twitches.](./assets/characters/vriska_teen/jawdrop.webp)
 <p class="vriska">VRISKA (jaw drop): THAT'S what you want to do? Actually?</p>
 <p class="tavros">TAVROS (smiling): iT'S WHAT I ALWAYS WANT TO DO,</p>
 <p class="tavros">TAVROS (smiling): i CAN GO, sET EVERYTHING UP,</p>
@@ -74,10 +74,10 @@
 <p class="vriska">VRISKA: I'm already here, might as well knock another option off the list I GUESS.</p>
 
 ### {Play game.}
-![Tavros, in his green Pupa Pan costume.](./images/2/characters/tavros/tavros_pupa_neutralsmile.webp)
+![Tavros, in his green Pupa Pan costume.](./assets/characters/tavros/pupa/neutralsmile.webp)
 <p class="tavros">TAVROS (pupa smiling): yAY!</p>
 
-![Vriska, shoulders hunched and glowering](images/2/characters/vriska/vriska_scared.webp)
+![Vriska, shoulders hunched and glowering](assets/characters/vriska_teen/scared.webp)
 <p class="vriska">VRISKA (scared): I won........</p>
 
 <p class="tavros">TAVROS: tHAT,</p>
@@ -106,27 +106,27 @@
 <p class="tavros">TAVROS: iF WE PLAY, aND I COULD LOSE IN A NEW, dIFFERENT WAY,</p>
 <p class="tavros">TAVROS: tHAT IS ALSO PRETTY EXCITING, sTILL,</p>
 
-![Tavros, in his Pupa Pan costume, smiling with his eyes closed, and shimmying his shoulders.](./images/2/characters/tavros/tavros_pupa_eyesclosedsmile.webp)
+![Tavros, in his Pupa Pan costume, smiling with his eyes closed, and shimmying his shoulders.](./assets/characters/tavros/pupa/eyesclosedsmile.webp)
 <p class="tavros">TAVROS (pupa smiling eyesclosed): lIKE AN ADVENTURE, };),</p>
 <p class="vriska">VRISKA: Damn.</p>
 <p class="vriska">VRISKA: That is quite possi8ly the gayest thing I have ever heard someone say, Nitram.</p>
 
-![Pupa Pan Tavros, sweating nervously](./images/2/characters/tavros/tavros_pupa_nervous.webp)
+![Pupa Pan Tavros, sweating nervously](./assets/characters/tavros/pupa/nervous.webp)
 <p class="tavros">TAVROS: wHAT DOES THAT, uHH, eVEN MEAN,</p>
 <p class="vriska">VRISKA: I don't know! It's a human word Dave would repeat all the time 8efore I started using it against him.</p>
 
-![Vriska smiling](./images/1/characters/vriska/vriska_smiling.webp)
+![Vriska smiling](./assets/characters/vriska_teen/smiling.webp)
 <p class="vriska">VRISKA (smiling): They tried expl8ning the context a few times, but honestly none of it made any sense. It was just only a 8unch of made up crap from a dead alien culture.</p>
 <p class="tavros">TAVROS: dAVE, wHAT?</p>
 <p class="vriska">VRISKA: Who cares, essentially it's just what you call people after they say something incredi8ly inane and need to shut up.</p>
 <p class="tavros">TAVROS: oKAY,</p>
 <p class="tavros">TAVROS (pupa smiling): wELL THEN, vRISKA, i THINK YOU, aRE gAY TOO,</p>
 
-![Vriska, hunched over and screaming with rage](images/1/characters/vriska/vriska_angry.webp)
+![Vriska, hunched over and screaming with rage](assets/characters/vriska_teen/angry.webp)
 <p class="vriska">VRISKA: Tavros, you can't just call me gay when I haven't said anything stupid, that's not how this works!</p>
 
 
-![Pupa Tavros, smirking and waggling his eyebrows](images/2/characters/tavros/tavros_pupa_smirk.webp)
+![Pupa Tavros, smirking and waggling his eyebrows](assets/characters/tavros/pupa/smirk.webp)
 <p class="tavros">TAVROS (smirk): yOU AND I, aRE BOTH STUPID GAY,</p>
 <p class="tavros">TAVROS (smirk): nOW BASED OFF THE RULES OF GAY, wE HAVE TO SHUT UP AND GAME,</p>
 <p class="vriska">VRISKA (angry): I'm not gay, stop saying I'm gaaaaaaaay!!!!!!!!</p>
@@ -165,7 +165,7 @@
 
 <p class="vriska">VRISKA (jaw drop): W-Wh8?</p>
 
-![Vriska, holding her head back and screaming](./images/2/characters/vriska/vriska_breakingpoint.webp)
+![Vriska, holding her head back and screaming](./assets/characters/vriska_teen/breakingpoint.webp)
 <p class="vriska">VRISKA (breaking point): WH8T?????????</p>
 <p class="vriska">VRISKA (jaw drop): AAAAAAAAAH!</p>
 <p class="vriska">VRISKA (jaw drop): God, it's coming back to me so clearly why ex8ctly I h8ed you so much.</p>
@@ -184,7 +184,7 @@
 <p class="tavros">TAVROS: iT IS, aS IF, yOU ARE CONFUSING ME, wITH THE, uHH, fEELINGS OF SOMEBODY ELSE,</p>
 <p class="tavros">TAVROS: oR,</p>
 
-![Pupa tavros, pointing with faux-surprise](./images/2/characters/tavros/tavros_pupa_surprise.webp)
+![Pupa tavros, pointing with faux-surprise](./assets/characters/tavros/pupa/surprise.webp)
 <p class="tavros">TAVROS (pupa surprise): !</p>
 <p class="vriska">VRISKA: Shut up.</p>
 <p class="tavros">TAVROS (smirk): aRE YOU, tHE SOMEBODY ELSE, vRISKA,</p>
@@ -252,15 +252,15 @@
 
 <p class="vriska">VRISKA: It's soooooooo o8vious now, that was pretty fucking stupid of me. There was nothing I could have done to change your mind, huh?</p>
 
-![Aradiabot, leaning forward, her eyes glowing menacingly.](./images/2/characters/aradia/aradiabot_ominous.webp)
+![Aradiabot, leaning forward, her eyes glowing menacingly.](./assets/characters/aradia/ominous.webp)
 <p class="aradiabot">ARADIABOT (shadowed): exactly</p>
 <p class="aradiabot">ARADIABOT (shadowed): y0ure finally starting t0 get it</p>
 
 ### {==>}
 
-![Background: The Land of Maps of Treasure, Vriska's planet from her Sburb session.](images/2/images/lomat.webp)
+![Background: The Land of Maps of Treasure, Vriska's planet from her Sburb session.](assets/images/2/lomat.webp)
 
-![Vriska, shoulders hunched, mouth agape in shock and anger. Her eyebrow twitches.](./images/2/characters/vriska/vriska_jawdrop.webp)
+![Vriska, shoulders hunched, mouth agape in shock and anger. Her eyebrow twitches.](./assets/characters/vriska_teen/jawdrop.webp)
 <p class="vriska">VRISKA (jaw drop): !!!!!!!!</p>
 <p class="vriska">VRISKA: Where the hell am I?</p>
 <p class="vriska">VRISKA: Tavros????????</p>
@@ -268,7 +268,7 @@
 
 <p class="vriska">VRISKA: ... LOMAT.</p>
 
-![Aradiabot, in a neutral pose, speaking](./images/2/characters/aradia/aradiabot_speak.webp)
+![Aradiabot, in a neutral pose, speaking](./assets/characters/aradia/speak.webp)
 <p class="aradiabot">ARADIABOT: im n0t g0ing t0 kill y0u</p>
 <p class="aradiabot">ARADIABOT: in case y0u were w0ndering</p>
 <p class="vriska">VRISKA: Yeah, that was going to 8e my next question.</p>
@@ -317,7 +317,7 @@
 
 <p class="vriska">VRISKA (smug): 8h8h8h8h8h8h8h8h, you... you 8lue 8looded trash c8n!</p>
 
-![Vriska, grinning maniacally and holding her head.](./images/2/characters/vriska/vriska_mindcontrol.webp)
+![Vriska, grinning maniacally and holding her head.](./assets/characters/vriska_teen/mindcontrol.webp)
 <p class="vriska">VRISKA (mind control): Who cares what you think then! None of this is real anyw8ys.</p>
 
 <p class="vriska">VRISKA (mind control): And that means the usual rules don't 8pply right? Who needs to sit around arguing when I can M8KE YOU C8RE!</p>
@@ -350,7 +350,7 @@
 <p class="aradiabot">ARADIABOT: y0ure n0t here t0 be redeemed vriska y0ure here t0 gr0w up</p>
 <p class="vriska">VRISKA (breaking point): ........ WH8T THE H8LL DOES TH8T MEAN?</p>
 
-![Aradiabo facepalming](./images/2/characters/aradia/aradiabot_facepalm.webp)
+![Aradiabo facepalming](./assets/characters/aradia/facepalm.webp)
 <p class="aradiabot">ARADIABOT (palm face): y0u are very g00d at saying s0rry</p>
 <p class="aradiabot">ARADIABOT (palm face): pr0bably because y0ure c0nstantly creating situati0ns y0u have t0 say s0rry f0r</p>
 <p class="aradiabot">ARADIABOT (palm face): why is that</p>
@@ -418,13 +418,13 @@
 <p class="vriska">VRISKA (sad): ........ ok.</p>
 <p class="vriska">VRISKA: Ok.</p>
 
-![Aradiabot stands over Vriska with an arm outstretched.](images/2/images/panel1.webp)
+![Aradiabot stands over Vriska with an arm outstretched.](assets/images/2/panel1.webp)
 
 ### {Vriska: Take Aradia's hand.}
-![The interior of Vriska's quest cocoon. A pillar of light shines from the top and spotlights the quest bed in the center.](images/2/images/questcocoon.webp)
+![The interior of Vriska's quest cocoon. A pillar of light shines from the top and spotlights the quest bed in the center.](assets/images/2/questcocoon.webp)
 
 ### {==>}
-![Vriska lying on her quest bed with a concerned expression. Aradia and Tavros hold her hand and smile.](images/2/images/panel2.webp)
+![Vriska lying on her quest bed with a concerned expression. Aradia and Tavros hold her hand and smile.](assets/images/2/panel2.webp)
 
 <p class="vriska">VRISKA: I know it doesn't change anything, 8ecause it already happened and also you two aren't even real.</p>
 <p class="vriska">VRISKA: 8ut I am actually sorry. For everything.</p>
@@ -432,7 +432,7 @@
 <p class="tavros">TAVROS: yOURE RIGHT, iT'S DEFINITELY POINTLESS TO SAY, bUT, iT IS AN APPRECI8TED GESTURE };)</p>
 
 ### {==>}
-![A closeup of Vriska lying down, her eye shut.](images/2/images/panel3.webp)
+![A closeup of Vriska lying down, her eye shut.](assets/images/2/panel3.webp)
 
 <p class="vriska">VRISKA: And, it's not going to 8e the same again.</p>
 <p class="vriska">VRISKA: I'll stick with it this time. I promise.</p>
@@ -450,4 +450,4 @@
 
 ### {Level Complete!}
 
-![A level-up screen, resembling the Echeladder. Vriska stands beside a tall black candle with a blue flame, and a list of her most recently achieved levels (Hell Tiers?). She has most recently achieved the tier "BOUNDARY RESPECTER". ](images/2/images/level_complete.webp)
+![A level-up screen, resembling the Echeladder. Vriska stands beside a tall black candle with a blue flame, and a list of her most recently achieved levels (Hell Tiers?). She has most recently achieved the tier "BOUNDARY RESPECTER". ](assets/images/2/level_complete.webp)

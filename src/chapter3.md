@@ -1,33 +1,33 @@
 ## Chapter 3
 
-![Chapter select button. Mindfang's journal. A black notebook with a blue Scorpio symbol on the front.](./images/chapterselect/mindfang.webp)
+![Chapter select button. Mindfang's journal. A black notebook with a blue Scorpio symbol on the front.](./assets/images/chapterselect/mindfang.webp)
 
 ### "YEAR 4"
 
-![Vriska's bedroom](./images/vriskaroom.webp)
+![Vriska's bedroom](./assets/images/vriskaroom.webp)
 
-![Nannasprite](./images/3/characters/nannasprite/nannasprite_neutral.webp)
+![Nannasprite](./assets/characters/nannasprite/neutral.webp)
 <p class="nannasprite">NANNASPRITE: Oh there you are!</p>
 <p class="nannasprite">NANNASPRITE: Feeling like you're getting your lucky mojo back again?</p>
 
 
-![Vriska, visibly much older.](./images/3/characters/vriska/vriska_neutral.webp)
+![Vriska, visibly much older.](./assets/characters/vriska_adult/neutral.webp)
 <p class="vriska">VRISKA: Not really. ::::/</p>
 <p class="vriska">VRISKA: 8ut everyone has 8een trying so hard to cheer me up, I thought I'd give it another try.</p>
 <p class="nannasprite">NANNASPRITE: Tell Nanna about it, you know how I love a good bit of girl talk.</p>
 <p class="vriska">VRISKA: I don't want to 8ore you, it's just the same pro8lem as always.</p>
 
-![Adult Vriska, folding her arms and turning away, with a sad expression.](./images/3/characters/vriska/vriska_sad.webp)
+![Adult Vriska, folding her arms and turning away, with a sad expression.](./assets/characters/vriska_adult/sad.webp)
 <p class="vriska">VRISKA (sad): Finally I get my sea legs and figured out what this whole process is a8out, 8reeze through Eridan and John and Kanaya, only to get stuck all over again on HER.</p>
 <p class="nannasprite">NANNASPRITE: Well I am sure there is some common thread, every trial you face is designed to better prepare you for the next.</p>
 <p class="vriska">VRISKA: I'm not so sure........she's different from the rest of them. And no matter how I approach this, I can't figure out what the hell she wants.</p>
 <p class="nannasprite">NANNASPRITE: You'll figure it out sooner than you expect, deary! I have the utmost faith in you.</p>
 <p class="vriska">VRISKA: Thanks Nannasprite! Honestly having you and Nannasprite 2 here has made this whole experience way more 8earable.</p>
 
-![Nannasprite](./images/3/characters/nannasprite/nannasprite_neutral.webp)
+![Nannasprite](./assets/characters/nannasprite/neutral.webp)
 <p class="nannasprite">NANNASPRITE (giggle): You know what they say, flattery will get you all the cookies two lovely aged blue ladies can fit in one oven.</p>
 
-![Adult Vriska, smiling](./images/3/characters/vriska/vriska_smiling.webp)
+![Adult Vriska, smiling](./assets/characters/vriska_adult/smiling.webp)
 <p class="vriska">VRISKA: Hell yeeeeeeees!!!!!!!!</p>
 <p class="vriska">VRISKA: It's funny thinking 8ack on it, John and I actually had a conversation a8out you sweeps ago.</p>
 <p class="vriska">VRISKA (smiling): We kind of 8onded over how, past our cultural differences, we shared this same experience of connecting to our predecessors through their writings.</p>
@@ -52,13 +52,13 @@
 <p class="vriska">VRISKA (angry): I don't know, couldn't you have done anything else? What's so special a8out 8a8ies? I saw one in passing and they're weird as hell! Rose told me they even pee their damn pants!</p>
 <p class="nannasprite">NANNASPRITE (giggle): They sure do! Sometimes, they'll even pee on you too.</p>
 
-![Adult Vriska, mouth agape, eyebrow twitching](./images/3/characters/vriska/vriska_jawdrop.webp)
+![Adult Vriska, mouth agape, eyebrow twitching](./assets/characters/vriska_adult/jawdrop.webp)
 <p class="vriska">VRISKA (jaw drop): They pee ON people!</p>
 <p class="vriska">VRISKA:  What........</p>
 <p class="vriska">VRISKA: That sounds like a nightmare.</p>
 <p class="nannasprite">NANNASPRITE (giggle): It is! One time my son laughed at me as it was happening!</p>
 
-![Adult Vriska, mouth agape, eyebrow twitching](./images/3/characters/vriska/vriska_angry.webp)
+![Adult Vriska, mouth agape, eyebrow twitching](./assets/characters/vriska_adult/angry.webp)
 <p class="vriska">VRISKA (angry): Uuuuuuuugh!!!!!!!!</p>
 <p class="nannasprite">NANNASPRITE: He was right, though. It was funny.</p>
 <p class="vriska">VRISKA: So that was it? There wasn't anything else you wanted in life? You were fine with pee?</p>
@@ -67,13 +67,13 @@
 <p class="nannasprite">NANNASPRITE: For a while I even thought it was my fate!</p>
 
 
-![Adult Vriska, smiling confidently](./images/3/characters/vriska/vriska_angrysmiling.webp)
+![Adult Vriska, smiling confidently](./assets/characters/vriska_adult/angrysmiling.webp)
 <p class="vriska">VRISKA: Yessssssss! That's what I'm fucking talking a8out!</p>
 <p class="nannasprite">NANNASPRITE: Hush up now, none of that! Fantasizing about all that even after my own death and resurrection is absurd!</p>
 <p class="nannasprite">NANNASPRITE: Not to mention that now, after seeing what my younger self has gotten up to in this realm, I clearly underestimated the depth of my own desires.</p>
 <p class="vriska">VRISKA: C'mon, we're not doing this again. You can't keep comparing yourself to her! She's a freak and you're like the least freakish person I've ever met.</p>
 
-![Nannasprite, glasses opaque and concealing her eyes.](./images/3/characters/nannasprite/nannasprite_serious.webp)
+![Nannasprite, glasses opaque and concealing her eyes.](./assets/characters/nannasprite/serious.webp)
 <p class="nannasprite">NANNASPRITE (serious): I'm not trying to get down on myself, deary, it's simply a fact of reality. I'll never know if any of my schemes coming to fruition would have left me satisfied, and now I highly doubt it!</p>
 <p class="nannasprite">NANNASPRITE (serious): The past is always going to be the past.</p>
 <p class="vriska">VRISKA: ...</p>
@@ -90,7 +90,7 @@
 <p class="vriska">VRISKA (angry): Don't p8tronize me, old lady! Destiny's the found8tion of my godhood!</p>
 <p class="nannasprite">NANNASPRITE: True. I am only a simple elderly woman, stand-mixed with the unknowable secrets of the universe and a one-armed clown doll. But from experience, I would still argue that destiny mostly fulfills itself.</p>
 
-![Nannasprite winking and waggling her finger](./images/3/characters/nannasprite/nannasprite_wink.webp)
+![Nannasprite winking and waggling her finger](./assets/characters/nannasprite/wink.webp)
 <p class="nannasprite">NANNASPRITE (wink): There are many more important things you should focus on, such as getting the heck out of here!</p>
 <p class="vriska">VRISKA: Wow, I've 8een pep-talked and I didn't even realize it. You have a point, though... It's not like I have any other plan 8ut to keep trying.</p>
 <p class="vriska">VRISKA (sad): Also, sorry for getting snippy there. <::::(</p>
@@ -106,68 +106,68 @@
 *Fade to white.*
 
 ### \>  {????????}
-![Background: A spider's web](./images/3/images/web.webp)
+![Background: A spider's web](./assets/images/3/web.webp)
 
-![Sillouhette of the Marquise Spinneret Mindfang from the back, grinning with sharp teeth.](./images/3/characters/mindmom/silhouette_blue.webp)
+![Sillouhette of the Marquise Spinneret Mindfang from the back, grinning with sharp teeth.](./assets/characters/mindmom/silhouette_blue.webp)
 
 <p class="mindmom">The girl was thrown into emptiness.</p>
 <p class="mindmom">Despite the darkness, the space wasn't foreign. The way the moons hung in the sky, the sound of the waves as they crashed, the 8reeze, these were all familiar sens8tions.</p>
 <p class="mindmom">As was the figure 8efore her. Though she had only ever seen it 8ehind her eyes, its form was shaped 8y words.</p>
 
-![Adult Vriska, unimpressed](./images/3/characters/vriska/vriska_neutral.webp)
+![Adult Vriska, unimpressed](./assets/characters/vriska_adult/neutral.webp)
 <p class="vriska">VRISKA: You can drop the ominous 8uild up, I already know the twist.</p>
 
-![Mindfang, still in shadow.](./images/3/characters/mindmom/mindfang_neutral.webp)
+![Mindfang, still in shadow.](./assets/characters/mindmom/neutral.webp)
 <p class="mindmom">Oh? Had the thief 8een here 8efore?</p>
 
-![Adult Vriska, arms folded, tipping her head back stoically.](./images/3/characters/vriska/vriska_stoic.webp)
+![Adult Vriska, arms folded, tipping her head back stoically.](./assets/characters/vriska_adult/stoic.webp)
 <p class="vriska">VRISKA (stoic): Yep! In 8rief summary, at least once a week for the last 2 years.</p>
 <p class="vriska">VRISKA: 8roaching every kind of chit chat that goes a8solutely nowhere.</p>
 <p class="vriska">VRISKA: The whole endeavor usually ends with me either killing you or... feeding myself to you.</p>
 
-![Adult Vriska, smiling angrily](./images/3/characters/vriska/vriska_angrysmiling.webp)
+![Adult Vriska, smiling angrily](./assets/characters/vriska_adult/angrysmiling.webp)
 <p class="vriska">VRISKA (angry smiling): And for some reason, you talk like a 8ook. Which is a huge head8che, 8y the way!</p>
 
-![Mindfang from behind, grinning with sharp teeth.](./images/3/characters/mindmom/mindfang_back.webp)
+![Mindfang from behind, grinning with sharp teeth.](./assets/characters/mindmom/back.webp)
 <p class="mindmom">Well she was a 8ook, our esteemed narr8tor. That's how Vriska knew her, at any r8te. And unlike a certain someone, she knew the value of showmanship.</p>
 
 <p class="vriska">VRISKA (angry smiling): Yeah, you really shook me the first time around.</p>
 <p class="vriska">VRISKA (angry smiling): You were all like, “Surprise, 8itch. I'm 8oth the Marquise, and your lusus!” And I fell str8 on my ass, flipping the fuck out like a 8ig tool.</p>
 <p class="vriska">VRISKA (stoic): 8ut FYI, after the last hundred or so reveals, it just comes off as trying waaaaaaaay too hard.</p>
 
-![Mindfang tapping her chin with a thoughtful and annoyed expression.](./images/3/characters/mindmom/mindfang_thinking_annoyed.webp)
+![Mindfang tapping her chin with a thoughtful and annoyed expression.](./assets/characters/mindmom/thinking_annoyed.webp)
 <p class="mindmom">Hmph!</p>
 
 *SFX. A chittering noise.*
 
 *Fade transition.*
 
-![Background: The craggy pit outside Vriska's hive, where her spider lusus lives](./images/3/images/spidermom_pit.webp)
+![Background: The craggy pit outside Vriska's hive, where her spider lusus lives](./assets/images/3/spidermom_pit.webp)
 
-![Vriska, stoic](./images/3/characters/vriska/vriska_stoic.webp)
+![Vriska, stoic](./assets/characters/vriska_adult/stoic.webp)
 <p class="vriska">VRISKA (stoic): Hi Momfang.</p>
 <p class="vriska">VRISKA (stoic): It's 8een a 8it. How are you?</p>
 
-![Mindfang from behind. The back of her head is revealed to be Vriska's spider lusus, roaring ferociously.](./images/3/characters/mindmom/momfang_back.webp)
+![Mindfang from behind. The back of her head is revealed to be Vriska's spider lusus, roaring ferociously.](./assets/characters/mindmom/momfang_back.webp)
 <p class="mindmom">The spider did not pause to find an answer; she already had one.</p>
 <p class="mindmom">“HUNGRY. KILL. EAT. SHIT. DEATH.”</p>
 
 <p class="vriska">VRISKA: So same as usual! Awesome. Glad to hear it.</p>
 <p class="vriska">VRISKA: So what's on the agenda this time? Do NOT say revisiting how I found that old journal, or my first feeding.</p>
 
-![Mindfang thinking, annoyed. Tapping her chin. The spider continues to quiver.](./images/3/characters/mindmom/momfang_thinking_annoyed.webp)
+![Mindfang thinking, annoyed. Tapping her chin. The spider continues to quiver.](./assets/characters/mindmom/momfang_thinking_annoyed.webp)
 <p class="mindmom">(thinking annoyed) Would the spiderling prefer returning to the day she got stuck in this we8 and had to eat her way out?</p>
 
 
-![Vriska, angry](./images/3/characters/vriska/vriska_angry.webp)
+![Vriska, angry](./assets/characters/vriska_adult/angry.webp)
 <p class="vriska">VRISKA (angry): No!!!!!!!! I do NOT want to 8e a kid again, period.</p>
 
-![Mindfang cuddles the spider head.](./images/3/characters/mindmom/holding_spider_head.webp)
+![Mindfang cuddles the spider head.](./assets/characters/mindmom/holding_spider_head.webp)
 <p class="mindmom">What a8out the day her lusus died?</p>
 <p class="vriska">VRISKA (angry): Done that! Sick of it! I always almost drown in 8lood, and it makes the whole canyon smell terri8le.</p>
 <p class="vriska">VRISKA (angry): It's 8ad enough 8eing stuck 8ack in this place. If you go down memory lane again, I'm jumping.</p>
 
-![Mindfang grinning.](./images/3/characters/mindmom/mindfang_neutral.webp)
+![Mindfang grinning.](./assets/characters/mindmom/neutral.webp)
 <p class="mindmom">The girl was 8linded 8y her pup8ed angst. As 8efouled as those we8s were, this gossamer carnage had 8een home, once. Her time here made her who she was.</p>
 
 <p class="vriska">VRISKA (stoic): Is that why we're here, in argua8ly one of my least favorite places to exist?</p>
@@ -186,10 +186,10 @@
 
 <p class="vriska">VRISKA (stoic): So I'm only alive thanks to you? 8ecause you were just that necessary and important?</p>
 
-![Mindfang from behind.](./images/3/characters/mindmom/mindfang_back.webp)
+![Mindfang from behind.](./assets/characters/mindmom/back.webp)
 <p class="mindmom">It was true.</p>
 
-![Mindmom pops out.](./images/3/characters/mindmom/momfang_back.webp)
+![Mindmom pops out.](./assets/characters/mindmom/momfang_back.webp)
 <p class="mindmom">“GRU8.”</p>
 
 <p class="vriska">VRISKA (angry smiling): 8ZZZZZZZZT WRONG! I'm not falling for that hoofshit again.</p>
@@ -198,7 +198,7 @@
 <p class="vriska">VRISKA (angry): Even growing up in a f8ke world where no one has a spine, and with 8arely any guidance, her powers can do things mine can't.</p>
 <p class="vriska">VRISKA (angry smiling): So what silver lining is left, honestly?</p>
 
-![Mindfang, looking down, silent.](./images/3/characters/mindmom/mindfang_silent.webp)
+![Mindfang, looking down, silent.](./assets/characters/mindmom/silent.webp)
 <p class="mindmom">........</p>
 
 <p class="vriska">VRISKA (angry smiling): 8ut that's the point, right?</p>
@@ -207,10 +207,10 @@
 <p class="vriska">VRISKA: I protected you, I c8red for you, and you would have happily killed me the moment things didn't go your w8y.</p>
 <p class="mindmom">And?</p>
 
-![Vriska, Jaw drop](./images/3/characters/vriska/vriska_jawdrop.webp)
+![Vriska, Jaw drop](./assets/characters/vriska_adult/jawdrop.webp)
 <p class="vriska">VRISKA (jaw drop): Th8t's not fucking norm8l!!!!!!!</p>
 
-![Mindmom, now cradling Mindfang's decapitated head. The spider's mandibles drip blue blood.](./images/3/characters/mindmom/holding_mindfangs_head.webp)
+![Mindmom, now cradling Mindfang's decapitated head. The spider's mandibles drip blue blood.](./assets/characters/mindmom/holding_mindfangs_head.webp)
 <p class="mindmom">It was for a spider.</p>
 
 <p class="vriska">VRISKA (sad): God, you're insuffera8le!!!!!!!!</p>
@@ -218,11 +218,11 @@
 <p class="vriska">VRISKA (angry): Why did you h8ve to 8e everything wrong with the w8rld, rolled into one terri8le monster?</p>
 <p class="mindmom">The spider has no answer to that. She has never once thought of her own n8ture. She has only ever lived and devoured.</p>
 
-![Momfang, thinking, annoyed.](./images/3/characters/mindmom/momfang_back.webp)
+![Momfang, thinking, annoyed.](./assets/characters/mindmom/momfang_back.webp)
 <p class="mindmom">"HUNGRY. KILL. FUCK. EAT. FEED."</p>
 <p class="vriska">VRISKA (angry): I KN8W YOU'RE HUNGRY! What a8out me? My entire gru8hood, I gave and you took. F8r once, what a8out what I w8nt?!</p>
 
-![Momfang, thinking, annoyed.](./images/3/characters/mindmom/momfang_thinking_annoyed.webp)
+![Momfang, thinking, annoyed.](./assets/characters/mindmom/momfang_thinking_annoyed.webp)
 <p class="mindmom">She has never considered this.</p>
 <p class="mindmom">And wasn't considering it now, to 8e clear.</p>
 <p class="mindmom">8ut the narr8tor was curious, what DID the spiderling want from the monster?</p>
@@ -232,7 +232,7 @@
 <p class="vriska">VRISKA: Oh my god.</p>
 <p class="vriska">VRISKA (angry): Tavros was right!!!!!!!!</p>
 
-![Momfang](./images/3/characters/mindmom/momfang_back.webp)
+![Momfang](./assets/characters/mindmom/momfang_back.webp)
 <p class="mindmom">"FOOD?"</p>
 <p class="vriska">VRISKA (angry): Sh8t the f8ck up!!!!!!!!</p>
 <p class="vriska">VRISKA (angry): Now I get why talking to all my friends finally led up to you.</p>
@@ -262,7 +262,7 @@
 <p class="vriska">VRISKA (jaw drop): ........</p>
 <p class="vriska">VRISKA (sad): I wish it had 8een different.</p>
 
-![Mindfang cuddles the spider head.](./images/3/characters/mindmom/holding_spider_head.webp)
+![Mindfang cuddles the spider head.](./assets/characters/mindmom/holding_spider_head.webp)
 <p class="mindmom">Impossi8le.</p>
 <p class="vriska">VRISKA (sad): I wish I was 8orn some8ody else.</p>
 <p class="mindmom">Another dead end.</p>
@@ -271,20 +271,20 @@
 
 <p class="box">What will you do?</p>
 
-![Adult Vriska, sad](./images/3/characters/vriska/vriska_sad.webp)
+![Adult Vriska, sad](./assets/characters/vriska_adult/sad.webp)
 <p class="vriska">VRISKA: ........</p>
 <p class="mindmom">“HUNGRY.”</p>
 <p class="vriska">VRISKA: Huh.</p>
 <p class="mindmom">“KILL.”</p>
 <p class="vriska">VRISKA: You know, every week I come in here trying to figure out what more you could possi8ly want from me, and every week it's the same shit.</p>
 
-![Adult Vriska, smiling](./images/3/characters/vriska/vriska_smiling.webp)
+![Adult Vriska, smiling](./assets/characters/vriska_adult/smiling.webp)
 <p class="vriska">VRISKA (smiling): I really am suuuuuuuuch a moron.</p>
 <p class="mindmom">“FEED.”</p>
 <p class="vriska">VRISKA (smiling): Exactly. It was never any deeper than that, the answer was right in front of my face.</p>
 <p class="vriska">VRISKA: Well. I'm not your free meal ticket anymore.</p>
 
-![Mindfang cuddles the spider head.](./images/3/characters/mindmom/holding_spider_head.webp)
+![Mindfang cuddles the spider head.](./assets/characters/mindmom/holding_spider_head.webp)
 <p class="mindmom">M8ricide, then?</p>
 <p class="vriska">VRISKA: Nah.</p>
 <p class="vriska">VRISKA: I never really wanted that either.</p>
@@ -294,11 +294,11 @@
 <p class="vriska">VRISKA (smiling): For once in my life, I have options.</p>
 <p class="mindmom">And just what did the ungrateful little upstart mean 8y that?</p>
 
-![Vriska beaming proudly, hands on her hips](./images/3/characters/vriska/vriska_proud.webp)
+![Vriska beaming proudly, hands on her hips](./assets/characters/vriska_adult/proud.webp)
 <p class="vriska">VRISKA (proud): I'm glad you asked!</p>
 <p class="vriska">VRISKA (proud): It means I finally get to walk away from all this. And I'm not going to look 8ack.</p>
 
-![Mindmom cradling Mindfang's head.](./images/3/characters/mindmom/holding_mindfangs_head.webp)
+![Mindmom cradling Mindfang's head.](./assets/characters/mindmom/holding_mindfangs_head.webp)
 <p class="mindmom">The spider forgot her hunger, for a moment at least, as the reality of such a statement sunk in.</p>
 <p class="mindmom">She was only a spider. She did not fear death, or feel regret, or hold any sadness.</p>
 <p class="mindmom">She never once loved the girl. She did not feel responsi8le.</p>
@@ -313,7 +313,7 @@
 
 *Pause. SFX: A reverberating crunch.*
 
-![Mindfang, in sillhouette.](./images/3/characters/mindmom/silhouette.webp)
+![Mindfang, in sillhouette.](./assets/characters/mindmom/silhouette.webp)
 <p class="mindmom">The spider would not notice when the girl turned to leave.</p>
 <p class="mindmom">And the girl would not turn around to see if she had.</p>
 <p class="mindmom">The 8ound cover was closed on our trusted narr8tor, as she whispered these final words.</p>
@@ -325,4 +325,4 @@
 
 * Fade to white.*
 
-![Level-up screen. Vriska attains the rank of "Funeral Pyre".](./images/3/images/level_complete.webp)
+![Level-up screen. Vriska attains the rank of "Funeral Pyre".](./assets/images/3/level_complete.webp)

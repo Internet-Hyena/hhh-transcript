@@ -13,8 +13,7 @@ module.exports = function(eleventyConfig) {
   md.use(require("markdown-it-table-of-contents"), { includeLevel: [2] });
   eleventyConfig.setLibrary("md", md);
 
-  eleventyConfig.addPassthroughCopy("src/static/");
-  eleventyConfig.addPassthroughCopy("src/images/");
+  eleventyConfig.addPassthroughCopy("src/assets/");
   // Return your Object options:
   return {
     dir: {

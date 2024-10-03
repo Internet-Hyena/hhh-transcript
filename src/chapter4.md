@@ -1,16 +1,16 @@
 ## Chapter 4
 
-![Chapter select button. A white cueball. The head of Doc Scratch.](./images/chapterselect/cueball.webp)
+![Chapter select button. A white cueball. The head of Doc Scratch.](./assets/images/chapterselect/cueball.webp)
 
-![Vriska's bedroom](./images/vriskaroom.webp)
+![Vriska's bedroom](./assets/images/vriskaroom.webp)
 
 <p class="vriska">VRISKA: Whew.</p>
 <p class="vriska">VRISKA: Long day.</p>
 
-![GCat Tavros Sprite smiling mischievously](./images/4/characters/gcatav/gcatav_mischievous.webp)
+![GCat Tavros Sprite smiling mischievously](./assets/characters/gcatav/mischievous.webp)
 <p class="gcatav">GCATAVROSPRITE: mAYBE, yOU SHOULD TAKE A BREAK, fROM ALL THE TOTALLY AWESOME PERSONAL BREAKTHROUGHS YOU ARE HAVING,</p>
 
-![Erisolsprite with a neutral expression](./images/4/characters/erisolsprite/erisolsprite_neutral.webp)
+![Erisolsprite with a neutral expression](./assets/characters/erisolsprite/neutral.webp)
 <p class="gcatav">GCATAVROSPRITE: aND KICK IT WITH ME AND ERISOL FOR A WHILE,</p>
 <p class="erisolsprite">ERISOLSPRITE: yeah, you kiinda look liike 2hiit.</p>
 <p class="vriska">VRISKA: Says Scarfshades McLopsided.</p>
@@ -73,9 +73,9 @@
 
 *Fade to white*
 
-![Background: The parlor of Doc Scratch.](./images/4/images/scratchsparlor.webp)
+![Background: The parlor of Doc Scratch.](./assets/images/4/scratchsparlor.webp)
 
-![Doc Scratch. A being in a white suit with a green bowtie, with an enormous white cueball for a head. His body crackles with the energy of the Green Sun.](./images/4/characters/docscratch/scratch.webp)
+![Doc Scratch. A being in a white suit with a green bowtie, with an enormous white cueball for a head. His body crackles with the energy of the Green Sun.](./assets/characters/docscratch/scratch.webp)
 
 *Doc Scratch's text appears letter by letter, accompanied with a typewriter noise.*
 
@@ -129,7 +129,7 @@
 
 *Fade to black.*
 
-![Background: A chessboard with various troll-themed pieces. A tiny Vriska stands in the center, with a huge Doc Scratch looming over her with his hands steepled.](./images/4/images/chessboard.webp)
+![Background: A chessboard with various troll-themed pieces. A tiny Vriska stands in the center, with a huge Doc Scratch looming over her with his hands steepled.](./assets/images/4/chessboard.webp)
 
 <p class="vriska">VRISKA: Hey, what the fuck?!</p>
 
@@ -140,20 +140,20 @@
 
 <p class="box">WHAT WILL YOU DO</p>
 
-![The textbox glitches out.](./images/4/images/glitch_box.webp)
+![The textbox glitches out.](./assets/images/4/glitch_box.webp)
 
 *SFX: Glitch.*
 
 <p class="doc_scratch_center">Oh no. We won't be needing that.</p>
 <p class="doc_scratch_center">Let's get you into your uniform.</p>
 
-![The chessboard background from before, but with Vriska removed.](./images/4/images/chessboard_vrisgone.webp)
-![Vriska, now visibly smaller and younger, with her robotic spider eyepatch, hunched over and gripping her shoulders.](./images/4/characters/vriska/vriska_disgusted.webp)
+![The chessboard background from before, but with Vriska removed.](./assets/images/4/chessboard_vrisgone.webp)
+![Vriska, now visibly smaller and younger, with her robotic spider eyepatch, hunched over and gripping her shoulders.](./assets/characters/vriska_kid/disgusted.webp)
 <p class="vriska">VRISKA: ........</p>
 
 <p class="doc_scratch_center">Ah, and there she is. My favorite piece.</p>
 
-![Young Vriska grimaces and clutches her head.](./images/4/characters/vriska/vriska_frustrated.webp)
+![Young Vriska grimaces and clutches her head.](./assets/characters/vriska_kid/frustrated.webp)
 <p class="vriska">VRISKA: I'm not your piece!</p>
 
 <p class="doc_scratch_center">We'll start with a variation of the King's Pawn opening.</p>
@@ -161,14 +161,14 @@
 
 *Vriska jerks to the left. SFX: A bloody impact noise. The screen flashes umber brown.*
 
-![Young Vriska, terrified, splattered with blue and mustard-brown blood, hers and Tavros's.](./images/4/characters/vriska/vriska_exploded_blood1.webp)
+![Young Vriska, terrified, splattered with blue and mustard-brown blood, hers and Tavros's.](./assets/characters/vriska_kid/exploded_blood1.webp)
 <p class="vriska">VRISKA: Fuck you!</p>
 
 <p class="doc_scratch_center">Thief to F5; Thief takes Maid.</p>
 
 *Vriska jerks to the right. SFX: A bloody impact noise. The screen flashes burgandy.*
 
-![Vriska splattered with rust-red blood, Aradia's](./images/4/characters/vriska/vriska_exploded_blood2.webp)
+![Vriska splattered with rust-red blood, Aradia's](./assets/characters/vriska_kid/exploded_blood2.webp)
 
 <p class="vriska">VRISKA: Stop it!</p>
 
@@ -176,7 +176,7 @@
 
 *Vriska jerks to the left. SFX: A bloody impact noise. The screen flashes teal.*
 
-![Vriska splattered with teal blood, Terezi's](./images/4/characters/vriska/vriska_exploded_blood3.webp)
+![Vriska splattered with teal blood, Terezi's](./assets/characters/vriska_kid/exploded_blood3.webp)
 
 
 <p class="vriska">VRISKA: Fucking ST8P 8T!!!!!!!!</p>
@@ -187,7 +187,7 @@
 
 *Vriska jerks to the right. SFX: A bloody impact noise, slightly slower. The screen flashes purple.*
 
-![Vriska splattered with purple blood, Eridan's](./images/4/characters/vriska/vriska_exploded_blood4.webp)
+![Vriska splattered with purple blood, Eridan's](./assets/characters/vriska_kid/exploded_blood4.webp)
 
 <p class="vriska">VRISKA: ST8P IT!</p>
 
@@ -195,7 +195,7 @@
 
 *Vriska jerks to the left. SFX: A bloody impact noise, slightly slower. The screen flashes purple.*
 
-![Vriska splattered with blue blood, Equius's](./images/4/characters/vriska/vriska_exploded_blood5.webp)
+![Vriska splattered with blue blood, Equius's](./assets/characters/vriska_kid/exploded_blood5.webp)
 
 <p class="vriska">VRISKA: F8CK YOU!</p>
 
@@ -203,14 +203,14 @@
 
 *Vriska jerks to the right. SFX: A bloody impact noise, much slower. The screen flashes green.*
 
-![Vriska splattered with jade blood, Kanaya's](./images/4/characters/vriska/vriska_exploded_blood6.webp)
+![Vriska splattered with jade blood, Kanaya's](./assets/characters/vriska_kid/exploded_blood6.webp)
 
 <p class="vriska">VRISKA: I'LL F8CKING K8LL YOU!</p>
 <p class="doc_scratch_center">Thief to Ω413; Thief takes pawn. Check.</p>
 
 *Vriska jerks to the left. SFX: A bloody impact noise, much slower. The screen flashes red.*
 
-![Vriska splattered with bright red blood, Karkat's](./images/4/characters/vriska/vriska_exploded_blood7.webp)
+![Vriska splattered with bright red blood, Karkat's](./assets/characters/vriska_kid/exploded_blood7.webp)
 
 <p class="vriska">VRISKA: YOU'LL 8E SORRY FOR THIS!</p>
 <p class="vriska">VRISKA: YOU'LL 8E F8CKING SORRY!</p>
@@ -231,10 +231,10 @@
 <p class="doc_scratch_center">You're one bad turn from burning all your quaint little progress to the ground.</p>
 <p class="doc_scratch_center">One lapse away from being mine again.</p>
 
-![Vriska, covered in blood, gripping her elbow and looking down sullenly, eyes shadowed.](./images/4/characters/vriska/vriska_sullen.webp)
+![Vriska, covered in blood, gripping her elbow and looking down sullenly, eyes shadowed.](./assets/characters/vriska_kid/sullen.webp)
 <p class="vriska">VRISKA: Get me out of here.</p>
 
-![Vriska looking down sullenly. The filename describes her as "sullen crying" but the sprite is visually identical to the previous.](./images/4/characters/vriska/vriska_sullen_crying.webp)
+![Vriska looking down sullenly. The filename describes her as "sullen crying" but the sprite is visually identical to the previous.](./assets/characters/vriska_kid/sullen_crying.webp)
 <p class="vriska">VRISKA (sullen crying): I want a do-over.</p>
 
 <p class="doc_scratch_center">Oh, please.</p>
@@ -256,13 +256,13 @@
 <p class="doc_scratch_center">With her demanding legacy and her uncooperative, fickle little friends.</p>
 <p class="doc_scratch_center">So much was out of your hands, then; how could you help but be my lovely assistant?</p>
 
-![Vriska, sullen. Her eyes visible, in a defiant glare.](./images/4/characters/vriska/vriska_sullen_crying_eye.webp)
+![Vriska, sullen. Her eyes visible, in a defiant glare.](./assets/characters/vriska_kid/sullen_crying_eye.webp)
 
 <p class="vriska">VRISKA: You didn't fucking own me.</p>
 
 *The background flickers and glitches.*
 
-![The text "EXACTLY". It flashes and crackles.](./images/4/images/Exactly.webp)
+![The text "EXACTLY". It flashes and crackles.](./assets/images/4/Exactly.webp)
 
 <p class="doc_scratch_center">But what matters is that I might as well have.</p>
 <p class="doc_scratch_center">You let yourself believe you had no option other than to take me up on my hard bargains, again and again.</p>
@@ -291,14 +291,14 @@
 <p class="doc_scratch_center biggest">I look forward to finding out.</p>
 <p class="doc_scratch_center biggest">Good luck.</p>
 
-![Background: Vriska's bedroom.](./images/vriskaroom.webp)
+![Background: Vriska's bedroom.](./assets/images/vriskaroom.webp)
 
-![Vriska, an adult again, looking sad.](./images/3/characters/vriska/vriska_sad.webp)
+![Vriska, an adult again, looking sad.](./assets/characters/vriska_adult/sad.webp)
 
-![Erisolsprite, smirking](./images/4/characters/erisolsprite/erisolsprite_smirk.webp)
+![Erisolsprite, smirking](./assets/characters/erisolsprite/smirk.webp)
 
 <p class="erisolsprite">ERISOLSPRITE: oh you totally got traumatiized.</p>
 
 ### {Level Complete!}
 
-![Level-up screen. The candle is half-melted. The background and tier list is splattered with rainbow blood. Vriska has achieved the rank PAVLOV'S DAWGG.](./images/4/images/level_complete.webp)
+![Level-up screen. The candle is half-melted. The background and tier list is splattered with rainbow blood. Vriska has achieved the rank PAVLOV'S DAWGG.](./assets/images/4/level_complete.webp)

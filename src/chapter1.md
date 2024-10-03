@@ -1,12 +1,12 @@
 ## Prologue / Chapter 1
 
-![Chapter select button. A green hourglass with blue sand.](./images/chapterselect/hourglass.webp)
+![Chapter select button. A green hourglass with blue sand.](./assets/images/chapterselect/hourglass.webp)
 
-![The grassy cliff outside Tavros's hive.](images/tavroscliff.webp)
+![The grassy cliff outside Tavros's hive.](assets/images/tavroscliff.webp)
 
 You are now Vriska, and like any good Main Character, you find yourself on the precipice of an all too familiar cliff.
 
-![Vriska in her godtier robes](images/1/characters/vriska/gt/vriska_gt_neutral.webp)
+![Vriska in her godtier robes](assets/characters/vriska_teen/gt/neutral.webp)
 
 <p class="vriska">VRISKA: Wow, hell was right.</p>
 
@@ -18,31 +18,31 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 <p class="vriska">VRISKA: Davepeta, is that you?</p>
 
-![Vriska thinking](images/1/characters/vriska/gt/vriska_gt_thinking.webp)
+![Vriska thinking](assets/characters/vriska_teen/gt/thinking.webp)
 
 <p class="vriska">VRISKA (thinking): ...</p>
 
-![Vriska smirking and shrugging](images/1/characters/vriska/gt/vriska_gt_smug.webp)
+![Vriska smirking and shrugging](assets/characters/vriska_teen/gt/smug.webp)
 
 <p class="vriska">VRISKA (smug): Wow once again it falls to me to figure all this shit out in any sort of meaningful way.</p>
 
 <p class="vriska">VRISKA (idle): ...</p>
 
-![Vriska hunched over in rage](images/1/characters/vriska/gt/vriska_gt_angry.webp)
+![Vriska hunched over in rage](assets/characters/vriska_teen/gt/angry.webp)
 
 <p class="vriska">VRISKA (angry): And why the fuck is Tavros here!!!!!!!!</p>
 
-![Tavros](images/1/characters/tavros/tavros_neutral.webp)
+![Tavros](assets/characters/tavros/neutral.webp)
 
 <p class="tavros">TAVROS: i PROBABLY DON'T, uHH, WANT TO QUESTION, yOUR METHODS</p>
 
-![Tavros](images/1/characters/tavros/tavros_nervous.webp)
+![Tavros](assets/characters/tavros/nervous.webp)
 
 <p class="tavros">TAVROS (nervous): aND MAYBE, iF THERE WERE A BRAVER VERSION, oF ME, hERE, HE MIGHT SAY, tHAT UM, iT'S BECAUSE USUALLY, tHAT MAKES YOU MAD</p>
 
 <p class="tavros">TAVROS: bUT SINCE THERE ISN'T, a VERSION OF ME LIKE THAT HERE, i GUESS IT'S BECAUSE I, uHH</p>
 
-![Tavros smiling](images/1/characters/tavros/tavros_smiling.webp)
+![Tavros smiling](assets/characters/tavros/smiling.webp)
 
 <p class="tavros">TAVROS (smiling): lIVE HERE MOSTLY,</p>
 <p class="vriska">VRISKA: Shut the fuck up Tavros!</p>
@@ -112,7 +112,7 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 <p class="vriska">VRISKA: Hey Tavros, I'm sorry I made you an accomplice to a really awesome assassination that I got my ass kicked for, 8ut then I 8ecame a god so 8asically it was the right thing to do.</p>
 
-![Tavros smiling with his eyes closed, and shimmying his shoulders.](images/1/characters/tavros/tavros_smiling_eyesclosed.webp)
+![Tavros smiling with his eyes closed, and shimmying his shoulders.](assets/characters/tavros/smiling_eyesclosed.webp)
 
 <p class="tavros">TAVROS (smiling eyesclosed): ...</p>
 
@@ -129,7 +129,7 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 ### {Hours later, but not many.}
 
-![Vriska, pouting](images/1/characters/vriska/gt/vriska_gt_sad.webp)
+![Vriska, pouting](assets/characters/vriska_teen/gt/sad.webp)
 
 <p class="vriska">VRISKA (sad): ...I'm sorry I said your lusus "smelled like tears".</p>
 
@@ -277,29 +277,29 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 ### {Thief: Do the right thing.}
 
-![Vriska holds her head and engages mind control. Her symbol alternates with Tavros's on her forehead.](images/1/images/panel1.webp)
+![Vriska holds her head and engages mind control. Her symbol alternates with Tavros's on her forehead.](assets/images/1/panel1.webp)
 
 ### {It's really for the 8est.}
-![Tavros stands stunned, arms outstretched, as Vriska's symbol flashes on his forehead.](images/1/images/panel2.webp)
-![Close-up of Tavros's hand, grasping the Cigarette Holder Lance](images/1/images/panel3.webp)
+![Tavros stands stunned, arms outstretched, as Vriska's symbol flashes on his forehead.](assets/images/1/panel2.webp)
+![Close-up of Tavros's hand, grasping the Cigarette Holder Lance](assets/images/1/panel3.webp)
 
 <p class="vriska">VRISKA: Good luck.</p>
 
 ### {Adios, Toreador.}
 
-![Tavros arches his arms back...](images/1/images/panel4.webp)
+![Tavros arches his arms back...](assets/images/1/panel4.webp)
 
 ### {==>}
 
-![And impales Vriska using the lance.](images/1/images/panel5.webp)
+![And impales Vriska using the lance.](assets/images/1/panel5.webp)
 ### {==>}
-![Vriska dead on the ground, blue blood splattered behind her. She is captioned "DEAD."](images/1/images/panel6.webp)
+![Vriska dead on the ground, blue blood splattered behind her. She is captioned "DEAD."](assets/images/1/panel6.webp)
 
 <p class="tavros">TAVROS: uHH, oH SHUCKS, bYE VRISKA,</p>
 
 ### {==>}
 
-![Vriska, back at the beach outside her hive.](images/1/images/end.webp)
+![Vriska, back at the beach outside her hive.](assets/images/1/end.webp)
 
 > "You are now Vriska, and like any good Main Character, you find yourself on the precipice of an all too familiar Beach.
 > 
@@ -308,15 +308,15 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 <div class="box big">YEAR 2</div>
 
-![Vriska's bedroom in her hive.](images/vriskaroom.webp)
+![Vriska's bedroom in her hive.](assets/images/vriskaroom.webp)
 
-![Davepetasprite hunched over, with their claws extended.](images/1/characters/davepetasprite/davepeta_roleplay.webp)
+![Davepetasprite hunched over, with their claws extended.](assets/characters/davepetasprite/roleplay.webp)
 
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> *dp pads through the underbrush of the forest, leaving paw prints after themselves in the freshly fallen snow*</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> *their ears twitch cutely with every step they take beclaws as perfect a creature as they are cats are still too fucking stupid to invent proper p33ts protectors*</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> *they will probably need to get these silly little beans amputated after walking through all this white shit but whatever its fine, at the end of this tail is an important furiend*</p>
 
-![Vriska, now wearing a tank top version of her shirt, and with her hair pulled back.](images/1/characters/vriska/vriska_idle.webp)
+![Vriska, now wearing a tank top version of her shirt, and with her hair pulled back.](assets/characters/vriska_teen/idle.webp)
 <p class="vriska">VRISKA: ...</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> every year farmers and freaks alike crowd around this curious critter wringing their sweaty boring human hands all nervously hoping for winters end</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> but this overhyped moles shadow offurs a symbolic appouncement for the spider instead</p>
@@ -324,20 +324,20 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> the breaking of cycles, dissolution of the self, whatever other philosophical rhetoric bill murray said in that one meowvie</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> its all up to you, spider, to grab this guy by the furry haunches bend him over and nonsexually spank him into submewssion</p>
 
-![Davepeta, standing](images/1/characters/davepetasprite/davepeta_neutral.webp)
+![Davepeta, standing](assets/characters/davepetasprite/neutral.webp)
 
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> what will you do vriska?</p>
 
-![Vriska, hunched over with rage.](images/1/characters/vriska/vriska_angry.webp)
+![Vriska, hunched over with rage.](assets/characters/vriska_teen/angry.webp)
 
 <p class="vriska">VRISKA: *The spider doesn't do anything, 8ecause spiders don't have 8rains to make good choices. Instead, we're doomed to crawl around on our 8ellies like idiots, w8ing to 8e crushed under the giant furry ass of an animal so pathetic humans had to make up reasons to care a8out it, and with her luck she'll spend eternity 8uried alive under poop pellets du88ed the pharaoh of trash assholes and praying to die.*</p>
 
-![Davepeta, an eyebrow and fist raised throughtfully](images/1/characters/davepetasprite/davepeta_thinking.webp)
+![Davepeta, an eyebrow and fist raised throughtfully](assets/characters/davepetasprite/thinking.webp)
 
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> vriskers not to ask an obvious question but</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> are you good?</p>
 
-![Davepeta, with a concerned expression](images/1/characters/davepetasprite/davepeta_uncomfortable.webp)
+![Davepeta, with a concerned expression](assets/characters/davepetasprite/uncomfortable.webp)
 
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (uncomfortable): B33 <</span> you s33m... depressed</p>
 <p class="vriska">VRISKA: What are you talking a8out?</p>
@@ -348,7 +348,7 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 <p class="vriska">VRISKA: Finally moving on FROM THIS 8ORING M8ND NUM8ING SHIIIIIIITTY PUNISHM8NT PIT.</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> wrow</p>
 
-![Vriska, pouting](images/1/characters/vriska/vriska_sad.webp)
+![Vriska, pouting](assets/characters/vriska_teen/sad.webp)
 
 <p class="vriska">VRISKA: Sigh.</p>
 <p class="vriska">VRISKA: Can you please tell me what to do? And not in some coy, rounda8out way like you have 8een.</p>
@@ -360,7 +360,7 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (thinking): B33 <</span> ask me about mechanics or some dank catnip or even how to stunt down the stairs without breaking every bone in your body and i can chitter your ear off for another couple years</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> but countless cool dudes and kitty girls cant inform much on how to handle those classic serket problems</p>
 
-![Davepeta, with a neutral expression](images/1/characters/davepetasprite/davepeta_pokerface.webp)
+![Davepeta, with a neutral expression](assets/characters/davepetasprite/pokerface.webp)
 
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (pokerface): B33 <</span> feel me?</p>
 <p class="vriska">VRISKA: Soooooooo what you are saying is you can't help 8ecause you are the Ultimate Winged Weener and can't relate to 8eing a huge 8itch like me?</p>
@@ -368,7 +368,7 @@ You are now Vriska, and like any good Main Character, you find yourself on the p
 
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (pokerface): B33 <</span> w33ner</p>
 
-![Davepeta making a cute face with squinted eyes and kissy lips, curling their hands into paws. Bishi sparkles float next to them.](images/1/characters/davepetasprite/davepeta_cute.webp)
+![Davepeta making a cute face with squinted eyes and kissy lips, curling their hands into paws. Bishi sparkles float next to them.](assets/characters/davepetasprite/cute.webp)
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2 (cute): B33 <</span> but yeah thats pretty much how it is</p>
 
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> you know what they say theres purrppets and then theres pawppet33rs</p>

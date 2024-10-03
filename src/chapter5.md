@@ -1,6 +1,6 @@
 ## Chapter X
 
-![Chapter select button. An orange feather.](./images/chapterselect/davepeta.webp)
+![Chapter select button. An orange feather.](./assets/images/chapterselect/davepeta.webp)
 
 *Fade to white.*
 
@@ -8,47 +8,47 @@ Meanwhile...!
 
 *Fade to...*
 
-![Background: Vriska's bedroom](./images/vriskaroom.webp)
+![Background: Vriska's bedroom](./assets/images/vriskaroom.webp)
     
-![Davepeta, eyes lowered, looking unconomfortable.](./images/1/characters/davepetasprite/davepeta_uncomfortable.webp)
+![Davepeta, eyes lowered, looking unconomfortable.](./assets/characters/davepetasprite/uncomfortable.webp)
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2  (uncomfortable): B33 <</span> *dp hesitantly crawls up to their phone, curiously pawing at the device and feigning ignorance as though they don't know what the fuck it is because theyre kind of embarrassed to talk to the sprite^2 they know is at the other end*</p>
 
-![Davepeta with an eyebrow raised thoughtfully.](./images/1/characters/davepetasprite/davepeta_thinking.webp)
+![Davepeta with an eyebrow raised thoughtfully.](./assets/characters/davepetasprite/thinking.webp)
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2  (thinking): B33 <</span> *dp musters the strength to slowly inch a claw to the scr33n... will they answer in time... theyre lowkey starting to catch a vibe with that ringtone though... they might fuck around and toy with this vibe... having a grand old time with this vibe... whole time the vibe fears for its life, the vibe is trying to play dead but that would never stop ol' dp* uh oh...</p>
 
-![Erisolsprite](./images/4/characters/erisolsprite/erisolsprite_neutral.webp)
+![Erisolsprite](./assets/characters/erisolsprite/neutral.webp)
 <p class="erisolsprite">ERISOLSPRITE: dude.</p>
 <p class="erisolsprite">ERISOLSPRITE: ju2t an2wwer the fuckiin phone you obnoxiiou2 a22hole.</p>
 
 
-![Davepeta laughing uncomfortable.](./images/1/characters/davepetasprite/davepeta_laugh.webp)
+![Davepeta laughing uncomfortable.](./assets/characters/davepetasprite/laugh.webp)
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2  (laugh): B33 <</span> hahaha yeah i will, sorry man</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> whats shaking</p>
 
 *Slide in from left.*
-![Background: The frame of Vriska's room is split halfway down the middle, showing Midnight City.](./images/5/images/vriska_room_midnight_city.webp)
+![Background: The frame of Vriska's room is split halfway down the middle, showing Midnight City.](./assets/images/5/vriska_room_midnight_city.webp)
 
-![Jasprose with her arms folded disdainfully.](./images/5/characters/jasprose/jasprose_annoyed.webp)
+![Jasprose with her arms folded disdainfully.](./assets/characters/jasprose/annoyed.webp)
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2 (annoyed):</span> Hello? Haven't you heard it's rude to keep a lady waiting?</p>
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2 (annoyed):</span> I bet you were doing that thing where you start roleplaying outloud to yourself about picking up the phone instead of just picking the damn thing up.</p>
 
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2  (pokerface): B33 <</span> um</p>
 
-![Davepeta squinches their eyes and curls their fists into paws, making a kissy face.](./images/1/characters/davepetasprite/davepeta_cute.webp)
+![Davepeta squinches their eyes and curls their fists into paws, making a kissy face.](./assets/characters/davepetasprite/cute.webp)
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2  (cute): B33 <</span> nipah</p>
 
-![Jasprose cocks an eyebrow and puts her index finger on her chin.](./images/5/characters/jasprose/jasprose_thinking.webp)
+![Jasprose cocks an eyebrow and puts her index finger on her chin.](./assets/characters/jasprose/thinking.webp)
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2 (thinking):</span> I was beginning to think I wouldn't be able to get any service, what with all the interference between <span class="thepoint">The Plot Point's</span> hyperconcentrated essentiality field and Midnight City's superplausitional canonical deniability.</p>
 
-![Davepeta, with a neutral expression](./images/1/characters/davepetasprite/davepeta_pokerface.webp)
+![Davepeta, with a neutral expression](./assets/characters/davepetasprite/pokerface.webp)
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2  (pokerface): B33 <</span> i hate that i understand what youre saying when you speak like this</p>
 
-![Jasprose giggles.](./images/5/characters/jasprose/jasprose_laugh.webp)
+![Jasprose giggles.](./assets/characters/jasprose/laugh.webp)
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2 (laugh):</span> Isn't it delightful?</p>
 
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> well to reduce our word count and knead our poor brain biscuits ill since youve b33n gone, we just call it <span class="thepoint">The Point</span> now</p>
 
-![Jasprose, looking pleased.](./images/5/characters/jasprose/jasprose_pleased.webp)
+![Jasprose, looking pleased.](./assets/characters/jasprose/pleased.webp)
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2 (pleased):</span> How delightfully quirky! Let's get to ours, shall we?</p>
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2:</span> Personally, I've been having an incredible time!</p>
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2 (thinking):</span> Other than the Crocker patriarch and his new tall, dark, and loathsome beau hounding us.</p>
@@ -57,13 +57,13 @@ Meanwhile...!
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2 (annoyed):</span> Eugh!</p>
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2 (laugh):</span> But hey! Downing cold drinks and dodging hot lead, Midnight City certainly doesn't disappoint!</p>
 
-![Davepeta, uncomfortable](./images/1/characters/davepetasprite/davepeta_uncomfortable.webp)
+![Davepeta, uncomfortable](./assets/characters/davepetasprite/uncomfortable.webp)
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2  (uncomfortable): B33 <</span> jasprose... youve b33n drinking?</p>
 
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2 (annoyed):</span> Please.</p>
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2 (pleased):</span> You know it's only milk bars for me.</p>
 
-![Jasprose, curious](./images/5/characters/jasprose/jasprose_curious.webp)
+![Jasprose, curious](./assets/characters/jasprose/curious.webp)
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2 (curious):</span> Well, perhaps the occasional martini bar. Though with them, it's more difficult to find bartenders that won't bat an eye when I order a glass of that delectable matronal ambrosia.</p>
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2 (pleased):</span> Speaking of, I've made fantastic progress with the enchanting, yet problematic Ms. Crocker.</p>
 
@@ -86,7 +86,7 @@ Meanwhile...!
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2  (pokerface): B33 <</span> well i mean</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2  (pokerface): B33 <</span> its going</p>
 
-![Jasprose's eyes go wide, her hair, ears, and whiskers frizz up, and her princess hat jumps off her head.](./images/5/characters/jasprose/jasprose_shocked.webp)
+![Jasprose's eyes go wide, her hair, ears, and whiskers frizz up, and her princess hat jumps off her head.](./assets/characters/jasprose/shocked.webp)
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2 (shocked):</span> Damn!</p>
 <p class="jasprosesprite"><span class="prefix">JASPROSESPRITE^2 (thinking):</span> That bad?</p>
 
