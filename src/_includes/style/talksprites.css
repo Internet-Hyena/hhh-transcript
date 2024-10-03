@@ -9,16 +9,14 @@ img[src*="character"] {
 }
 
 /* if it's vriska, put her on the left */
-img[src*="character"]:is([src*="vriska"], [src*="jasprose"]):not([src*="vriska_paren"]) {
+img[src*="character"]:where([src*="vriska"], [src*="jasprose"]):not([src*="vriska_paren"]) {
     margin-left: 0;
-    margin-right: auto;
 }
 
 /* STUPID HACK: if it's Jasprosprite, flip her 180deg. */
 img[src*="jasprose"] {
     scale: -1.0 1;
     margin-left: 0;
-    margin-right: auto;
 }
 
 img[src*="fefeta/xc"] {
@@ -87,3 +85,15 @@ img[src*="fefeta/xc"] {
         opacity: 0;
     }
 }
+
+img[src*="character"]:is([src*="vriska_kid/disgusted"],[src*="vriska_kid/frustrated"]) {
+    margin-left: auto; margin-right: auto
+}
+
+img[src*="character"][src*="exploded_blood1"] { margin-left: 0; }
+img[src*="character"][src*="exploded_blood2"] { margin-left: auto; }
+img[src*="character"][src*="exploded_blood3"] { margin-left: 0; }
+img[src*="character"][src*="exploded_blood4"] { margin-left: auto; }
+img[src*="character"][src*="exploded_blood5"] { margin-left: 0; }
+img[src*="character"][src*="exploded_blood6"] { margin-left: auto; }
+img[src*="character"][src*="exploded_blood7"] { margin-left: 0; }
