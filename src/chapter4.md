@@ -94,7 +94,7 @@
 
 ### {ENTER SCRATCH'S PARLOR}
 
-*[Fade to white, then fade to...]*
+*[Fade to white, then...]*
 
 ![Background: The parlor of Doc Scratch.](./assets/images/4/scratchsparlor.webp)
 
@@ -193,14 +193,14 @@
 <p class="doc_scratch_center">We'll start with a variation of the King's Pawn opening.</p>
 <p class="doc_scratch_center">Thief to E4; Thief takes Page.</p>
 
-*Vriska jerks to the left. SFX: A bloody impact noise. The screen flashes umber brown.*
+*[Vriska jerks to the left. SFX: A bloody impact noise. The screen flashes umber brown.]*
 
 ![Young Vriska, terrified, splattered with blue and mustard-brown blood, hers and Tavros's.](./assets/characters/vriska_kid/exploded_blood1.webp)
 <p class="vriska">VRISKA: Fuck you!</p>
 
 <p class="doc_scratch_center">Thief to F5; Thief takes Maid.</p>
 
-*Vriska jerks to the right. SFX: A bloody impact noise. The screen flashes burgandy.*
+*[Vriska jerks to the right. SFX: A bloody impact noise. The screen flashes burgandy.]*
 
 ![Vriska splattered with rust-red blood, Aradia's](./assets/characters/vriska_kid/exploded_blood2.webp)
 
@@ -208,7 +208,7 @@
 
 <p class="doc_scratch_center">Thief to Z8; Thief takes Seer.</p>
 
-*Vriska jerks to the left. SFX: A bloody impact noise. The screen flashes teal.*
+*[Vriska jerks to the left. SFX: A bloody impact noise. The screen flashes teal.]*
 
 ![Vriska splattered with teal blood, Terezi's](./assets/characters/vriska_kid/exploded_blood3.webp)
 
@@ -219,7 +219,7 @@
 <p class="doc_scratch_center">All the world's my board.</p>
 <p class="doc_scratch_center">Thief to ∫40; Thief takes pawn.</p>
 
-*Vriska jerks to the right. SFX: A bloody impact noise, slightly slower. The screen flashes purple.*
+*[Vriska jerks to the right. SFX: A bloody impact noise, slightly slower. The screen flashes purple.]*
 
 ![Vriska splattered with purple blood, Eridan's](./assets/characters/vriska_kid/exploded_blood4.webp)
 
@@ -227,7 +227,7 @@
 
 <p class="doc_scratch_center">Thief to µ22; Thief takes pawn.</p>
 
-*Vriska jerks to the left. SFX: A bloody impact noise, slightly slower. The screen flashes purple.*
+*[Vriska jerks to the left. SFX: A bloody impact noise, slightly slower. The screen flashes purple.]*
 
 ![Vriska splattered with blue blood, Equius's](./assets/characters/vriska_kid/exploded_blood5.webp)
 
@@ -235,14 +235,14 @@
 
 <p class="doc_scratch_center">Thief to α612; Thief takes pawn.</p>
 
-*Vriska jerks to the right. SFX: A bloody impact noise, much slower. The screen flashes green.*
+*[Vriska jerks to the right. SFX: A bloody impact noise, much slower. The screen flashes green.]*
 
 ![Vriska splattered with jade blood, Kanaya's](./assets/characters/vriska_kid/exploded_blood6.webp)
 
 <p class="vriska">VRISKA: I'LL F8CKING K8LL YOU!</p>
 <p class="doc_scratch_center">Thief to Ω413; Thief takes pawn. Check.</p>
 
-*Vriska jerks to the left. SFX: A bloody impact noise, much slower. The screen flashes red.*
+*[Vriska jerks to the left. SFX: A bloody impact noise, much slower. The screen flashes red.]*
 
 ![Vriska splattered with bright red blood, Karkat's](./assets/characters/vriska_kid/exploded_blood7.webp)
 
@@ -253,7 +253,7 @@
 <p class="vriska">VRISKA: NONE OF THIS MEANS SHIT,</p>
 <p class="vriska">VRISKA: AND I'M NEVER GOING TO 8E CAUGHT UP IN YOUR FUCKING G8MES EVER AGAIN!!!!!!!!</p>
 
-*Vriska begins trembling.*
+*[Vriska begins trembling.]*
 
 <p class="doc_scratch_center">Of course you will.</p>
 <p class="doc_scratch_center">You think you're better than me? Better than fate?</p>
@@ -324,7 +324,7 @@
 <p class="doc_scratch_center">What'll it be, Vriska? Player, or piece?</p>
 <p class="doc_scratch_center">Thief to ∞108.</p>
 
-*Vriska slowly returns to the center of the frame. The screen fades to white.*
+*[Vriska slowly returns to the center of the frame. The screen fades to white.]*
 
 <p class="doc_scratch_center biggest">I look forward to finding out.</p>
 <p class="doc_scratch_center biggest">Good luck.</p>

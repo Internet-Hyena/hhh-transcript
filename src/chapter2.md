@@ -258,6 +258,8 @@
 
 ### {==>}
 
+*[Fade to black, then...]*
+
 ![Background: The Land of Maps of Treasure, Vriska's planet from her Sburb session.](assets/images/2/lomat.webp)
 
 ![Vriska, shoulders hunched, mouth agape in shock and anger. Her eyebrow twitches.](./assets/characters/vriska_teen/jawdrop.webp)

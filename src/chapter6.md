@@ -2,11 +2,11 @@
 
 ![Chapter select button. A Magic 8 Ball.](./assets/images/chapterselect/8ball.webp)
 
-*Black background.*
+*[Black background.]*
 
 <p class="box">LATER</p>
 
-*Fade to...*
+*[Fade to...]*
 
 ![Background: Vriska's room](./assets/images/vriskaroom.webp)
 
@@ -153,7 +153,7 @@
 <p class="vriska">VRISKA: Why are there two Nepetas?</p>
 <!-- vriska with slideoutleft -->
 
-*SFX: A video game damage noise, and a high pitched squeal.*
+*[SFX: A video game damage noise, and a high pitched squeal.]*
 
 <!-- sfx "chapters/6/audio/disappear.ogg" volume 0.75 noloop -->
 <!-- fefeta xc onlayer talksprites at right, fadeout with slideinright -->
@@ -201,13 +201,13 @@
 <p class="vriska">VRISKA: Alright fine, one hug 8efore I crush this and I'm outta here.</p>
 <!-- vriska with slideoutleft -->
 
-*SFX: Level up!*
+*[SFX: Level up!]*
 
 ![A simplistic MS Paint sketch of Davepeta hugging the reluctant Vriska. "Glomp!!!!"](./assets/images/6/Davepeta_Vriska-hug.webp)
 
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> yay</p>
 
-*Fade to...*
+*[Fade to...]*
 
 ![Closeup: Davepeta clutches the 8 ball and extends it toward Vriska.](assets/images/6/Davepeta_8ball.webp)
 
@@ -222,7 +222,7 @@
 
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> good luck vriska!</p>
 
-*Fade to black.*
+*[Fade to black.]*
 
 <p class="vriska">VRISKA: ...</p>
 
@@ -249,7 +249,7 @@
 
 ![Closeup. She turns around, revealing a teenage Vriska with empty white eyes. It's (Vriska), the ghost of her younger self from the Game Over timeline.](./assets/images/6/8ballVoid_4.webp)
 
-*The music stops.*
+*[The music stops.]*
 
 ![Background. A dream bubble. Green grass, red mountains, and a large green tree with red blossoms.](./assets/images/6/8ball.webp)
 

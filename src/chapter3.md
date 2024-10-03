@@ -10,7 +10,6 @@
 <p class="nannasprite">NANNASPRITE: Oh there you are!</p>
 <p class="nannasprite">NANNASPRITE: Feeling like you're getting your lucky mojo back again?</p>
 
-
 ![Vriska, visibly much older.](./assets/characters/vriska_adult/neutral.webp)
 <p class="vriska">VRISKA: Not really. ::::/</p>
 <p class="vriska">VRISKA: 8ut everyone has 8een trying so hard to cheer me up, I thought I'd give it another try.</p>
@@ -103,9 +102,10 @@
 
 ### \>  {Choose Mindfang's Journal.}
 
-*Fade to white.*
+*[Fade to white.]*
 
 ### \>  {????????}
+
 ![Background: A spider's web](./assets/images/3/web.webp)
 
 ![Sillouhette of the Marquise Spinneret Mindfang from the back, grinning with sharp teeth.](./assets/characters/mindmom/silhouette_blue.webp)
@@ -138,9 +138,9 @@
 ![Mindfang tapping her chin with a thoughtful and annoyed expression.](./assets/characters/mindmom/thinking_annoyed.webp)
 <p class="mindmom">Hmph!</p>
 
-*SFX. A chittering noise.*
+*[SFX. A chittering noise.]*
 
-*Fade transition.*
+*[The screen shakes, and fades to...]*
 
 ![Background: The craggy pit outside Vriska's hive, where her spider lusus lives](./assets/images/3/spidermom_pit.webp)
 
@@ -311,7 +311,7 @@
 <p class="mindmom">That proved a good call, as the spider had 100% planned on eating the girl.</p>
 <p class="mindmom">Instead, the long lim8 was retracted, placed 8etween the monster's own massive jaws.</p>
 
-*Pause. SFX: A reverberating crunch.*
+*[Pause. SFX: A reverberating crunch.]*
 
 ![Mindfang, in sillhouette.](./assets/characters/mindmom/silhouette.webp)
 <p class="mindmom">The spider would not notice when the girl turned to leave.</p>
@@ -319,10 +319,10 @@
 <p class="mindmom">The 8ound cover was closed on our trusted narr8tor, as she whispered these final words.</p>
 <p class="mindmom">“Good luck, Vriska.<br>8e assured, you will need it.”</p>
 
-*SFX: Reverberating footsteps, slowly walking away.*
+*[SFX: Reverberating footsteps, slowly walking away.]*
 
 ### \>  {Level Complete!}
 
-* Fade to white.*
+*[Fade to white.]*
 
 ![Level-up screen. Vriska attains the rank of "Funeral Pyre".](./assets/images/3/level_complete.webp)

@@ -2,11 +2,11 @@
 
 ![Chapter select button. An orange feather.](./assets/images/chapterselect/davepeta.webp)
 
-*Fade to white.*
+*[Fade to white.]*
 
 Meanwhile...!
 
-*Fade to...*
+*[Fade to...]*
 
 ![Background: Vriska's bedroom](./assets/images/vriskaroom.webp)
     
@@ -25,7 +25,7 @@ Meanwhile...!
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2  (laugh): B33 <</span> hahaha yeah i will, sorry man</p>
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2: B33 <</span> whats shaking</p>
 
-*Slide in from left.*
+*[Slide in from left.]*
 ![Background: The frame of Vriska's room is split halfway down the middle, showing Midnight City.](./assets/images/5/vriska_room_midnight_city.webp)
 
 ![Jasprose with her arms folded disdainfully.](./assets/characters/jasprose/annoyed.webp)
@@ -128,4 +128,4 @@ Meanwhile...!
 
 <p class="davepetasprite"><span class="prefix">DAVEPETASPRITE^2  (laugh): B33 <</span> god can you imagine</p>
 
-*Fade to white.*
+*[Fade to white.]*
