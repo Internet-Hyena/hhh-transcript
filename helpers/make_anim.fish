@@ -4,9 +4,14 @@
 # example: `make_anim aradiabot_facepalm 500 500 500 100 100 100 500 100 100`
 # converts ./aradiabot_facepalm1.png etc. to a webp with the given ms duration for each frame
 function make_anim --argument filename durations
-    set -fa pngs (string match -r $filename'_?\d+'.png (ls))
+    set -fa pngs (string match -r $filename'_?\d+\.png' (ls $filename""*))
     set -f durations $argv[2..]
-    set -f output ./$filename.webp
+    set -f output (path change-extension "webp" $filename)
+
+    if not set -q pngs[1]
+        echo "Could not find any matching PNG files."
+        return 1
+    end
 
     for i in (seq (count $pngs))
         if set -q durations[$i]
