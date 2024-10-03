@@ -1,0 +1,36 @@
+
+img[src*="character"] {
+    display: flex;
+    max-height: 300px;
+    margin-left: auto;
+}
+
+/* STUPID HACK: if it's vriska, put her on the left */
+img[src*="character"][src*="vriska"] {
+    margin-left: 0;
+    margin-right: auto;
+}
+/* STUPIDER HACK: if it's pre-retcon vriska put on the left. */
+img[src*="character"][src*="vriska_paren"] {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+/* STUPID HACK: if it's Jasprosprite, flip her 180deg. */
+img[src*="character"][src*="jasprose"] {
+    margin-left: auto;
+    transform: scaleX(-1.0);
+}
+
+img[src*="fefeta/xc"] {
+    animation: fefeta_die 4s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+}
+
+@keyframes fefeta_die {
+    from { opacity: 1; }
+    20% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 0; }
+}

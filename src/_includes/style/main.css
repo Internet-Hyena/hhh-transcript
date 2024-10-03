@@ -17,28 +17,6 @@ img {
     max-width: 100%;
 }
 
-img[src*="character"] {
-    display: block;
-    width: 100%;
-    max-height: 300px;
-    object-fit: contain;
-    object-position: right;
-}
-
-/* STUPID HACK: if it's vriska, put her on the left */
-img[src*="character"][src*="vriska"] {
-    object-position: left;
-}
-/* STUPIDER HACK: if it's pre-retcon vriska put on the left. */
-img[src*="character"][src*="vriska_paren"] {
-    object-position: right;
-}
-
-/* STUPID HACK: if it's Jasprosprite, flip her 180deg. */
-img[src*="character"][src*="jasprose"] {
-    transform: scaleX(-1.0);
-}
-
 .table-of-contents {
     font: var(--font-interface);
 }
@@ -100,17 +78,4 @@ h3, .command-box {
 h3::before {
     content: "> ";
     color: var(--fg-primary);
-}
-
-img[src*="fefetasprite_XC"] {
-    animation: dissolve_out 4s;
-    animation-fill-mode: forwards;
-    animation-iteration-count: infinite;
-}
-
-@keyframes dissolve_out {
-    from { opacity: 1; }
-    20% { opacity: 1; }
-    50% { opacity: 0; }
-    100% { opacity: 0; }
 }
